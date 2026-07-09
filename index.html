@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>頭城生活指南 - 在地人情味</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;500;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Noto Sans TC', sans-serif;
+            background-color: #fcfaf2; /* 溫暖的米色基調 */
+            color: #444;
+        }
+        .section-card {
+            transition: all 0.3s ease;
+            border-radius: 24px;
+        }
+        .section-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 12px 30px -10px rgba(0,0,0,0.1);
+        }
+        .btn-manual {
+            background: linear-gradient(135deg, #b45309 0%, #92400e 100%);
+            transition: all 0.2s;
+        }
+        .btn-manual:hover {
+            filter: brightness(1.1);
+            transform: scale(1.02);
+        }
+    </style>
+</head>
+<body class="antialiased">
+
+    <!-- 頂部標題區 -->
+    <header class="bg-stone-800 text-white py-16 px-6 text-center relative overflow-hidden">
+        <div class="relative z-10">
+            <h1 class="text-4xl md:text-6xl font-bold mb-4 tracking-tight">頭城生活指南</h1>
+            <p class="text-stone-300 text-xl font-light">來自《頭城二三事》：溫暖、便利、在地</p>
+        </div>
+        <!-- 裝飾性背景 -->
+        <div class="absolute top-0 left-0 w-full h-full opacity-10 pointer-events-none">
+            <svg viewBox="0 0 100 100" preserveAspectRatio="none" class="w-full h-full"><path d="M0 100 C 20 0 50 0 100 100 Z" fill="white"></path></svg>
+        </div>
+    </header>
+
+    <main class="max-w-7xl mx-auto p-6 md:p-12">
+        
+        <!-- 第一排：兩大核心區塊 -->
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-12">
+            
+            <!-- 區塊一：頭城導覽 -->
+            <section class="section-card bg-white p-8 border border-stone-100 shadow-sm">
+                <div class="flex items-center mb-8">
+                    <div class="bg-amber-100 p-4 rounded-2xl mr-4 text-3xl">🗺️</div>
+                    <h2 class="text-3xl font-bold text-amber-900">頭城導覽</h2>
+                </div>
+
+                <!-- 特別新增：人力資源手冊按鈕 -->
+                <a href="https://www.facebook.com/media/set/?set=a.769982439857259&type=3" target="_blank" 
+                   class="btn-manual block w-full text-white text-center py-5 rounded-2xl mb-8 shadow-md">
+                    <span class="text-lg opacity-80 block mb-1">社群精選資源</span>
+                    <span class="text-2xl font-bold tracking-wider">📖 點此查看《頭城人力資源手冊相簿》</span>
+                </a>
+
+                <div class="space-y-6">
+                    <div class="flex justify-between items-center bg-stone-50 p-4 rounded-xl">
+                        <div>
+                            <p class="text-xl font-bold">小鳳姐</p>
+                            <a href="tel:0928835107" class="text-amber-700 text-lg font-medium">0928-835-107</a>
+                        </div>
+                        <span class="text-stone-400">#在地諮詢</span>
+                    </div>
+                    <div class="flex justify-between items-center bg-stone-50 p-4 rounded-xl">
+                        <div>
+                            <p class="text-xl font-bold">頭城林志玲 吳康綺</p>
+                            <a href="https://www.facebook.com/havefuntoucheng" target="_blank" class="text-blue-600 hover:underline">臉書專頁專訪</a>
+                        </div>
+                        <a href="tel:039778635" class="text-amber-700 text-lg font-bold">03-977-8635</a>
+                    </div>
+                </div>
+            </section>
+
+            <!-- 區塊二：修車保養板金烤漆 -->
+            <section class="section-card bg-white p-8 border border-stone-100 shadow-sm">
+                <div class="flex items-center mb-8">
+                    <div class="bg-blue-100 p-4 rounded-2xl mr-4 text-3xl">🛠️</div>
+                    <h2 class="text-3xl font-bold text-blue-900">修車保養板金烤漆</h2>
+                </div>
+                
+                <div class="space-y-8">
+                    <div class="group">
+                        <a href="https://goo.gl/maps/tMwoFmtYY5wfLNFg9" target="_blank" class="text-2xl font-bold text-stone-800 group-hover:text-blue-600 underline underline-offset-8">
+                            盟達友立聖
+                        </a>
+                        <p class="mt-3 text-stone-500 leading-relaxed">專業汽車維修、板金與烤漆服務，在地信任老店。</p>
+                    </div>
+
+                    <div class="pt-6 border-t border-stone-100">
+                        <p class="text-sm font-bold text-stone-400 mb-4 tracking-widest">精緻洗車打蠟推薦</p>
+                        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                            <a href="https://goo.gl/maps/teNre4PREpWw5Aou6" target="_blank" class="bg-blue-50 p-4 rounded-xl text-blue-800 hover:bg-blue-100 font-medium">✨ 漢昇汽車美容</a>
+                            <a href="https://g.page/Yuchefang-coating?share" target="_blank" class="bg-blue-50 p-4 rounded-xl text-blue-800 hover:bg-blue-100 font-medium">✨ 浴車坊 車體鍍膜</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+
+        <!-- 生活分類區 (三欄佈局) -->
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            
+            <!-- 衣物與五金 -->
+            <div class="bg-white/50 p-6 rounded-3xl border border-stone-200">
+                <h3 class="text-xl font-bold mb-4 flex items-center text-stone-600">✂️ 衣物修改/五金</h3>
+                <ul class="space-y-3">
+                    <li><a href="https://goo.gl/maps/bfcBKtdYjd69iDqM6" target="_blank" class="hover:text-amber-700 underline">阿宗芋冰城附近修改</a></li>
+                    <li><a href="https://goo.gl/maps/vNLusydUSudh49kYA" target="_blank" class="hover:text-amber-700 underline">欣倡</a> / <a href="https://goo.gl/maps/w6yrgYqEE1m7Vsv2A" target="_blank" class="hover:text-amber-700 underline">秀惠裁縫</a></li>
+                    <li><a href="https://goo.gl/maps/goZAwSyooThDuxGx9" target="_blank" class="hover:text-amber-700 underline">錦道行 (買鈕扣/縫學號)</a></li>
+                </ul>
+            </div>
+
+            <!-- 水電、開鎖、廚具 -->
+            <div class="bg-white/50 p-6 rounded-3xl border border-stone-200">
+                <h3 class="text-xl font-bold mb-4 flex items-center text-stone-600">🔑 水電、開鎖與廚具</h3>
+                <ul class="space-y-3">
+                    <li><a href="https://goo.gl/maps/FLcjZgSRCTSCeegp8" target="_blank" class="hover:text-amber-700 underline font-medium text-lg">榮昌水電行</a></li>
+                    <li><a href="https://goo.gl/maps/uCtY4jPsZF6RETAf7" target="_blank" class="hover:text-amber-700 underline">世昌文具行 (開鎖)</a> / <a href="https://goo.gl/maps/QoqnJN35N4vtiPxY9" target="_blank" class="hover:text-amber-700 underline">頭城鎖匙</a></li>
+                    <li><a href="https://g.page/yushunlife?share" target="_blank" class="hover:text-amber-700 underline">裕順廚藝生活館 (瓦斯爐/廚具)</a></li>
+                </ul>
+            </div>
+
+            <!-- 醫療與按摩 -->
+            <div class="bg-white/50 p-6 rounded-3xl border border-stone-200">
+                <h3 class="text-xl font-bold mb-4 flex items-center text-stone-600">🏥 醫療與整復</h3>
+                <div class="mb-3">
+                    <a href="https://goo.gl/maps/HjazbH886zsEgf429" target="_blank" class="text-lg font-bold text-rose-700 underline">照仁診所</a>
+                    <p class="text-xs text-stone-500 mt-1">時段: 07:30-12:00 / 14:30-17:00 / 17:30-21:00</p>
+                </div>
+                <ul class="space-y-2">
+                    <li><a href="https://goo.gl/maps/8Dm7Aj4Pguy8HMBz5" target="_blank" class="hover:text-amber-700 underline">歇腳亭傳統整復推拿</a></li>
+                    <li><a href="https://goo.gl/maps/vFQzjZJWeWTWZqvp8" target="_blank" class="hover:text-amber-700 underline">陳江燦相命館 (算紫微)</a></li>
+                </ul>
+            </div>
+
+            <!-- 電腦與回收 -->
+            <div class="bg-white/50 p-6 rounded-3xl border border-stone-200">
+                <h3 class="text-xl font-bold mb-4 flex items-center text-stone-600">💻 電腦維修/回收</h3>
+                <ul class="space-y-3">
+                    <li><a href="https://goo.gl/maps/Gy3Z12r1F14k1iWw7" target="_blank" class="hover:text-amber-700 underline">寶輝科技</a> / <a href="https://goo.gl/maps/syoubTjUA1z56qt8A" target="_blank" class="hover:text-amber-700 underline">噶瑪蘭電腦</a></li>
+                    <div class="bg-stone-100 p-3 rounded-xl text-sm">
+                        <p class="font-bold text-stone-600 mb-1">♻️ 噶瑪蘭電腦回收資訊</p>
+                        <p>主機/筆電 $100 | 螢幕 $50</p>
+                        <p class="text-xs mt-1">余Sir: 0982-185600 (平日09-20時)</p>
+                    </div>
+                </ul>
+            </div>
+
+            <!-- 寵物與獸醫 -->
+            <div class="bg-white/50 p-6 rounded-3xl border border-stone-200">
+                <h3 class="text-xl font-bold mb-4 flex items-center text-stone-600">🐾 寵物與獸醫</h3>
+                <ul class="space-y-2">
+                    <li><a href="https://www.facebook.com/Pet.Taxi.Driver/" target="_blank" class="text-blue-600 underline">寵物計程車</a></li>
+                    <li class="text-sm font-medium mt-2">醫院專長：</li>
+                    <li class="text-sm">🐕 狗專長：六福、佳佳、維倫斯、台大羅東</li>
+                    <li class="text-sm">🐈 貓專長：葛瑪蘭動物醫院</li>
+                </ul>
+            </div>
+
+            <!-- 休閒與點心 -->
+            <div class="bg-white/50 p-6 rounded-3xl border border-stone-200">
+                <h3 class="text-xl font-bold mb-4 flex items-center text-stone-600">🍰 生活休閒</h3>
+                <ul class="space-y-3">
+                    <li><a href="https://g.page/tjuku-cafe?share" target="_blank" class="hover:text-amber-700 underline">啾咕咖啡 (美味千層)</a></li>
+                    <li><a href="https://goo.gl/maps/4y2S4i3vvawX1a4G9" target="_blank" class="hover:text-amber-700 underline">蘭博烏石港驛站 (滑板聖地)</a></li>
+                </ul>
+            </div>
+
+        </div>
+    </main>
+
+    <footer class="mt-24 py-12 bg-stone-800 text-stone-400 text-center">
+        <p class="mb-2 tracking-widest uppercase text-xs">Toucheng Life Guide</p>
+        <p class="text-lg font-light">點擊店家名稱即可開啟地圖導航</p>
+        <p class="mt-8 text-stone-600 text-sm italic">守護小鎮的人情味，從每一次的點擊開始。</p>
+    </footer>
+
+</body>
+</html>
