@@ -1,0 +1,30 @@
+(() => {
+  const data = Array.isArray(window.TOUCHENG_HISTORY) ? window.TOUCHENG_HISTORY : [];
+  const $ = (s) => document.querySelector(s);
+  const search=$('#historySearch'), dynasty=$('#dynastyFilter'), category=$('#categoryFilter'), source=$('#sourceFilter');
+  const sort=$('#sortOrder'), results=$('#historyResults'), summary=$('#resultSummary'), yearIndex=$('#yearIndex');
+  const empty=$('#emptyState'), quickTags=$('#quickTags'), viewToggle=$('#viewToggle'), journey=$('#journeyToggle');
+  let journeyTimer=null;
+  const normalize=(s='')=>s.toString().toLowerCase().replace(/\s+/g,'');
+  const escapeHTML=(s='')=>s.toString().replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const highlight=(text,q)=>{ if(!q) return escapeHTML(text); const safe=q.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'); return escapeHTML(text).replace(new RegExp(`(${safe})`,'ig'),'<mark>$1</mark>'); };
+  [...new Set(data.map(x=>x.dynasty))].forEach(v=>dynasty.add(new Option(v,v)));
+  const categories=[...new Set(data.flatMap(x=>x.categories))].sort((a,b)=>a.localeCompare(b,'zh-Hant'));
+  categories.forEach(v=>category.add(new Option(v,v)));
+  const quick=['港口與海洋','交通與建設','信仰與祭典','教育與文化','生活誌','商業發展','社群紀錄','地方記憶'];
+  quick.filter(v=>categories.includes(v)).forEach(v=>{const b=document.createElement('button');b.type='button';b.className='tag-filter';b.textContent=v;b.dataset.category=v;quickTags.append(b)});
+  function state(){return {q:search.value.trim(),d:dynasty.value,c:category.value,s:source.value,order:sort.value}}
+  function filtered(){const s=state(),nq=normalize(s.q);return data.filter(x=>{const hay=normalize([x.date,x.year,x.dynasty,x.era,x.ganzhi,x.title,x.event,x.source,x.sourceType,...x.categories].join(' '));return(!nq||hay.includes(nq))&&(!s.d||x.dynasty===s.d)&&(!s.c||x.categories.includes(s.c))&&(!s.s||x.recordType===s.s)}).sort((a,b)=>s.order==='asc'?(a.date||a.year).toString().localeCompare((b.date||b.year).toString()):(b.date||b.year).toString().localeCompare((a.date||a.year).toString()))}
+  function badge(x){return x.recordType==='supplement'?'<span class="source-badge supplement">網站補充整理</span>':'<span class="source-badge manuscript">地方史手稿</span>'}
+  function card(x,q){const cats=x.categories.map(c=>`<button class="event-tag" type="button" data-pick-category="${escapeHTML(c)}">${escapeHTML(c)}</button>`).join('');return `<article class="history-card ${x.recordType}" id="event-${x.id}" data-year="${x.year}"><div class="event-year"><span>${escapeHTML(x.date||x.year)}</span><small>${escapeHTML(x.dynasty)}</small></div><div class="event-body"><div class="event-heading"><div>${badge(x)}<p class="event-era">${escapeHTML(x.era)}${x.ganzhi?'・'+escapeHTML(x.ganzhi):''}</p><h2>${highlight(x.title,q)}</h2></div><button class="permalink" type="button" data-copy-link="event-${x.id}" aria-label="複製此事件連結">#</button></div><div class="event-tags">${cats}</div><p class="event-text">${highlight(x.event,q)}</p><div class="why-note"><strong>為什麼記錄？</strong><span>${escapeHTML(x.importance)}</span></div><details class="source-details"><summary>資料來源與閱讀提醒</summary><dl><div><dt>來源</dt><dd>${escapeHTML(x.source)}</dd></div><div><dt>資料位置</dt><dd>${escapeHTML(x.sourceType)}</dd></div><div><dt>整理狀態</dt><dd>${escapeHTML(x.reviewStatus)}</dd></div></dl><p>${x.recordType==='supplement'?'此筆為網站補充紀錄，與莊錫財手稿分開保存；日期、摘要與在地記憶可隨新資料持續補充。':'此處顯示手稿辨識原文。標題與主題標籤僅供導覽，不替代原始史料與後續研究。'}</p></details></div></article>`}
+  function render(){const items=filtered(),s=state();summary.textContent=(s.q||s.d||s.c||s.s)?`找到 ${items.length} 筆符合條件的紀錄`:`顯示全部 ${items.length} 筆紀錄`;results.innerHTML=items.map(x=>card(x,s.q)).join('');empty.hidden=items.length!==0;results.hidden=items.length===0;const years=[...new Set(items.map(x=>Math.floor(x.year/10)*10))].sort((a,b)=>b-a);yearIndex.innerHTML=years.map(y=>`<a href="#event-${items.find(x=>Math.floor(x.year/10)*10===y).id}">${y}年代</a>`).join('');document.querySelectorAll('[data-pick-category]').forEach(b=>b.onclick=()=>{category.value=b.dataset.pickCategory;syncQuick();render();document.querySelector('.archive-toolbar').scrollIntoView({behavior:'smooth',block:'start'})});document.querySelectorAll('[data-copy-link]').forEach(b=>b.onclick=async()=>{const url=`${location.href.split('#')[0]}#${b.dataset.copyLink}`;try{await navigator.clipboard.writeText(url);b.textContent='✓';setTimeout(()=>b.textContent='#',1200)}catch{location.hash=b.dataset.copyLink}})}
+  function syncQuick(){document.querySelectorAll('.tag-filter').forEach(b=>b.classList.toggle('active',b.dataset.category===category.value))}
+  [search,dynasty,category,source,sort].forEach(el=>el.addEventListener(el===search?'input':'change',()=>{syncQuick();render()}));
+  quickTags.addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;category.value=category.value===b.dataset.category?'':b.dataset.category;syncQuick();render()});
+  function reset(){search.value='';dynasty.value='';category.value='';source.value='';sort.value='asc';syncQuick();render();search.focus()}
+  $('#resetFilters').onclick=reset;$('#emptyReset').onclick=reset;
+  viewToggle.onclick=()=>{const compact=results.classList.toggle('compact');viewToggle.setAttribute('aria-pressed',String(compact));viewToggle.textContent=compact?'切換完整閱讀':'切換精簡閱讀'};
+  journey?.addEventListener('click',()=>{if(journeyTimer){clearInterval(journeyTimer);journeyTimer=null;journey.textContent='開始歷史漫遊';return;}const cards=[...document.querySelectorAll('.history-card')];let i=0;journey.textContent='停止漫遊';const move=()=>{if(i>=cards.length){clearInterval(journeyTimer);journeyTimer=null;journey.textContent='開始歷史漫遊';return;}cards[i++].scrollIntoView({behavior:'smooth',block:'center'});};move();journeyTimer=setInterval(move,2800)});
+  document.addEventListener('keydown',e=>{if(e.key==='/'&&!/input|textarea|select/i.test(document.activeElement.tagName)){e.preventDefault();search.focus()}});
+  render();if(location.hash)setTimeout(()=>document.querySelector(location.hash)?.scrollIntoView({behavior:'smooth',block:'center'}),100);
+})();
