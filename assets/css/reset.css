@@ -1,0 +1,1 @@
+*,*::before,*::after{box-sizing:border-box}html{scroll-behavior:smooth}body,h1,h2,h3,p,figure{margin:0}body{min-height:100vh}img,svg{display:block;max-width:100%}button,input{font:inherit}a{color:inherit;text-decoration:none}ul{margin:0;padding:0;list-style:none}
