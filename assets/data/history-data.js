@@ -1,317 +1,43 @@
 window.TOUCHENG_HISTORY = [
   {
-    "id": "2024-01-29-cultural-park-landscape-work",
-    "date": "2024-01-29",
+    "id": "2026-07-28-mimi-veggie-chicken",
+    "date": "2026-07-28",
     "dynasty": "中華民國",
-    "era": "民國113年",
+    "era": "民國115年",
     "ganzhi": "",
-    "year": 2024,
-    "title": "頭城文創園區景觀改造工程開始",
-    "event": "2024年1月29日，頭城鎮公所以環境維護為由進場施工，挖除園區綠地、移除部分樹木，並改以大面積鋪面取代原有草地景觀。工程後續引起居民、公民團體及文化資產關注者討論。",
+    "year": 2026,
+    "title": "米米蔬雞開幕",
+    "event": "米米蔬雞於 2026 年 7 月 28 日開幕，為頭城餐飲市場增加新的蔬食與雞肉料理選擇，記錄地方飲食需求與店家型態的持續變化。",
     "categories": [
-      "文化資產",
-      "公共空間",
-      "景觀改造",
-      "地方公共議題",
-      "地方變遷"
+      "生活誌",
+      "商業發展",
+      "餐飲"
     ],
-    "source": "公視新聞／頭城二三事影像紀錄",
-    "sourceType": "新聞紀錄與地方影像",
-    "reviewStatus": "事件日期與在地觀點由頭城二三事補充；新聞報導日期為2024年1月30日。",
+    "source": "頭城二三事提供／網站補充整理",
+    "sourceType": "地方生活史與社群記憶",
+    "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源",
     "recordType": "community",
-    "importance": "此事件反映歷史建築周邊環境維護、公共空間設計與文化資產保存之間的平衡議題。許多居民認為改造後失去原有綠意與歷史氛圍。",
-    "sourceUrl": "https://news.pts.org.tw/article/678799",
-    "images": [
-      {
-        "src": "assets/images/places/toucheng-cultural-park/before.jpg",
-        "alt": "頭城文創園區施工前的綠地與樹木景觀",
-        "caption": "施工前：樹木、草地與歷史建築共同構成開放綠地景觀。"
-      },
-      {
-        "src": "assets/images/places/toucheng-cultural-park/after.png",
-        "alt": "頭城文創園區施工後的大面積鋪面景觀",
-        "caption": "施工後：部分樹木與草地被移除，空間改為大面積鋪面。"
-      }
-    ]
+    "importance": "保存新店家進入地方生活圈的時間點，作為未來回看頭城商業變遷的基礎資料。"
   },
   {
-    "id": "2024-01-30-cultural-park-pts-report",
-    "date": "2024-01-30",
+    "id": "2026-07-24-donburi-open",
+    "date": "2026-07-24",
     "dynasty": "中華民國",
-    "era": "民國113年",
+    "era": "民國115年",
     "ganzhi": "",
-    "year": 2024,
-    "title": "公視報導頭城文創園區環境維護工程爭議",
-    "event": "公視新聞報導頭城文創園區環境維護工程爭議。報導記錄居民與公民團體對施工程序及歷史建築周邊景觀變動的質疑，以及宜蘭縣政府要求暫停工程並恢復現場原狀的回應。",
+    "year": 2026,
+    "title": "「丼飯！」正式營業",
+    "event": "「丼飯！」於民鋒路78-2號正式營業，供應牛五花、羊肉、豬五花及去骨雞腿等丼飯。",
     "categories": [
-      "文化資產",
-      "新聞紀錄",
-      "地方公共議題",
-      "頭城文創園區"
+      "生活誌",
+      "餐飲",
+      "店家開幕"
     ],
-    "source": "公視新聞網",
-    "sourceType": "新聞媒體",
-    "reviewStatus": "依公視新聞報導整理。",
-    "recordType": "news",
-    "importance": "保留事件發生後的公共討論與政府回應，與1月29日施工事件分開記錄。",
-    "sourceUrl": "https://news.pts.org.tw/article/678799"
-  },
-  {
-    "id": "1954-gao-dejin-arrives",
-    "date": "1954",
-    "dynasty": "中華民國",
-    "era": "民國43年",
-    "ganzhi": "",
-    "year": 1954,
-    "title": "高德晉神父來到頭城傳教",
-    "event": "荷蘭籍遣使會神父高德晉來到頭城展開傳教工作，成為頭城天主堂後續發展的重要起點。",
-    "categories": [
-      "宗教信仰",
-      "地方人物"
-    ],
-    "source": "燦景工作室《覓境》",
-    "sourceType": "地方出版與文史整理",
-    "reviewStatus": "依使用者整理之《覓境》內容建檔；後續可補上書頁與出版資訊。",
-    "recordType": "local_history",
-    "importance": "開啟頭城天主堂戰後傳教、教育與社會服務的長期發展。"
-  },
-  {
-    "id": "1958-catholic-church-moves-qingyun",
-    "date": "1958",
-    "dynasty": "中華民國",
-    "era": "民國47年",
-    "ganzhi": "",
-    "year": 1958,
-    "title": "頭城天主堂遷至青雲路",
-    "event": "高德晉神父將聖堂遷往青雲路。隨著教友增加，他返回荷蘭募款，並攜回歐洲圓頂教堂圖面，作為新聖堂設計依據。",
-    "categories": [
-      "宗教信仰",
-      "宗教建築",
-      "街區發展"
-    ],
-    "source": "燦景工作室《覓境》",
-    "sourceType": "地方出版與文史整理",
-    "reviewStatus": "依使用者整理之《覓境》內容建檔；後續可補上書頁與出版資訊。",
-    "recordType": "local_history",
-    "importance": "為後來聖伯多祿堂興建奠定基礎。"
-  },
-  {
-    "id": "1960-01-st-peter-construction",
-    "date": "1960-01",
-    "dynasty": "中華民國",
-    "era": "民國49年",
-    "ganzhi": "",
-    "year": 1960,
-    "title": "聖伯多祿堂新建工程開工",
-    "event": "頭城天主堂、道理廳、神父住所與廚房等新建工程正式開工。",
-    "categories": [
-      "宗教建築",
-      "地方建設"
-    ],
-    "source": "燦景工作室《覓境》",
-    "sourceType": "地方出版與文史整理",
-    "reviewStatus": "依使用者整理之《覓境》內容建檔；後續可補上書頁與出版資訊。",
-    "recordType": "local_history",
-    "importance": "記錄頭城重要宗教建築的興建起點。"
-  },
-  {
-    "id": "1960-07-30-st-peter-opens",
-    "date": "1960-07-30",
-    "dynasty": "中華民國",
-    "era": "民國49年",
-    "ganzhi": "",
-    "year": 1960,
-    "title": "聖伯多祿堂落成啟用",
-    "event": "新聖堂完工啟用，命名為「聖伯多祿堂」。建築以「大金瓜」型銅皮圓頂與洗石子牆身為特色，成為當時頭城市街醒目的地標。",
-    "categories": [
-      "宗教建築",
-      "文化地景",
-      "信仰與祭典"
-    ],
-    "source": "燦景工作室《覓境》",
-    "sourceType": "地方出版與文史整理",
-    "reviewStatus": "依使用者整理之《覓境》內容建檔；後續可補上書頁與出版資訊。",
-    "recordType": "local_history",
-    "importance": "聖堂的圓頂與建築形式成為頭城具辨識度的文化地景。"
-  },
-  {
-    "id": "1963-renai-kindergarten",
-    "date": "1963",
-    "dynasty": "中華民國",
-    "era": "民國52年",
-    "ganzhi": "",
-    "year": 1963,
-    "title": "仁愛幼稚園創辦",
-    "event": "修女們購買一處綜合醫院舊址，創辦「仁愛幼稚園」，使天主堂的地方服務延伸至幼兒教育。",
-    "categories": [
-      "教育與文化",
-      "宗教服務"
-    ],
-    "source": "燦景工作室《覓境》",
-    "sourceType": "地方出版與文史整理",
-    "reviewStatus": "依使用者整理之《覓境》內容建檔；後續可補上書頁與出版資訊。",
-    "recordType": "local_history",
-    "importance": "呈現宗教團體對地方幼兒教育的投入。"
-  },
-  {
-    "id": "1966-starfish-fishery-mutual-aid",
-    "date": "1966",
-    "dynasty": "中華民國",
-    "era": "民國55年",
-    "ganzhi": "",
-    "year": 1966,
-    "title": "頭城海星漁業生產互助會成立",
-    "event": "衛宗賢神父因大溪漁民收入不穩，成立「頭城海星漁業生產互助會」，並獲荷蘭政府資助建造漁船供漁民使用。",
-    "categories": [
-      "漁業",
-      "社會互助",
-      "宗教服務"
-    ],
-    "source": "燦景工作室《覓境》",
-    "sourceType": "地方出版與文史整理",
-    "reviewStatus": "依使用者整理之《覓境》內容建檔；後續可補上書頁與出版資訊。",
-    "recordType": "local_history",
-    "importance": "將宗教服務延伸至漁業生計與社區互助。"
-  },
-  {
-    "id": "1966-polio-children-support",
-    "date": "1966",
-    "dynasty": "中華民國",
-    "era": "民國55年",
-    "ganzhi": "",
-    "year": 1966,
-    "title": "展開小兒麻痺兒童協助工作",
-    "event": "高德晉神父與羅文思神父開始協助小兒麻痺兒童。依《覓境》整理，相關工作持續至1995年，累計協助千餘名兒童。",
-    "categories": [
-      "醫療照護",
-      "社會福利",
-      "宗教服務"
-    ],
-    "source": "燦景工作室《覓境》",
-    "sourceType": "地方出版與文史整理",
-    "reviewStatus": "「千餘名」依《覓境》資料保留，後續可補充更完整統計來源。",
-    "recordType": "local_history",
-    "importance": "記錄頭城天主堂長期投入兒童照護與復健服務。"
-  },
-  {
-    "id": "1967-st-paul-credit-union",
-    "date": "1967",
-    "dynasty": "中華民國",
-    "era": "民國56年",
-    "ganzhi": "",
-    "year": 1967,
-    "title": "聖保祿儲蓄互助會成立",
-    "event": "頭城天主堂成立「聖保祿儲蓄互助會」，向教友推廣儲蓄與理財觀念。",
-    "categories": [
-      "社會互助",
-      "金融教育",
-      "宗教團體"
-    ],
-    "source": "燦景工作室《覓境》",
-    "sourceType": "地方出版與文史整理",
-    "reviewStatus": "依使用者整理之《覓境》內容建檔；後續可補上書頁與出版資訊。",
-    "recordType": "local_history",
-    "importance": "反映宗教團體在地方經濟互助與生活教育上的角色。"
-  },
-  {
-    "id": "1970-rehab-fundraising",
-    "date": "1970",
-    "dynasty": "中華民國",
-    "era": "民國59年",
-    "ganzhi": "",
-    "year": 1970,
-    "title": "發起文聲復健院募款",
-    "event": "為興建專門服務小兒麻痺孩童的復健場所，發起募款活動，共募得新臺幣120萬元。",
-    "categories": [
-      "社會福利",
-      "醫療照護",
-      "募款"
-    ],
-    "source": "燦景工作室《覓境》",
-    "sourceType": "地方出版與文史整理",
-    "reviewStatus": "依使用者整理之《覓境》內容建檔；後續可補上書頁與出版資訊。",
-    "recordType": "local_history",
-    "importance": "地方與教會共同支持復健照護設施的形成。"
-  },
-  {
-    "id": "1971-wensheng-rehab-opens",
-    "date": "1971",
-    "dynasty": "中華民國",
-    "era": "民國60年",
-    "ganzhi": "",
-    "year": 1971,
-    "title": "文聲復健院落成啟用",
-    "event": "「文聲復健院」正式落成，由羅文思神父與包宜航神父共同照顧孩童，提供復健、診療與住宿空間。",
-    "categories": [
-      "醫療照護",
-      "社會福利",
-      "宗教服務"
-    ],
-    "source": "燦景工作室《覓境》",
-    "sourceType": "地方出版與文史整理",
-    "reviewStatus": "依使用者整理之《覓境》內容建檔；後續可補上書頁與出版資訊。",
-    "recordType": "local_history",
-    "importance": "成為頭城宗教與社會福利史的重要節點。"
-  },
-  {
-    "id": "2010-catholic-restoration-opportunity",
-    "date": "2010",
-    "dynasty": "中華民國",
-    "era": "民國99年",
-    "ganzhi": "",
-    "year": 2010,
-    "title": "頭城天主堂修復契機形成",
-    "event": "文化資產局補助頭城老街屋門面整修；原計畫整修北門福德祠旁街屋，後因產權問題，轉而開啟修復頭城天主堂的契機。",
-    "categories": [
-      "文化資產",
-      "建築修復",
-      "宗教建築"
-    ],
-    "source": "燦景工作室《覓境》",
-    "sourceType": "地方出版與文史整理",
-    "reviewStatus": "依使用者整理之《覓境》內容建檔；後續可補上書頁與出版資訊。",
-    "recordType": "local_history",
-    "importance": "記錄宗教建築保存與老街修復政策相互連結的過程。"
-  },
-  {
-    "id": "2012-catholic-facade-restored",
-    "date": "2012",
-    "dynasty": "中華民國",
-    "era": "民國101年",
-    "ganzhi": "",
-    "year": 2012,
-    "title": "頭城天主堂正立面整修完成",
-    "event": "聖堂正立面牆面完成整修，恢復較接近早期的樸質外觀。",
-    "categories": [
-      "文化資產",
-      "建築修復",
-      "宗教建築"
-    ],
-    "source": "燦景工作室《覓境》",
-    "sourceType": "地方出版與文史整理",
-    "reviewStatus": "依使用者整理之《覓境》內容建檔；後續可補上書頁與出版資訊。",
-    "recordType": "local_history",
-    "importance": "保存聖堂立面與街區文化景觀。"
-  },
-  {
-    "id": "2015-catholic-restoration-complete",
-    "date": "2015",
-    "dynasty": "中華民國",
-    "era": "民國104年",
-    "ganzhi": "",
-    "year": 2015,
-    "title": "頭城天主堂全面修復完成",
-    "event": "完成圓頂鋼構、木構、銅瓦、銅十字架、平屋頂防水，以及內外牆等全面修復工程。",
-    "categories": [
-      "文化資產",
-      "宗教建築",
-      "修復工程"
-    ],
-    "source": "燦景工作室《覓境》",
-    "sourceType": "地方出版與文史整理",
-    "reviewStatus": "依使用者整理之《覓境》內容建檔；後續可補上書頁與出版資訊。",
-    "recordType": "local_history",
-    "importance": "延續聖伯多祿堂具辨識度的圓頂與建築特色。"
+    "source": "頭城二三事地方紀錄（使用者提供）",
+    "sourceType": "地方生活史與社群記憶",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
+    "recordType": "community",
+    "importance": ""
   },
   {
     "id": "2026-07-01-black-white-dessert",
@@ -332,351 +58,6 @@ window.TOUCHENG_HISTORY = [
     "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源。",
     "recordType": "community",
     "importance": "保存地方店家出現的時間點，作為未來回看頭城生活與商業變遷的基礎資料。"
-  },
-  {
-    "id": "2026-04-26-oldstreet-tofu-trial",
-    "date": "2026-04-26",
-    "dynasty": "中華民國",
-    "era": "民國115年",
-    "ganzhi": "",
-    "year": 2026,
-    "title": "頭城老街鹽滷豆花新店面開始試賣",
-    "event": "頭城老街鹽滷豆花於2026年4月26日在新店面開始試賣，記錄地方店家空間更新與營業延續。",
-    "categories": [
-      "生活誌",
-      "商業發展",
-      "餐飲"
-    ],
-    "source": "頭城二三事提供／網站補充整理",
-    "sourceType": "地方生活史與社群記憶",
-    "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源。",
-    "recordType": "community",
-    "importance": "保存地方店家出現的時間點，作為未來回看頭城生活與商業變遷的基礎資料。"
-  },
-  {
-    "id": "2022-12-29-poya-beauty",
-    "date": "2022-12-29",
-    "dynasty": "中華民國",
-    "era": "民國111年",
-    "ganzhi": "",
-    "year": 2022,
-    "title": "POYA寶雅｜Beauty開幕",
-    "event": "POYA寶雅｜Beauty於2022年12月29日開幕，為頭城零售與美妝消費增加新的連鎖服務據點。",
-    "categories": [
-      "生活誌",
-      "商業發展",
-      "零售"
-    ],
-    "source": "頭城二三事提供／網站補充整理",
-    "sourceType": "地方生活史與社群記憶",
-    "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源。",
-    "recordType": "community",
-    "importance": "保存地方店家出現的時間點，作為未來回看頭城生活與商業變遷的基礎資料。"
-  },
-  {
-    "id": "2022-12-04-333-cafe",
-    "date": "2022-12-04",
-    "dynasty": "中華民國",
-    "era": "民國111年",
-    "ganzhi": "",
-    "year": 2022,
-    "title": "333咖啡和食開幕",
-    "event": "333咖啡和食於2022年12月4日開幕，加入頭城咖啡與餐飲生活。",
-    "categories": [
-      "生活誌",
-      "商業發展",
-      "餐飲"
-    ],
-    "source": "頭城二三事提供／網站補充整理",
-    "sourceType": "地方生活史與社群記憶",
-    "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源。",
-    "recordType": "community",
-    "importance": "保存地方店家出現的時間點，作為未來回看頭城生活與商業變遷的基礎資料。"
-  },
-  {
-    "id": "2022-06-15-river-stone",
-    "date": "2022-06-15",
-    "dynasty": "中華民國",
-    "era": "民國111年",
-    "ganzhi": "",
-    "year": 2022,
-    "title": "RIVER STONE川岩開幕",
-    "event": "RIVER STONE川岩於2022年6月15日開幕，成為頭城地方餐飲與聚會空間之一。",
-    "categories": [
-      "生活誌",
-      "商業發展",
-      "餐飲"
-    ],
-    "source": "頭城二三事提供／網站補充整理",
-    "sourceType": "地方生活史與社群記憶",
-    "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源。",
-    "recordType": "community",
-    "importance": "保存地方店家出現的時間點，作為未來回看頭城生活與商業變遷的基礎資料。"
-  },
-  {
-    "id": "2022-01-25-lancheng-yufei",
-    "date": "2022-01-25",
-    "dynasty": "中華民國",
-    "era": "民國111年",
-    "ganzhi": "",
-    "year": 2022,
-    "title": "蘭城雨啡開幕",
-    "event": "蘭城雨啡於2022年1月25日開幕，加入頭城咖啡館與地方休憩空間。",
-    "categories": [
-      "生活誌",
-      "商業發展",
-      "餐飲"
-    ],
-    "source": "頭城二三事提供／網站補充整理",
-    "sourceType": "地方生活史與社群記憶",
-    "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源。",
-    "recordType": "community",
-    "importance": "保存地方店家出現的時間點，作為未來回看頭城生活與商業變遷的基礎資料。"
-  },
-  {
-    "id": "2022-01-11-kanea-kitchen",
-    "date": "2022-01-11",
-    "dynasty": "中華民國",
-    "era": "民國111年",
-    "ganzhi": "",
-    "year": 2022,
-    "title": "Kanea廚房開幕",
-    "event": "Kanea廚房於2022年1月11日開幕，記錄頭城餐飲店家持續增加與類型多元化。",
-    "categories": [
-      "生活誌",
-      "商業發展",
-      "餐飲"
-    ],
-    "source": "頭城二三事提供／網站補充整理",
-    "sourceType": "地方生活史與社群記憶",
-    "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源。",
-    "recordType": "community",
-    "importance": "保存地方店家出現的時間點，作為未來回看頭城生活與商業變遷的基礎資料。"
-  },
-  {
-    "id": "2021-10-23-jinghaomai",
-    "date": "2021-10-23",
-    "dynasty": "中華民國",
-    "era": "民國110年",
-    "ganzhi": "",
-    "year": 2021,
-    "title": "勁好麥烘焙開幕",
-    "event": "勁好麥烘焙於2021年10月23日開幕，成為頭城居民日常購買麵包與烘焙食品的新選擇。",
-    "categories": [
-      "生活誌",
-      "商業發展",
-      "餐飲"
-    ],
-    "source": "頭城二三事提供／網站補充整理",
-    "sourceType": "地方生活史與社群記憶",
-    "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源。",
-    "recordType": "community",
-    "importance": "保存地方店家出現的時間點，作為未來回看頭城生活與商業變遷的基礎資料。"
-  },
-  {
-    "id": "2017-world-bay-complete",
-    "date": "2017-12",
-    "dynasty": "中華民國",
-    "era": "民國106年",
-    "ganzhi": "",
-    "year": 2017,
-    "title": "世界灣完工",
-    "event": "世界灣於2017年底完工，地上29層，成為頭城沿海天際線的重要指標性建築之一。",
-    "categories": [
-      "都市發展",
-      "指標建築",
-      "高樓住宅"
-    ],
-    "source": "頭城二三事提供／網站補充整理",
-    "sourceType": "地方生活史與社群記憶",
-    "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源。",
-    "recordType": "community",
-    "importance": "記錄頭城近年都市天際線、旅宿供給與觀光空間的變化。"
-  },
-  {
-    "id": "2018-oh1796-complete",
-    "date": "2018-04",
-    "dynasty": "中華民國",
-    "era": "民國107年",
-    "ganzhi": "",
-    "year": 2018,
-    "title": "OH！1796完工",
-    "event": "OH！1796於2018年4月完工，地上23層，成為頭城市區具辨識度的高樓住宅建築。",
-    "categories": [
-      "都市發展",
-      "指標建築",
-      "高樓住宅"
-    ],
-    "source": "頭城二三事提供／網站補充整理",
-    "sourceType": "地方生活史與社群記憶",
-    "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源。",
-    "recordType": "community",
-    "importance": "記錄頭城近年都市天際線、旅宿供給與觀光空間的變化。"
-  },
-  {
-    "id": "2020-10-langju-hotel",
-    "date": "2020-10",
-    "dynasty": "中華民國",
-    "era": "民國109年",
-    "ganzhi": "",
-    "year": 2020,
-    "title": "朗居文旅開幕",
-    "event": "朗居文旅於2020年10月開幕，成為頭城市區近年旅宿發展的重要節點。",
-    "categories": [
-      "都市發展",
-      "旅宿",
-      "觀光與旅遊"
-    ],
-    "source": "頭城二三事提供／網站補充整理",
-    "sourceType": "地方生活史與社群記憶",
-    "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源。",
-    "recordType": "community",
-    "importance": "記錄頭城近年都市天際線、旅宿供給與觀光空間的變化。"
-  },
-  {
-    "id": "2021-02-01-lywushih-hotel-trial",
-    "date": "2021-02-01",
-    "dynasty": "中華民國",
-    "era": "民國110年",
-    "ganzhi": "",
-    "year": 2021,
-    "title": "蘭陽烏石港海景酒店開始試營運",
-    "event": "蘭陽烏石港海景酒店於2021年2月1日開始試營運，記錄烏石港周邊大型旅宿與觀光服務的發展。",
-    "categories": [
-      "都市發展",
-      "旅宿",
-      "烏石港",
-      "觀光與旅遊"
-    ],
-    "source": "頭城二三事提供／網站補充整理",
-    "sourceType": "地方生活史與社群記憶",
-    "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源。",
-    "recordType": "community",
-    "importance": "記錄頭城近年都市天際線、旅宿供給與觀光空間的變化。"
-  },
-  {
-    "id": "2021-12-04-oa-hotel-trial",
-    "date": "2021-12-04",
-    "dynasty": "中華民國",
-    "era": "民國110年",
-    "ganzhi": "",
-    "year": 2021,
-    "title": "烏石港 OA HOTEL開始試營運",
-    "event": "烏石港 OA HOTEL於2021年12月4日開始試營運，成為烏石港海洋休閒與住宿服務的重要據點。",
-    "categories": [
-      "都市發展",
-      "旅宿",
-      "烏石港",
-      "觀光與旅遊"
-    ],
-    "source": "頭城二三事提供／網站補充整理",
-    "sourceType": "地方生活史與社群記憶",
-    "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源。",
-    "recordType": "community",
-    "importance": "記錄頭城近年都市天際線、旅宿供給與觀光空間的變化。"
-  },
-  {
-    "id": "2023-03-10-archipelago-partial",
-    "date": "2023-03-10",
-    "dynasty": "中華民國",
-    "era": "民國112年",
-    "ganzhi": "",
-    "year": 2023,
-    "title": "凱渡廣場酒店開放部分營運",
-    "event": "凱渡廣場酒店於2023年3月10日開放部分營運，成為烏石港周邊大型度假旅宿與頭城觀光發展的重要節點。",
-    "categories": [
-      "都市發展",
-      "旅宿",
-      "烏石港",
-      "觀光與旅遊"
-    ],
-    "source": "頭城二三事提供／網站補充整理",
-    "sourceType": "地方生活史與社群記憶",
-    "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源。",
-    "recordType": "community",
-    "importance": "記錄頭城近年都市天際線、旅宿供給與觀光空間的變化。"
-  },
-  {
-    "id": "undated-dakenggu",
-    "dynasty": "清",
-    "era": "約清代起",
-    "ganzhi": "",
-    "year": 1800,
-    "date": "清代至今",
-    "title": "大坑罟的河海文化與信仰",
-    "event": "大坑罟位於烏石港旁，其開發歷史與漢人進入蘭陽平原的歷程相連。鄰近河道與海洋形成河海文化，協天宮、威靈廟、中興宮等信仰在居民外移後，仍是地方子民的重要精神寄託。",
-    "categories": [
-      "地方聚落",
-      "信仰與祭典",
-      "港口與海洋"
-    ],
-    "source": "蘭陽博物館電子報",
-    "sourceUrl": "https://www.lym.gov.tw/ch/collection/epaper/epaper-history/",
-    "sourceType": "官方公共文化機構出版資料",
-    "reviewStatus": "依使用者整理之電子報內容建檔；建議後續補上對應期數與文章連結",
-    "recordType": "official",
-    "importance": "補充烏石港周邊聚落的生活、信仰與人口流動脈絡。"
-  },
-  {
-    "id": "undated-dongyue-artifact",
-    "dynasty": "近現代",
-    "era": "",
-    "ganzhi": "",
-    "year": 2020,
-    "date": "文化資產紀錄",
-    "title": "頭城東嶽廟承義社「陰陽司大身尪」登錄古物",
-    "event": "頭城東嶽廟承義社的「陰陽司大身尪」（神將）獲指定登錄為一般古物，為全臺首座一般古物類的大身尪。",
-    "categories": [
-      "文化資產",
-      "信仰與祭典"
-    ],
-    "source": "蘭陽博物館電子報",
-    "sourceUrl": "https://www.lym.gov.tw/ch/collection/epaper/epaper-history/",
-    "sourceType": "官方公共文化機構出版資料",
-    "reviewStatus": "依使用者整理之電子報內容建檔；建議後續補上對應期數與文章連結",
-    "recordType": "official",
-    "importance": "呈現頭城宗教器物與無形信仰文化的文資價值。"
-  },
-  {
-    "id": "undated-guishan-symbol",
-    "dynasty": "近現代",
-    "era": "",
-    "ganzhi": "",
-    "year": 2000,
-    "date": "地景紀錄",
-    "title": "龜山島作為蘭陽地景精神象徵",
-    "event": "龜山島被視為守護頭城與蘭陽平原的地景精神象徵，其形象在蘭陽博物館的空間規劃中具有重要意義。",
-    "categories": [
-      "自然與環境",
-      "地方記憶",
-      "教育與文化"
-    ],
-    "source": "蘭陽博物館電子報",
-    "sourceUrl": "https://www.lym.gov.tw/ch/collection/epaper/epaper-history/",
-    "sourceType": "官方公共文化機構出版資料",
-    "reviewStatus": "依使用者整理之電子報內容建檔；建議後續補上對應期數與文章連結",
-    "recordType": "official",
-    "importance": "說明自然地景如何進入地方認同與博物館空間敘事。"
-  },
-  {
-    "id": "2026-07-28-mimi-veggie-chicken",
-    "date": "2026-07-28",
-    "dynasty": "中華民國",
-    "era": "民國115年",
-    "ganzhi": "",
-    "year": 2026,
-    "title": "米米蔬雞開幕",
-    "event": "米米蔬雞於 2026 年 7 月 28 日開幕，為頭城餐飲市場增加新的蔬食與雞肉料理選擇，記錄地方飲食需求與店家型態的持續變化。",
-    "categories": [
-      "生活誌",
-      "商業發展",
-      "餐飲"
-    ],
-    "source": "頭城二三事提供／網站補充整理",
-    "sourceType": "地方生活史與社群記憶",
-    "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源",
-    "recordType": "community",
-    "importance": "保存新店家進入地方生活圈的時間點，作為未來回看頭城商業變遷的基礎資料。"
   },
   {
     "id": "2026-06-12-dumpling-aunt-third-move",
@@ -700,6 +81,46 @@ window.TOUCHENG_HISTORY = [
     "importance": "店家的第三次搬遷不只是地址改變，也保存熟客追隨與地方小店延續的故事。"
   },
   {
+    "id": "2026-05-02-yuanbao-breakfast",
+    "date": "2026-05-02",
+    "dynasty": "中華民國",
+    "era": "民國115年",
+    "ganzhi": "",
+    "year": 2026,
+    "title": "元堡早餐開幕",
+    "event": "元堡早餐於民鋒路78號開幕，營業時間為06:00至11:00。",
+    "categories": [
+      "生活誌",
+      "餐飲",
+      "店家開幕"
+    ],
+    "source": "頭城二三事地方紀錄（使用者提供）",
+    "sourceType": "地方生活史與社群記憶",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
+    "recordType": "community",
+    "importance": ""
+  },
+  {
+    "id": "2026-04-26-oldstreet-tofu-trial",
+    "date": "2026-04-26",
+    "dynasty": "中華民國",
+    "era": "民國115年",
+    "ganzhi": "",
+    "year": 2026,
+    "title": "頭城老街鹽滷豆花新店面開始試賣",
+    "event": "頭城老街鹽滷豆花於2026年4月26日在新店面開始試賣，記錄地方店家空間更新與營業延續。",
+    "categories": [
+      "生活誌",
+      "商業發展",
+      "餐飲"
+    ],
+    "source": "頭城二三事提供／網站補充整理",
+    "sourceType": "地方生活史與社群記憶",
+    "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源。",
+    "recordType": "community",
+    "importance": "保存地方店家出現的時間點，作為未來回看頭城生活與商業變遷的基礎資料。"
+  },
+  {
     "id": "2026-04-19-wushih-200",
     "dynasty": "近現代",
     "era": "",
@@ -719,6 +140,26 @@ window.TOUCHENG_HISTORY = [
     "reviewStatus": "依使用者整理之電子報內容建檔；建議後續補上對應期數與文章連結",
     "recordType": "official",
     "importance": "以展覽重新連結烏石港歷史、地方記憶與當代文化詮釋。"
+  },
+  {
+    "id": "2026-04-18-lele-lunchbox",
+    "date": "2026-04-18",
+    "dynasty": "中華民國",
+    "era": "民國115年",
+    "ganzhi": "",
+    "year": 2026,
+    "title": "樂樂飯盒開幕",
+    "event": "樂樂飯盒於頭城鎮沙成路63-1號開幕，營業時間自11:00起至售完。",
+    "categories": [
+      "生活誌",
+      "餐飲",
+      "店家開幕"
+    ],
+    "source": "頭城二三事地方紀錄（使用者提供）",
+    "sourceType": "地方生活史與社群記憶",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
+    "recordType": "community",
+    "importance": ""
   },
   {
     "id": "2025-10-29-dali-elementary-new-campus",
@@ -802,24 +243,82 @@ window.TOUCHENG_HISTORY = [
     "importance": "一間長期服務地方的藥局，其六十週年不只是商業紀念，也是社區生活史的一部分。"
   },
   {
-    "id": "2023-06-09-water-residence",
-    "date": "2023-06-09",
+    "id": "2024-01-30-cultural-park-pts-report",
+    "date": "2024-01-30",
+    "dynasty": "中華民國",
+    "era": "民國113年",
+    "ganzhi": "",
+    "year": 2024,
+    "title": "公視報導頭城文創園區環境維護工程爭議",
+    "event": "公視新聞報導頭城文創園區環境維護工程爭議。報導記錄居民與公民團體對施工程序及歷史建築周邊景觀變動的質疑，以及宜蘭縣政府要求暫停工程並恢復現場原狀的回應。",
+    "categories": [
+      "文化資產",
+      "新聞紀錄",
+      "地方公共議題",
+      "頭城文創園區"
+    ],
+    "source": "公視新聞網",
+    "sourceType": "新聞媒體",
+    "reviewStatus": "依公視新聞報導整理。",
+    "recordType": "news",
+    "importance": "保留事件發生後的公共討論與政府回應，與1月29日施工事件分開記錄。",
+    "sourceUrl": "https://news.pts.org.tw/article/678799"
+  },
+  {
+    "id": "2024-01-29-cultural-park-landscape-work",
+    "date": "2024-01-29",
+    "dynasty": "中華民國",
+    "era": "民國113年",
+    "ganzhi": "",
+    "year": 2024,
+    "title": "頭城文創園區景觀改造工程開始",
+    "event": "2024年1月29日，頭城鎮公所以環境維護為由進場施工，挖除園區綠地、移除部分樹木，並改以大面積鋪面取代原有草地景觀。工程後續引起居民、公民團體及文化資產關注者討論。",
+    "categories": [
+      "文化資產",
+      "公共空間",
+      "景觀改造",
+      "地方公共議題",
+      "地方變遷"
+    ],
+    "source": "公視新聞／頭城二三事影像紀錄",
+    "sourceType": "新聞紀錄與地方影像",
+    "reviewStatus": "事件日期與在地觀點由頭城二三事補充；新聞報導日期為2024年1月30日。",
+    "recordType": "community",
+    "importance": "此事件反映歷史建築周邊環境維護、公共空間設計與文化資產保存之間的平衡議題。許多居民認為改造後失去原有綠意與歷史氛圍。",
+    "sourceUrl": "https://news.pts.org.tw/article/678799",
+    "images": [
+      {
+        "src": "assets/images/places/toucheng-cultural-park/before.jpg",
+        "alt": "頭城文創園區施工前的綠地與樹木景觀",
+        "caption": "施工前：樹木、草地與歷史建築共同構成開放綠地景觀。"
+      },
+      {
+        "src": "assets/images/places/toucheng-cultural-park/after.png",
+        "alt": "頭城文創園區施工後的大面積鋪面景觀",
+        "caption": "施工後：部分樹木與草地被移除，空間改為大面積鋪面。"
+      }
+    ]
+  },
+  {
+    "id": "2023-03-10-archipelago-partial",
+    "date": "2023-03-10",
     "dynasty": "中華民國",
     "era": "民國112年",
     "ganzhi": "",
-    "year": 2013,
-    "title": "水旅居開幕",
-    "event": "水旅居於 2023 年 6 月 9 日開幕，增加頭城住宿與旅遊服務選擇，反映地方觀光型態與旅宿產業持續發展。",
+    "year": 2023,
+    "title": "凱渡廣場酒店開放部分營運",
+    "event": "凱渡廣場酒店於2023年3月10日開放部分營運，成為烏石港周邊大型度假旅宿與頭城觀光發展的重要節點。",
     "categories": [
-      "生活誌",
-      "商業發展",
-      "觀光與旅宿"
+      "都市發展",
+      "旅宿",
+      "烏石港",
+      "觀光與旅遊"
     ],
     "source": "頭城二三事提供／網站補充整理",
     "sourceType": "地方生活史與社群記憶",
-    "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源",
+    "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源。",
     "recordType": "community",
-    "importance": "記錄頭城旅宿產業與觀光服務的日常變化。"
+    "importance": "記錄頭城近年都市天際線、旅宿供給與觀光空間的變化。"
   },
   {
     "id": "2013-05-05-toucheng-jhs-old-campus-demolition",
@@ -841,6 +340,46 @@ window.TOUCHENG_HISTORY = [
     "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源",
     "recordType": "community",
     "importance": "記錄多代師生共同生活的校園空間消失與教育設施更新。"
+  },
+  {
+    "id": "2022-12-29-poya-beauty",
+    "date": "2022-12-29",
+    "dynasty": "中華民國",
+    "era": "民國111年",
+    "ganzhi": "",
+    "year": 2022,
+    "title": "POYA寶雅｜Beauty開幕",
+    "event": "POYA寶雅｜Beauty於2022年12月29日開幕，為頭城零售與美妝消費增加新的連鎖服務據點。",
+    "categories": [
+      "生活誌",
+      "商業發展",
+      "零售"
+    ],
+    "source": "頭城二三事提供／網站補充整理",
+    "sourceType": "地方生活史與社群記憶",
+    "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源。",
+    "recordType": "community",
+    "importance": "保存地方店家出現的時間點，作為未來回看頭城生活與商業變遷的基礎資料。"
+  },
+  {
+    "id": "2022-12-04-333-cafe",
+    "date": "2022-12-04",
+    "dynasty": "中華民國",
+    "era": "民國111年",
+    "ganzhi": "",
+    "year": 2022,
+    "title": "333咖啡和食開幕",
+    "event": "333咖啡和食於2022年12月4日開幕，加入頭城咖啡與餐飲生活。",
+    "categories": [
+      "生活誌",
+      "商業發展",
+      "餐飲"
+    ],
+    "source": "頭城二三事提供／網站補充整理",
+    "sourceType": "地方生活史與社群記憶",
+    "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源。",
+    "recordType": "community",
+    "importance": "保存地方店家出現的時間點，作為未來回看頭城生活與商業變遷的基礎資料。"
   },
   {
     "id": "2022-10-07-fisher-chips",
@@ -883,6 +422,107 @@ window.TOUCHENG_HISTORY = [
     "importance": "蘭陽技術學院是頭城重要的高等教育機構，其停辦標誌地方教育史的一個重要轉折。"
   },
   {
+    "id": "2022-06-15-river-stone",
+    "date": "2022-06-15",
+    "dynasty": "中華民國",
+    "era": "民國111年",
+    "ganzhi": "",
+    "year": 2022,
+    "title": "RIVER STONE川岩開幕",
+    "event": "RIVER STONE川岩於2022年6月15日開幕，成為頭城地方餐飲與聚會空間之一。",
+    "categories": [
+      "生活誌",
+      "商業發展",
+      "餐飲"
+    ],
+    "source": "頭城二三事提供／網站補充整理",
+    "sourceType": "地方生活史與社群記憶",
+    "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源。",
+    "recordType": "community",
+    "importance": "保存地方店家出現的時間點，作為未來回看頭城生活與商業變遷的基礎資料。"
+  },
+  {
+    "id": "2022-01-25-lancheng-yufei",
+    "date": "2022-01-25",
+    "dynasty": "中華民國",
+    "era": "民國111年",
+    "ganzhi": "",
+    "year": 2022,
+    "title": "蘭城雨啡開幕",
+    "event": "蘭城雨啡於2022年1月25日開幕，加入頭城咖啡館與地方休憩空間。",
+    "categories": [
+      "生活誌",
+      "商業發展",
+      "餐飲"
+    ],
+    "source": "頭城二三事提供／網站補充整理",
+    "sourceType": "地方生活史與社群記憶",
+    "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源。",
+    "recordType": "community",
+    "importance": "保存地方店家出現的時間點，作為未來回看頭城生活與商業變遷的基礎資料。"
+  },
+  {
+    "id": "2022-01-11-kanea-kitchen",
+    "date": "2022-01-11",
+    "dynasty": "中華民國",
+    "era": "民國111年",
+    "ganzhi": "",
+    "year": 2022,
+    "title": "Kanea廚房開幕",
+    "event": "Kanea廚房於2022年1月11日開幕，記錄頭城餐飲店家持續增加與類型多元化。",
+    "categories": [
+      "生活誌",
+      "商業發展",
+      "餐飲"
+    ],
+    "source": "頭城二三事提供／網站補充整理",
+    "sourceType": "地方生活史與社群記憶",
+    "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源。",
+    "recordType": "community",
+    "importance": "保存地方店家出現的時間點，作為未來回看頭城生活與商業變遷的基礎資料。"
+  },
+  {
+    "id": "2021-12-04-oa-hotel-trial",
+    "date": "2021-12-04",
+    "dynasty": "中華民國",
+    "era": "民國110年",
+    "ganzhi": "",
+    "year": 2021,
+    "title": "烏石港 OA HOTEL開始試營運",
+    "event": "烏石港 OA HOTEL於2021年12月4日開始試營運，成為烏石港海洋休閒與住宿服務的重要據點。",
+    "categories": [
+      "都市發展",
+      "旅宿",
+      "烏石港",
+      "觀光與旅遊"
+    ],
+    "source": "頭城二三事提供／網站補充整理",
+    "sourceType": "地方生活史與社群記憶",
+    "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源。",
+    "recordType": "community",
+    "importance": "記錄頭城近年都市天際線、旅宿供給與觀光空間的變化。"
+  },
+  {
+    "id": "2021-10-23-jinghaomai",
+    "date": "2021-10-23",
+    "dynasty": "中華民國",
+    "era": "民國110年",
+    "ganzhi": "",
+    "year": 2021,
+    "title": "勁好麥烘焙開幕",
+    "event": "勁好麥烘焙於2021年10月23日開幕，成為頭城居民日常購買麵包與烘焙食品的新選擇。",
+    "categories": [
+      "生活誌",
+      "商業發展",
+      "餐飲"
+    ],
+    "source": "頭城二三事提供／網站補充整理",
+    "sourceType": "地方生活史與社群記憶",
+    "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源。",
+    "recordType": "community",
+    "importance": "保存地方店家出現的時間點，作為未來回看頭城生活與商業變遷的基礎資料。"
+  },
+  {
     "id": "2021-04-01-supp",
     "date": "2021-04-01",
     "dynasty": "中華民國",
@@ -923,6 +563,127 @@ window.TOUCHENG_HISTORY = [
     "importance": "記錄頭城居民日常生活、地方發展與共同記憶。"
   },
   {
+    "id": "2021-02-01-lywushih-hotel-trial",
+    "date": "2021-02-01",
+    "dynasty": "中華民國",
+    "era": "民國110年",
+    "ganzhi": "",
+    "year": 2021,
+    "title": "蘭陽烏石港海景酒店開始試營運",
+    "event": "蘭陽烏石港海景酒店於2021年2月1日開始試營運，記錄烏石港周邊大型旅宿與觀光服務的發展。",
+    "categories": [
+      "都市發展",
+      "旅宿",
+      "烏石港",
+      "觀光與旅遊"
+    ],
+    "source": "頭城二三事提供／網站補充整理",
+    "sourceType": "地方生活史與社群記憶",
+    "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源。",
+    "recordType": "community",
+    "importance": "記錄頭城近年都市天際線、旅宿供給與觀光空間的變化。"
+  },
+  {
+    "id": "undated-dongyue-artifact",
+    "dynasty": "近現代",
+    "era": "",
+    "ganzhi": "",
+    "year": 2020,
+    "date": "文化資產紀錄",
+    "title": "頭城東嶽廟承義社「陰陽司大身尪」登錄古物",
+    "event": "頭城東嶽廟承義社的「陰陽司大身尪」（神將）獲指定登錄為一般古物，為全臺首座一般古物類的大身尪。",
+    "categories": [
+      "文化資產",
+      "信仰與祭典"
+    ],
+    "source": "蘭陽博物館電子報",
+    "sourceUrl": "https://www.lym.gov.tw/ch/collection/epaper/epaper-history/",
+    "sourceType": "官方公共文化機構出版資料",
+    "reviewStatus": "依使用者整理之電子報內容建檔；建議後續補上對應期數與文章連結",
+    "recordType": "official",
+    "importance": "呈現頭城宗教器物與無形信仰文化的文資價值。"
+  },
+  {
+    "id": "2020-10-langju-hotel",
+    "date": "2020-10",
+    "dynasty": "中華民國",
+    "era": "民國109年",
+    "ganzhi": "",
+    "year": 2020,
+    "title": "朗居文旅開幕",
+    "event": "朗居文旅於2020年10月開幕，成為頭城市區近年旅宿發展的重要節點。",
+    "categories": [
+      "都市發展",
+      "旅宿",
+      "觀光與旅遊"
+    ],
+    "source": "頭城二三事提供／網站補充整理",
+    "sourceType": "地方生活史與社群記憶",
+    "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源。",
+    "recordType": "community",
+    "importance": "記錄頭城近年都市天際線、旅宿供給與觀光空間的變化。"
+  },
+  {
+    "id": "2018-oh1796-complete",
+    "date": "2018-04",
+    "dynasty": "中華民國",
+    "era": "民國107年",
+    "ganzhi": "",
+    "year": 2018,
+    "title": "OH！1796完工",
+    "event": "OH！1796於2018年4月完工，地上23層，成為頭城市區具辨識度的高樓住宅建築。",
+    "categories": [
+      "都市發展",
+      "指標建築",
+      "高樓住宅"
+    ],
+    "source": "頭城二三事提供／網站補充整理",
+    "sourceType": "地方生活史與社群記憶",
+    "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源。",
+    "recordType": "community",
+    "importance": "記錄頭城近年都市天際線、旅宿供給與觀光空間的變化。"
+  },
+  {
+    "id": "2017-world-bay-complete",
+    "date": "2017-12",
+    "dynasty": "中華民國",
+    "era": "民國106年",
+    "ganzhi": "",
+    "year": 2017,
+    "title": "世界灣完工",
+    "event": "世界灣於2017年底完工，地上29層，成為頭城沿海天際線的重要指標性建築之一。",
+    "categories": [
+      "都市發展",
+      "指標建築",
+      "高樓住宅"
+    ],
+    "source": "頭城二三事提供／網站補充整理",
+    "sourceType": "地方生活史與社群記憶",
+    "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源。",
+    "recordType": "community",
+    "importance": "記錄頭城近年都市天際線、旅宿供給與觀光空間的變化。"
+  },
+  {
+    "id": "2017-05-30-five-aunt-breakfast",
+    "date": "2017-05-30",
+    "dynasty": "中華民國",
+    "era": "民國106年",
+    "ganzhi": "",
+    "year": 2017,
+    "title": "五阿姨早餐店重新開幕",
+    "event": "五阿姨早餐店於吉祥路32號重新開幕，持續服務地方居民，成為頭城日常早餐生活的一部分。",
+    "categories": [
+      "生活誌",
+      "餐飲",
+      "重新開幕"
+    ],
+    "source": "頭城二三事地方紀錄（使用者提供）",
+    "sourceType": "地方生活史與社群記憶",
+    "reviewStatus": "日期與地址由使用者提供，後續可補店家公告或照片。",
+    "recordType": "community",
+    "importance": ""
+  },
+  {
     "id": "2017-03-14-library-demolition",
     "date": "2017-03-14",
     "dynasty": "中華民國",
@@ -942,6 +703,66 @@ window.TOUCHENG_HISTORY = [
     "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源",
     "recordType": "community",
     "importance": "保存舊圖書館消失的時間點，讓居民共同使用過的公共空間不被遺忘。"
+  },
+  {
+    "id": "2016-bike-mazu-fourth-year",
+    "date": "2016",
+    "dynasty": "中華民國",
+    "era": "民國105年",
+    "ganzhi": "",
+    "year": 2016,
+    "title": "媽祖古廟自行車巡禮持續深化",
+    "event": "「Bike宜蘭媽祖古廟．騎求平安」已連續舉辦四年，逐步建構宜蘭文化資產巡禮與守護路徑。",
+    "categories": [
+      "文化推廣",
+      "信仰與祭典",
+      "地方創生"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方文化出版與生活史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
+    "recordType": "local-publication",
+    "importance": ""
+  },
+  {
+    "id": "2015-catholic-restoration-complete",
+    "date": "2015",
+    "dynasty": "中華民國",
+    "era": "民國104年",
+    "ganzhi": "",
+    "year": 2015,
+    "title": "頭城天主堂全面修復完成",
+    "event": "完成圓頂鋼構、木構、銅瓦、銅十字架、平屋頂防水，以及內外牆等全面修復工程。",
+    "categories": [
+      "文化資產",
+      "宗教建築",
+      "修復工程"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方出版與文史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；後續可補上書頁與出版資訊。",
+    "recordType": "local_history",
+    "importance": "延續聖伯多祿堂具辨識度的圓頂與建築特色。"
+  },
+  {
+    "id": "2014-12-giant-deities-book",
+    "date": "2014-12",
+    "dynasty": "中華民國",
+    "era": "民國103年",
+    "ganzhi": "",
+    "year": 2014,
+    "title": "《大神尪》故事繪本出版",
+    "event": "《大神尪—探尋頭城迷人的古文風》出版，以故事繪本方式介紹頭城大神尪文化及其民俗價值。",
+    "categories": [
+      "出版",
+      "大神尪",
+      "民俗教育"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方文化出版與生活史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
+    "recordType": "local-publication",
+    "importance": ""
   },
   {
     "id": "2014-10-18-supp",
@@ -964,6 +785,25 @@ window.TOUCHENG_HISTORY = [
     "importance": "記錄頭城居民日常生活、地方發展與共同記憶。"
   },
   {
+    "id": "2014-06-qingyuan-county-monument",
+    "date": "2014-06",
+    "dynasty": "中華民國",
+    "era": "民國103年",
+    "ganzhi": "",
+    "year": 2014,
+    "title": "慶元宮指定為縣定古蹟",
+    "event": "因見證頭城河港歷史並保存珍貴砂岩石雕，慶元宮經宜蘭縣審議通過指定為縣定古蹟。",
+    "categories": [
+      "文化資產",
+      "信仰與祭典"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方文化出版與生活史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
+    "recordType": "local-publication",
+    "importance": ""
+  },
+  {
     "id": "2014-05-14-cultural-park-fgu",
     "date": "2014-05-14",
     "dynasty": "中華民國",
@@ -982,6 +822,65 @@ window.TOUCHENG_HISTORY = [
     "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源",
     "recordType": "community",
     "importance": "呈現文創頭圍園區在不同營運階段的轉變，以及大學資源參與地方創生的歷程。"
+  },
+  {
+    "id": "2014-qingyuan-restoration-phase2",
+    "date": "2014",
+    "dynasty": "中華民國",
+    "era": "民國103年",
+    "ganzhi": "",
+    "year": 2014,
+    "title": "慶元宮第二期修復",
+    "event": "廟方依修復圖說募款，進行屋頂瓦作、脊飾、剪黏、石雕油漆剝除及防護等工程。",
+    "categories": [
+      "文化資產",
+      "修復工程"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方文化出版與生活史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
+    "recordType": "local-publication",
+    "importance": ""
+  },
+  {
+    "id": "2014-giant-deities-museum",
+    "date": "2014",
+    "dynasty": "中華民國",
+    "era": "民國103年",
+    "ganzhi": "",
+    "year": 2014,
+    "title": "大神尪首度在蘭陽博物館組裝",
+    "event": "陰陽司、大太子、七爺、八爺、日夜遊巡等大神尪首度於蘭陽博物館一樓大廳組裝，之後步行進入頭城市區與廟宇。",
+    "categories": [
+      "大神尪",
+      "蘭陽博物館",
+      "文化推廣"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方文化出版與生活史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
+    "recordType": "local-publication",
+    "importance": ""
+  },
+  {
+    "id": "2023-06-09-water-residence",
+    "date": "2023-06-09",
+    "dynasty": "中華民國",
+    "era": "民國112年",
+    "ganzhi": "",
+    "year": 2013,
+    "title": "水旅居開幕",
+    "event": "水旅居於 2023 年 6 月 9 日開幕，增加頭城住宿與旅遊服務選擇，反映地方觀光型態與旅宿產業持續發展。",
+    "categories": [
+      "生活誌",
+      "商業發展",
+      "觀光與旅宿"
+    ],
+    "source": "頭城二三事提供／網站補充整理",
+    "sourceType": "地方生活史與社群記憶",
+    "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源",
+    "recordType": "community",
+    "importance": "記錄頭城旅宿產業與觀光服務的日常變化。"
   },
   {
     "id": "2013-09-02-supp",
@@ -1024,6 +923,45 @@ window.TOUCHENG_HISTORY = [
     "importance": "補足雪山隧道通車後，頭城對外公共運輸逐步成形的交通脈絡。"
   },
   {
+    "id": "2013-qingyuan-restoration-phase1",
+    "date": "2013",
+    "dynasty": "中華民國",
+    "era": "民國102年",
+    "ganzhi": "",
+    "year": 2013,
+    "title": "慶元宮第一期修復工程啟動",
+    "event": "透過頭城老街區域文化資產環境整合計畫補助，由宜蘭縣文化局推動第一期大木棟架修復工程。",
+    "categories": [
+      "文化資產",
+      "修復工程"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方文化出版與生活史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
+    "recordType": "local-publication",
+    "importance": ""
+  },
+  {
+    "id": "2013-li-rongchun-centenary",
+    "date": "2013",
+    "dynasty": "中華民國",
+    "era": "民國102年",
+    "ganzhi": "",
+    "year": 2013,
+    "title": "李榮春百歲誕辰紀念與文學步道",
+    "event": "透過文學風景計畫，把李榮春作品與頭城老街地景結合，推廣以散步方式閱讀文學與地方。",
+    "categories": [
+      "人物與文學",
+      "文化推廣",
+      "頭城老街"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方文化出版與生活史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
+    "recordType": "local-publication",
+    "importance": ""
+  },
+  {
     "id": "2012-06-05-supp",
     "date": "2012-06-05",
     "dynasty": "中華民國",
@@ -1043,6 +981,26 @@ window.TOUCHENG_HISTORY = [
     "importance": "記錄頭城居民日常生活、地方發展與共同記憶。"
   },
   {
+    "id": "2012-bike-mazu-first",
+    "date": "2012-04-07",
+    "dynasty": "中華民國",
+    "era": "民國101年",
+    "ganzhi": "",
+    "year": 2012,
+    "title": "首屆「BIKE宜蘭媽祖古廟騎求平安」",
+    "event": "燦景工作室以慶元宮為起點舉辦首屆自行車古廟巡禮，帶領民眾以低碳方式親近媽祖文化與古建築。",
+    "categories": [
+      "信仰與祭典",
+      "文化推廣",
+      "自行車"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方文化出版與生活史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
+    "recordType": "local-publication",
+    "importance": ""
+  },
+  {
     "id": "2012-03-29-supp",
     "date": "2012-03-29",
     "dynasty": "中華民國",
@@ -1060,6 +1018,66 @@ window.TOUCHENG_HISTORY = [
     "reviewStatus": "日期與摘要待持續補充佐證",
     "recordType": "community",
     "importance": "記錄頭城居民日常生活、地方發展與共同記憶。"
+  },
+  {
+    "id": "2012-catholic-facade-restored",
+    "date": "2012",
+    "dynasty": "中華民國",
+    "era": "民國101年",
+    "ganzhi": "",
+    "year": 2012,
+    "title": "頭城天主堂正立面整修完成",
+    "event": "聖堂正立面牆面完成整修，恢復較接近早期的樸質外觀。",
+    "categories": [
+      "文化資產",
+      "建築修復",
+      "宗教建築"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方出版與文史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；後續可補上書頁與出版資訊。",
+    "recordType": "local_history",
+    "importance": "保存聖堂立面與街區文化景觀。"
+  },
+  {
+    "id": "2012-thousand-turtles-community",
+    "date": "2012",
+    "dynasty": "中華民國",
+    "era": "民國101年",
+    "ganzhi": "",
+    "year": 2012,
+    "title": "千龜來朝轉為居民自主舉辦",
+    "event": "第六屆「千龜來朝」面臨補助中斷，居民仍決定自發持續舉辦，使活動回歸地方居民共同守護老街文化的本質。",
+    "categories": [
+      "民俗文化",
+      "社區參與",
+      "地方創生"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方文化出版與生活史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
+    "recordType": "local-publication",
+    "importance": ""
+  },
+  {
+    "id": "2012-giant-deities-assembly-home",
+    "date": "2012",
+    "dynasty": "中華民國",
+    "era": "民國101年",
+    "ganzhi": "",
+    "year": 2012,
+    "title": "大神尪重現爐主家組裝傳統",
+    "event": "東嶽廟遶境前夕，大太子、七爺、八爺等大神尪在青雲路值年爐主家中組裝，再步行前往東嶽廟。",
+    "categories": [
+      "大神尪",
+      "無形文化資產",
+      "文化復振"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方文化出版與生活史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
+    "recordType": "local-publication",
+    "importance": ""
   },
   {
     "id": "2011-12-nongyuzhijia-demolition",
@@ -1100,6 +1118,26 @@ window.TOUCHENG_HISTORY = [
     "reviewStatus": "日期與摘要待持續補充佐證",
     "recordType": "community",
     "importance": "記錄頭城居民日常生活、地方發展與共同記憶。"
+  },
+  {
+    "id": "2011-li-rongchun-literary-theatre",
+    "date": "2011",
+    "dynasty": "中華民國",
+    "era": "民國100年",
+    "ganzhi": "",
+    "year": 2011,
+    "title": "《文學劇場 一片春帆帶景來》出版",
+    "event": "透過文學劇場形式，將李榮春作品中的故鄉風景與生活經驗轉化為可閱讀、可觀看的地方文化內容。",
+    "categories": [
+      "人物與文學",
+      "出版",
+      "李榮春"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方文化出版與生活史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
+    "recordType": "local-publication",
+    "importance": ""
   },
   {
     "id": "2010-10-29-lanyang-museum",
@@ -1248,6 +1286,26 @@ window.TOUCHENG_HISTORY = [
     "importance": "記錄頭圍港遺址、盧宅與史雲湖保存運動的地方文化資產歷程。"
   },
   {
+    "id": "2010-catholic-restoration-opportunity",
+    "date": "2010",
+    "dynasty": "中華民國",
+    "era": "民國99年",
+    "ganzhi": "",
+    "year": 2010,
+    "title": "頭城天主堂修復契機形成",
+    "event": "文化資產局補助頭城老街屋門面整修；原計畫整修北門福德祠旁街屋，後因產權問題，轉而開啟修復頭城天主堂的契機。",
+    "categories": [
+      "文化資產",
+      "建築修復",
+      "宗教建築"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方出版與文史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；後續可補上書頁與出版資訊。",
+    "recordType": "local_history",
+    "importance": "記錄宗教建築保存與老街修復政策相互連結的過程。"
+  },
+  {
     "id": "2010-077",
     "dynasty": "中華民國",
     "era": "民國九十九年",
@@ -1308,6 +1366,26 @@ window.TOUCHENG_HISTORY = [
     "reviewStatus": "依書頁照片整理，文字仍可後續校訂",
     "recordType": "community",
     "importance": "記錄頭圍港遺址、盧宅與史雲湖保存運動的地方文化資產歷程。"
+  },
+  {
+    "id": "2009-09-li-rongchun-museum",
+    "date": "2009-09",
+    "dynasty": "中華民國",
+    "era": "民國98年",
+    "ganzhi": "",
+    "year": 2009,
+    "title": "李榮春文學館開館",
+    "event": "宜蘭縣政府修復舊頭城國小校長宿舍，成立李榮春文學館，保存並推廣李榮春的文學與地方記憶。",
+    "categories": [
+      "人物與文學",
+      "文化館舍",
+      "李榮春"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方文化出版與生活史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
+    "recordType": "local-publication",
+    "importance": ""
   },
   {
     "id": "2009-07-25-supp",
@@ -1498,6 +1576,25 @@ window.TOUCHENG_HISTORY = [
     "importance": "記錄頭圍港遺址、盧宅與史雲湖保存運動的地方文化資產歷程。"
   },
   {
+    "id": "2009-fude-restoration",
+    "date": "2009",
+    "dynasty": "中華民國",
+    "era": "民國98年",
+    "ganzhi": "",
+    "year": 2009,
+    "title": "南北門福德祠主要修復工程",
+    "event": "福德祠進行屋頂腐蝕圓檻抽換、屋瓦重鋪等主要修復工程。",
+    "categories": [
+      "文化資產",
+      "修復工程"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方文化出版與生活史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
+    "recordType": "local-publication",
+    "importance": ""
+  },
+  {
     "id": "2007-076",
     "dynasty": "中華民國",
     "era": "民國九十六年",
@@ -1514,6 +1611,65 @@ window.TOUCHENG_HISTORY = [
     "date": "2007",
     "recordType": "local_history",
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
+  },
+  {
+    "id": "2007-fude-restoration-planning",
+    "date": "2007",
+    "dynasty": "中華民國",
+    "era": "民國96年",
+    "ganzhi": "",
+    "year": 2007,
+    "title": "南北門福德祠修復規劃啟動",
+    "event": "宜蘭縣文化局開始進行南北門福德祠修復規劃設計。",
+    "categories": [
+      "文化資產",
+      "修復工程"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方文化出版與生活史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
+    "recordType": "local-publication",
+    "importance": ""
+  },
+  {
+    "id": "2007-thousand-turtles",
+    "date": "2007",
+    "dynasty": "中華民國",
+    "era": "民國96年",
+    "ganzhi": "",
+    "year": 2007,
+    "title": "「千龜來朝」活動興起",
+    "event": "居民在慶祝古蹟指定的討論中，希望讓老鄰長記憶裡逐漸消失的神龜會重回老街，進而發展為「千龜來朝」活動。",
+    "categories": [
+      "信仰與祭典",
+      "民俗文化",
+      "社區參與"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方文化出版與生活史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
+    "recordType": "local-publication",
+    "importance": ""
+  },
+  {
+    "id": "2006-12-fude-county-monument",
+    "date": "2006-12",
+    "dynasty": "中華民國",
+    "era": "民國95年",
+    "ganzhi": "",
+    "year": 2006,
+    "title": "南北門福德祠指定為縣定古蹟",
+    "event": "在居民高度共識與申請下，宜蘭縣政府公告指定「頭城鎮南北門福德祠」為縣定古蹟。",
+    "categories": [
+      "文化資產",
+      "信仰與祭典",
+      "社區參與"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方文化出版與生活史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
+    "recordType": "local-publication",
+    "importance": ""
   },
   {
     "id": "2006-06-16-supp",
@@ -1716,6 +1872,27 @@ window.TOUCHENG_HISTORY = [
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
   },
   {
+    "id": "undated-guishan-symbol",
+    "dynasty": "近現代",
+    "era": "",
+    "ganzhi": "",
+    "year": 2000,
+    "date": "地景紀錄",
+    "title": "龜山島作為蘭陽地景精神象徵",
+    "event": "龜山島被視為守護頭城與蘭陽平原的地景精神象徵，其形象在蘭陽博物館的空間規劃中具有重要意義。",
+    "categories": [
+      "自然與環境",
+      "地方記憶",
+      "教育與文化"
+    ],
+    "source": "蘭陽博物館電子報",
+    "sourceUrl": "https://www.lym.gov.tw/ch/collection/epaper/epaper-history/",
+    "sourceType": "官方公共文化機構出版資料",
+    "reviewStatus": "依使用者整理之電子報內容建檔；建議後續補上對應期數與文章連結",
+    "recordType": "official",
+    "importance": "說明自然地景如何進入地方認同與博物館空間敘事。"
+  },
+  {
     "id": "2000-07-supp",
     "date": "2000-07",
     "dynasty": "中華民國",
@@ -1827,6 +2004,25 @@ window.TOUCHENG_HISTORY = [
     "date": "1994",
     "recordType": "local_history",
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
+  },
+  {
+    "id": "1994-north-fude-delisted",
+    "date": "1994",
+    "dynasty": "中華民國",
+    "era": "民國83年",
+    "ganzhi": "",
+    "year": 1994,
+    "title": "北門福德祠解除古蹟身分",
+    "event": "北門福德祠於此年解除原三級古蹟身分，後續保存工作轉由地方重新推動。",
+    "categories": [
+      "文化資產",
+      "地方變遷"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方文化出版與生活史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
+    "recordType": "local-publication",
+    "importance": ""
   },
   {
     "id": "1993-071",
@@ -1984,6 +2180,45 @@ window.TOUCHENG_HISTORY = [
     "importance": "為後續地方文化設施與空間規劃提供政策背景。"
   },
   {
+    "id": "1985-north-fude-monument",
+    "date": "1985",
+    "dynasty": "中華民國",
+    "era": "民國74年",
+    "ganzhi": "",
+    "year": 1985,
+    "title": "北門福德祠指定為三級古蹟",
+    "event": "內政部將北門福德祠指定為三級古蹟，開始納入文化資產制度保護。",
+    "categories": [
+      "文化資產",
+      "信仰與祭典"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方文化出版與生活史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
+    "recordType": "local-publication",
+    "importance": ""
+  },
+  {
+    "id": "1984-giant-deities-alternate",
+    "date": "1984",
+    "dynasty": "中華民國",
+    "era": "民國73年",
+    "ganzhi": "",
+    "year": 1984,
+    "title": "城隍廟與東嶽廟遶境改為隔年輪辦",
+    "event": "經地方協調，南門城隍廟與北門東嶽廟改以隔年輪流方式舉辦遶境，形成頭城特有的祭典節奏。",
+    "categories": [
+      "無形文化資產",
+      "大神尪",
+      "信仰與祭典"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方文化出版與生活史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
+    "recordType": "local-publication",
+    "importance": ""
+  },
+  {
     "id": "1983-066",
     "dynasty": "中華民國",
     "era": "民國七十二年",
@@ -2021,6 +2256,26 @@ window.TOUCHENG_HISTORY = [
     "date": "1982",
     "recordType": "local_history",
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
+  },
+  {
+    "id": "1981-little-earth-god-moved",
+    "date": "1981",
+    "dynasty": "中華民國",
+    "era": "民國70年",
+    "ganzhi": "",
+    "year": 1981,
+    "title": "南門小土地公誤送北門",
+    "event": "地方記憶指出，南門福德祠一尊小土地公於廟會後誤送至北門福德祠，之後在北門停留約三十年，成為老街居民熟知的趣聞。",
+    "categories": [
+      "地方記憶",
+      "民間傳說",
+      "信仰與祭典"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方文化出版與生活史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
+    "recordType": "local-publication",
+    "importance": ""
   },
   {
     "id": "1980-063",
@@ -2099,6 +2354,26 @@ window.TOUCHENG_HISTORY = [
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
   },
   {
+    "id": "1971-wensheng-rehab-opens",
+    "date": "1971",
+    "dynasty": "中華民國",
+    "era": "民國60年",
+    "ganzhi": "",
+    "year": 1971,
+    "title": "文聲復健院落成啟用",
+    "event": "「文聲復健院」正式落成，由羅文思神父與包宜航神父共同照顧孩童，提供復健、診療與住宿空間。",
+    "categories": [
+      "醫療照護",
+      "社會福利",
+      "宗教服務"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方出版與文史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；後續可補上書頁與出版資訊。",
+    "recordType": "local_history",
+    "importance": "成為頭城宗教與社會福利史的重要節點。"
+  },
+  {
     "id": "1971-059",
     "dynasty": "中華民國",
     "era": "民國六十年",
@@ -2116,6 +2391,26 @@ window.TOUCHENG_HISTORY = [
     "date": "1971",
     "recordType": "local_history",
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
+  },
+  {
+    "id": "1970-rehab-fundraising",
+    "date": "1970",
+    "dynasty": "中華民國",
+    "era": "民國59年",
+    "ganzhi": "",
+    "year": 1970,
+    "title": "發起文聲復健院募款",
+    "event": "為興建專門服務小兒麻痺孩童的復健場所，發起募款活動，共募得新臺幣120萬元。",
+    "categories": [
+      "社會福利",
+      "醫療照護",
+      "募款"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方出版與文史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；後續可補上書頁與出版資訊。",
+    "recordType": "local_history",
+    "importance": "地方與教會共同支持復健照護設施的形成。"
   },
   {
     "id": "1970-058",
@@ -2175,6 +2470,26 @@ window.TOUCHENG_HISTORY = [
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
   },
   {
+    "id": "1967-st-paul-credit-union",
+    "date": "1967",
+    "dynasty": "中華民國",
+    "era": "民國56年",
+    "ganzhi": "",
+    "year": 1967,
+    "title": "聖保祿儲蓄互助會成立",
+    "event": "頭城天主堂成立「聖保祿儲蓄互助會」，向教友推廣儲蓄與理財觀念。",
+    "categories": [
+      "社會互助",
+      "金融教育",
+      "宗教團體"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方出版與文史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；後續可補上書頁與出版資訊。",
+    "recordType": "local_history",
+    "importance": "反映宗教團體在地方經濟互助與生活教育上的角色。"
+  },
+  {
     "id": "1967-055",
     "dynasty": "中華民國",
     "era": "民國五十六年",
@@ -2191,6 +2506,65 @@ window.TOUCHENG_HISTORY = [
     "date": "1967",
     "recordType": "local_history",
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
+  },
+  {
+    "id": "1966-starfish-fishery-mutual-aid",
+    "date": "1966",
+    "dynasty": "中華民國",
+    "era": "民國55年",
+    "ganzhi": "",
+    "year": 1966,
+    "title": "頭城海星漁業生產互助會成立",
+    "event": "衛宗賢神父因大溪漁民收入不穩，成立「頭城海星漁業生產互助會」，並獲荷蘭政府資助建造漁船供漁民使用。",
+    "categories": [
+      "漁業",
+      "社會互助",
+      "宗教服務"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方出版與文史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；後續可補上書頁與出版資訊。",
+    "recordType": "local_history",
+    "importance": "將宗教服務延伸至漁業生計與社區互助。"
+  },
+  {
+    "id": "1966-polio-children-support",
+    "date": "1966",
+    "dynasty": "中華民國",
+    "era": "民國55年",
+    "ganzhi": "",
+    "year": 1966,
+    "title": "展開小兒麻痺兒童協助工作",
+    "event": "高德晉神父與羅文思神父開始協助小兒麻痺兒童。依《覓境》整理，相關工作持續至1995年，累計協助千餘名兒童。",
+    "categories": [
+      "醫療照護",
+      "社會福利",
+      "宗教服務"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方出版與文史整理",
+    "reviewStatus": "「千餘名」依《覓境》資料保留，後續可補充更完整統計來源。",
+    "recordType": "local_history",
+    "importance": "記錄頭城天主堂長期投入兒童照護與復健服務。"
+  },
+  {
+    "id": "1963-renai-kindergarten",
+    "date": "1963",
+    "dynasty": "中華民國",
+    "era": "民國52年",
+    "ganzhi": "",
+    "year": 1963,
+    "title": "仁愛幼稚園創辦",
+    "event": "修女們購買一處綜合醫院舊址，創辦「仁愛幼稚園」，使天主堂的地方服務延伸至幼兒教育。",
+    "categories": [
+      "教育與文化",
+      "宗教服務"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方出版與文史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；後續可補上書頁與出版資訊。",
+    "recordType": "local_history",
+    "importance": "呈現宗教團體對地方幼兒教育的投入。"
   },
   {
     "id": "1962-054",
@@ -2230,6 +2604,65 @@ window.TOUCHENG_HISTORY = [
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
   },
   {
+    "id": "1960-07-30-st-peter-opens",
+    "date": "1960-07-30",
+    "dynasty": "中華民國",
+    "era": "民國49年",
+    "ganzhi": "",
+    "year": 1960,
+    "title": "聖伯多祿堂落成啟用",
+    "event": "新聖堂完工啟用，命名為「聖伯多祿堂」。建築以「大金瓜」型銅皮圓頂與洗石子牆身為特色，成為當時頭城市街醒目的地標。",
+    "categories": [
+      "宗教建築",
+      "文化地景",
+      "信仰與祭典"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方出版與文史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；後續可補上書頁與出版資訊。",
+    "recordType": "local_history",
+    "importance": "聖堂的圓頂與建築形式成為頭城具辨識度的文化地景。"
+  },
+  {
+    "id": "1960-01-st-peter-construction",
+    "date": "1960-01",
+    "dynasty": "中華民國",
+    "era": "民國49年",
+    "ganzhi": "",
+    "year": 1960,
+    "title": "聖伯多祿堂新建工程開工",
+    "event": "頭城天主堂、道理廳、神父住所與廚房等新建工程正式開工。",
+    "categories": [
+      "宗教建築",
+      "地方建設"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方出版與文史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；後續可補上書頁與出版資訊。",
+    "recordType": "local_history",
+    "importance": "記錄頭城重要宗教建築的興建起點。"
+  },
+  {
+    "id": "1960-qingyuan-renovation",
+    "date": "1960",
+    "dynasty": "中華民國",
+    "era": "民國49年",
+    "ganzhi": "",
+    "year": 1960,
+    "title": "慶元宮增修與正殿重建",
+    "event": "整修保留前殿與兩過廊石構架，正殿改建為鋼筋混凝土構造，地面及牆面亦加入磁磚，局部改變原有風貌。",
+    "categories": [
+      "文化資產",
+      "信仰與祭典",
+      "地方變遷"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方文化出版與生活史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
+    "recordType": "local-publication",
+    "importance": ""
+  },
+  {
     "id": "1959-052",
     "dynasty": "中華民國",
     "era": "民國四十八年",
@@ -2246,6 +2679,26 @@ window.TOUCHENG_HISTORY = [
     "date": "1959",
     "recordType": "local_history",
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
+  },
+  {
+    "id": "1958-catholic-church-moves-qingyun",
+    "date": "1958",
+    "dynasty": "中華民國",
+    "era": "民國47年",
+    "ganzhi": "",
+    "year": 1958,
+    "title": "頭城天主堂遷至青雲路",
+    "event": "高德晉神父將聖堂遷往青雲路。隨著教友增加，他返回荷蘭募款，並攜回歐洲圓頂教堂圖面，作為新聖堂設計依據。",
+    "categories": [
+      "宗教信仰",
+      "宗教建築",
+      "街區發展"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方出版與文史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；後續可補上書頁與出版資訊。",
+    "recordType": "local_history",
+    "importance": "為後來聖伯多祿堂興建奠定基礎。"
   },
   {
     "id": "1958-051",
@@ -2282,6 +2735,25 @@ window.TOUCHENG_HISTORY = [
     "date": "1955",
     "recordType": "local_history",
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
+  },
+  {
+    "id": "1954-gao-dejin-arrives",
+    "date": "1954",
+    "dynasty": "中華民國",
+    "era": "民國43年",
+    "ganzhi": "",
+    "year": 1954,
+    "title": "高德晉神父來到頭城傳教",
+    "event": "荷蘭籍遣使會神父高德晉來到頭城展開傳教工作，成為頭城天主堂後續發展的重要起點。",
+    "categories": [
+      "宗教信仰",
+      "地方人物"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方出版與文史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；後續可補上書頁與出版資訊。",
+    "recordType": "local_history",
+    "importance": "開啟頭城天主堂戰後傳教、教育與社會服務的長期發展。"
   },
   {
     "id": "1954-049",
@@ -2531,6 +3003,26 @@ window.TOUCHENG_HISTORY = [
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
   },
   {
+    "id": "1938-sail-shadow-stele",
+    "date": "1938",
+    "dynasty": "中華民國",
+    "era": "民國27年",
+    "ganzhi": "",
+    "year": 1938,
+    "title": "洪鐵濤題寫〈帆影〉",
+    "event": "台南書法家洪鐵濤遊歷頭城，有感港景之美題寫〈帆影〉；石刻碑文現存於慶元宮前。",
+    "categories": [
+      "文學",
+      "書法",
+      "慶元宮"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方文化出版與生活史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
+    "recordType": "local-publication",
+    "importance": ""
+  },
+  {
     "id": "1937-036",
     "dynasty": "日統",
     "era": "民國廿六年",
@@ -2566,6 +3058,26 @@ window.TOUCHENG_HISTORY = [
     "date": "1935",
     "recordType": "local_history",
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
+  },
+  {
+    "id": "1935-jiangjun-temple-size",
+    "date": "1935",
+    "dynasty": "中華民國",
+    "era": "民國24年",
+    "ganzhi": "",
+    "year": 1935,
+    "title": "將軍廟建坪紀錄",
+    "event": "1935年的資料記錄將軍廟廟地建坪約十二坪。",
+    "categories": [
+      "信仰與祭典",
+      "建築紀錄",
+      "將軍廟"
+    ],
+    "source": "聯經出版《妖怪台灣地圖：環島搜妖探奇錄》",
+    "sourceType": "出版品整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
+    "recordType": "local-publication",
+    "importance": ""
   },
   {
     "id": "1932-034",
@@ -2645,6 +3157,26 @@ window.TOUCHENG_HISTORY = [
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
   },
   {
+    "id": "1924-wushih-buried-railway",
+    "date": "1924",
+    "dynasty": "中華民國",
+    "era": "民國13年",
+    "ganzhi": "",
+    "year": 1924,
+    "title": "百年洪水與宜蘭線通車改變交通重心",
+    "event": "福德坑溪山洪使烏石港逐漸埋沒；同年宜蘭線鐵路全線通車，蘭陽平原對外交通逐步由海運轉向陸運。",
+    "categories": [
+      "港口與海洋",
+      "鐵路交通",
+      "地方變遷"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方文化出版與生活史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
+    "recordType": "local-publication",
+    "importance": ""
+  },
+  {
     "id": "1920-030",
     "dynasty": "日統",
     "era": "大正九年",
@@ -2702,6 +3234,26 @@ window.TOUCHENG_HISTORY = [
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
   },
   {
+    "id": "1916-north-fude-rebuilt",
+    "date": "1916",
+    "dynasty": "中華民國",
+    "era": "民國5年",
+    "ganzhi": "",
+    "year": 1916,
+    "title": "北門福德祠重建",
+    "event": "北門福德祠重建，建築規模較一般土地公廟大，形成頭城少見的大型土地公廟格局。",
+    "categories": [
+      "信仰與祭典",
+      "文化資產",
+      "建築"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方文化出版與生活史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
+    "recordType": "local-publication",
+    "importance": ""
+  },
+  {
     "id": "1912-027",
     "dynasty": "日統",
     "era": "宣統三年 / 民國元年",
@@ -2736,6 +3288,26 @@ window.TOUCHENG_HISTORY = [
     "date": "1910",
     "recordType": "local_history",
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
+  },
+  {
+    "id": "1901-jiangjun-temple-rebuilt",
+    "date": "1901",
+    "dynasty": "清",
+    "era": "",
+    "ganzhi": "",
+    "year": 1901,
+    "title": "將軍廟於新建里重建",
+    "event": "原廟址位於福德坑，後因水災等因素，廟宇於新建里現址重建。",
+    "categories": [
+      "信仰與祭典",
+      "地方變遷",
+      "將軍廟"
+    ],
+    "source": "聯經出版《妖怪台灣地圖：環島搜妖探奇錄》",
+    "sourceType": "出版品整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
+    "recordType": "local-publication",
+    "importance": ""
   },
   {
     "id": "1898-025",
@@ -2774,6 +3346,25 @@ window.TOUCHENG_HISTORY = [
     "date": "1897",
     "recordType": "local_history",
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
+  },
+  {
+    "id": "1896-fudezhuang-temple-burned",
+    "date": "1896",
+    "dynasty": "清",
+    "era": "",
+    "ganzhi": "",
+    "year": 1896,
+    "title": "福德庄廟宇於戰亂中焚毀",
+    "event": "資料記載福德庄廟宇於抗日戰事期間遭焚毀。",
+    "categories": [
+      "地方變遷",
+      "信仰與祭典"
+    ],
+    "source": "聯經出版《妖怪台灣地圖：環島搜妖探奇錄》",
+    "sourceType": "出版品整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
+    "recordType": "local-publication",
+    "importance": ""
   },
   {
     "id": "1895-023",
@@ -2815,6 +3406,26 @@ window.TOUCHENG_HISTORY = [
     "importance": "標誌頭城近代行政與社會制度轉換。"
   },
   {
+    "id": "1892-wushih-flood-shift",
+    "date": "1892",
+    "dynasty": "清",
+    "era": "",
+    "ganzhi": "",
+    "year": 1892,
+    "title": "大洪水重創烏石港航運",
+    "event": "西勢大溪因洪水改道轉向東南，主流改由壯圍東港入海，嚴重打擊烏石港航運。",
+    "categories": [
+      "港口與海洋",
+      "自然災害",
+      "地方變遷"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方文化出版與生活史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
+    "recordType": "local-publication",
+    "importance": ""
+  },
+  {
     "id": "1891-022",
     "dynasty": "清",
     "era": "光緒十七年",
@@ -2850,6 +3461,26 @@ window.TOUCHENG_HISTORY = [
     "date": "1890",
     "recordType": "local_history",
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
+  },
+  {
+    "id": "1889-qingyuan-rebuilt",
+    "date": "1889",
+    "dynasty": "清",
+    "era": "",
+    "ganzhi": "",
+    "year": 1889,
+    "title": "地方士紳籌資重建慶元宮",
+    "event": "地方士紳集資重建，現存前殿與兩過廊為當時二殿帶過廊格局；砂岩石雕、石柱與光緒年間對聯保存至今。",
+    "categories": [
+      "文化資產",
+      "信仰與祭典",
+      "建築"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方文化出版與生活史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
+    "recordType": "local-publication",
+    "importance": ""
   },
   {
     "id": "1885-019",
@@ -2929,6 +3560,25 @@ window.TOUCHENG_HISTORY = [
     "importance": "呈現清末烏石港的航道條件與船舶限制。"
   },
   {
+    "id": "1876-jiangjun-temple-founded",
+    "date": "1876",
+    "dynasty": "清",
+    "era": "",
+    "ganzhi": "",
+    "year": 1876,
+    "title": "頭城將軍廟初建",
+    "event": "將軍廟相傳於光緒二年初建，主祀將軍爺，地方亦稱天神宮或天神廟。",
+    "categories": [
+      "信仰與祭典",
+      "將軍廟"
+    ],
+    "source": "聯經出版《妖怪台灣地圖：環島搜妖探奇錄》",
+    "sourceType": "出版品中的地方信仰整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
+    "recordType": "local-publication",
+    "importance": ""
+  },
+  {
     "id": "1875-017",
     "dynasty": "清",
     "era": "光緒元年",
@@ -2945,6 +3595,26 @@ window.TOUCHENG_HISTORY = [
     "date": "1875",
     "recordType": "local_history",
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
+  },
+  {
+    "id": "1875-cat-spirit-legend",
+    "date": "1875",
+    "dynasty": "清",
+    "era": "",
+    "ganzhi": "",
+    "year": 1875,
+    "title": "福德庄山貓精傳說流傳",
+    "event": "《妖怪台灣地圖》整理地方傳說：福德庄山區相傳有山貓精騷擾居民，後藉童乩表達建廟奉祀、轉為守護神的心願。",
+    "categories": [
+      "民間傳說",
+      "地方信仰",
+      "將軍廟"
+    ],
+    "source": "聯經出版《妖怪台灣地圖：環島搜妖探奇錄》",
+    "sourceType": "出版品中的地方傳說整理",
+    "reviewStatus": "此為地方傳說，應與可考建廟史分開閱讀。",
+    "recordType": "folklore",
+    "importance": ""
   },
   {
     "id": "1874-016",
@@ -2983,6 +3653,46 @@ window.TOUCHENG_HISTORY = [
     "date": "1864",
     "recordType": "local_history",
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
+  },
+  {
+    "id": "1863-tou-cheng-fude-temples",
+    "date": "1863",
+    "dynasty": "清",
+    "era": "",
+    "ganzhi": "",
+    "year": 1863,
+    "title": "頭城老街南北門福德祠約於此時興建",
+    "event": "北門福德祠位於老街北端，南門福德祠位於老街南端；兩座廟宇皆朝向街內，界定老街空間並形成守護南北入口的信仰地標。",
+    "categories": [
+      "信仰與祭典",
+      "文化資產",
+      "頭城老街"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方文化出版與生活史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
+    "recordType": "local-publication",
+    "importance": ""
+  },
+  {
+    "id": "1859-li-fengshi-touwei-poem",
+    "date": "1859",
+    "dynasty": "清",
+    "era": "",
+    "ganzhi": "",
+    "year": 1859,
+    "title": "李逢時寫下〈頭圍〉",
+    "event": "詩人李逢時以〈頭圍〉描寫河畔渡口的靜謐野趣與離愁，留下清代頭城港町的重要文學紀錄。",
+    "categories": [
+      "文學",
+      "頭城老街",
+      "港口與海洋"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方文化出版與生活史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
+    "recordType": "local-publication",
+    "importance": ""
   },
   {
     "id": "1857-012",
@@ -3078,6 +3788,27 @@ window.TOUCHENG_HISTORY = [
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
   },
   {
+    "id": "undated-dakenggu",
+    "dynasty": "清",
+    "era": "約清代起",
+    "ganzhi": "",
+    "year": 1800,
+    "date": "清代至今",
+    "title": "大坑罟的河海文化與信仰",
+    "event": "大坑罟位於烏石港旁，其開發歷史與漢人進入蘭陽平原的歷程相連。鄰近河道與海洋形成河海文化，協天宮、威靈廟、中興宮等信仰在居民外移後，仍是地方子民的重要精神寄託。",
+    "categories": [
+      "地方聚落",
+      "信仰與祭典",
+      "港口與海洋"
+    ],
+    "source": "蘭陽博物館電子報",
+    "sourceUrl": "https://www.lym.gov.tw/ch/collection/epaper/epaper-history/",
+    "sourceType": "官方公共文化機構出版資料",
+    "reviewStatus": "依使用者整理之電子報內容建檔；建議後續補上對應期數與文章連結",
+    "recordType": "official",
+    "importance": "補充烏石港周邊聚落的生活、信仰與人口流動脈絡。"
+  },
+  {
     "id": "1796-lym-wushih",
     "dynasty": "清",
     "era": "嘉慶元年",
@@ -3097,6 +3828,26 @@ window.TOUCHENG_HISTORY = [
     "reviewStatus": "依使用者整理之電子報內容建檔；建議後續補上對應期數與文章連結",
     "recordType": "official",
     "importance": "烏石港連結海運、物資與人口移動，是理解頭城早期發展的重要節點。"
+  },
+  {
+    "id": "1796-qingyuan-temple-founded",
+    "date": "1796",
+    "dynasty": "清",
+    "era": "",
+    "ganzhi": "",
+    "year": 1796,
+    "title": "慶元宮創建",
+    "event": "慶元宮創建於1796年，是頭城老街重要的媽祖信仰中心。關於「慶元」名稱由來，地方文獻有不同說法，《覓境》記載其與當時蘭陽平原開發歷史相關。",
+    "categories": [
+      "信仰與祭典",
+      "頭城老街",
+      "文化資產"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方文化出版與生活史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
+    "recordType": "local-publication",
+    "importance": ""
   },
   {
     "id": "1768-002",
