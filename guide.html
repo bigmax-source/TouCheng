@@ -1,8 +1,126 @@
-<!doctype html><html lang="zh-Hant" data-theme="light"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>頭城生活指南｜頭城地方記憶典藏</title><meta name="description" content="提供新住民與居民使用的頭城生活指南。"><link rel="icon" href="favicon.svg"><link rel="stylesheet" href="assets/css/style.css?v=1.3"><script defer src="assets/js/app.js?v=1.3"></script><script defer src="assets/data/guide-data.js?v=1.3"></script><script defer src="assets/js/guide.js?v=1.3"></script></head><body>
-<header class="site-header"><div class="container nav"><a class="brand" href="index.html"><svg class="brand-mark" viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="18" fill="#0b3040"/><path d="M8 43c9-7 14-3 21-14 8-12 17-14 27 14H8z" fill="#5f8165"/><path d="M7 49c11-5 20 5 31 0 8-4 14-2 20 0" fill="none" stroke="#d4ad58" stroke-width="4" stroke-linecap="round"/></svg><span>頭城地方記憶典藏</span></a><nav class="nav-links"><a href="index.html">首頁</a><a href="history.html">時間軸</a><a href="stories.html">頭城小故事</a><a href="guide.html" aria-current="page">生活指南</a><a href="people.html">人物與觀點</a><a href="map.html">地方地圖</a><a href="about.html">關於典藏</a></nav><div class="nav-actions"><button class="icon-btn" data-theme-toggle>☾</button><button class="icon-btn menu-btn" data-menu-toggle>☰</button></div></div></header>
-<main><section class="subhero guide-hero"><div class="container"><p class="eyebrow reveal">Toucheng Living Guide</p><h1 class="reveal">頭城生活指南</h1><p class="reveal">保留原《頭城生活指南》全部已整理服務，並持續加入居民真正需要的交通、維修、醫療與餐飲資訊。</p></div></section>
-<section class="section"><div class="container guide-layout"><aside class="guide-sidebar reveal"><p class="eyebrow">Categories</p><h2>服務分類</h2><div id="guide-categories" class="guide-category-list"></div><div class="guide-coming"><strong>資料持續校訂</strong><p>生活服務可能異動；「使用中」代表近期提供資料，「待確認」代表由舊站移植、尚待再次確認。</p></div></aside>
-<div class="guide-content"><section class="guide-directory reveal"><div class="section-heading"><div><p class="eyebrow">Local services</p><h2 class="section-title">在地服務清單</h2></div><span id="guide-result-count" class="status-chip"></span></div><label class="guide-search"><span>搜尋生活服務</span><input id="guide-search" type="search" placeholder="例如：診所、計程車、早餐、修冷氣" autocomplete="off"></label><div id="guide-items" class="guide-items-grid"></div></section>
-<article class="guide-feature reveal" id="clothing-recycling"><div class="guide-feature-head"><div><span class="source-badge supplement">生活指南</span><p class="eyebrow">Clothing recycling map</p><h2>頭城舊衣回收箱資訊</h2><p>地點可能異動，出發前請以地圖與現場狀況為準。</p></div><a class="btn btn-primary" href="https://www.google.com/maps/d/u/0/viewer?mid=17ob8QwlaQGT7O-Xdpwui33G1rc1TqlRu&ll=24.858238534119945%2C121.82225570000001&z=15" target="_blank" rel="noopener noreferrer">在 Google 地圖開啟 ↗</a></div><div class="guide-map-frame"><iframe src="https://www.google.com/maps/d/embed?mid=17ob8QwlaQGT7O-Xdpwui33G1rc1TqlRu&ll=24.858238534119945%2C121.82225570000001&z=15" title="頭城舊衣回收箱地圖" loading="lazy"></iframe></div></article>
-<div class="editorial-note"><strong>資料定位</strong><p>本頁是居民共同整理的生活資訊，不是商業廣告；店家與服務內容如有變更，可在後續版本修訂。</p></div></div></div></section></main>
-<footer class="site-footer"><div class="container"><div class="footer-grid"><div><h3>頭城地方記憶典藏</h3><p>保存地方史料，也保存生活小事與居民共同記憶。</p></div><div><h3>持續編纂中</h3><p>新的史料與生活資訊將在標示來源後逐步加入。</p></div><div><h3>網站製作</h3><p>設計與開發：頭城二三事與ChatGPT</p></div></div><div class="footer-bottom"><span>© 2026 Toucheng Heritage</span><span>v1.3</span></div></div></footer></body></html>
+<!doctype html>
+<html lang="zh-Hant" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>頭城生活指南｜頭城地方記憶典藏</title>
+<meta name="description" content="提供新住民與居民使用的頭城生活指南。">
+<link rel="icon" href="favicon.svg">
+<link rel="stylesheet" href="assets/css/style.css?v=1.4">
+<script defer src="assets/js/app.js?v=1.4">
+</script>
+<script defer src="assets/data/guide-data.js?v=1.4">
+</script>
+<script defer src="assets/js/guide.js?v=1.4">
+</script>
+</head>
+<body>
+<header class="site-header">
+<div class="container nav">
+<a class="brand" href="index.html">
+<svg class="brand-mark" viewBox="0 0 64 64" aria-hidden="true">
+<rect width="64" height="64" rx="18" fill="#0b3040"/>
+<path d="M8 43c9-7 14-3 21-14 8-12 17-14 27 14H8z" fill="#5f8165"/>
+<path d="M7 49c11-5 20 5 31 0 8-4 14-2 20 0" fill="none" stroke="#d4ad58" stroke-width="4" stroke-linecap="round"/>
+</svg>
+<span>頭城地方記憶典藏</span>
+</a>
+<nav class="nav-links">
+<a href="index.html">首頁</a>
+<a href="history.html">時間軸</a>
+<a href="stories.html">頭城小故事</a>
+<a href="guide.html" aria-current="page">生活指南</a>
+<a href="people.html">人物與觀點</a>
+<a href="map.html">地方地圖</a>
+<a href="about.html">關於典藏</a>
+</nav>
+<div class="nav-actions">
+<button class="icon-btn" data-theme-toggle>☾</button>
+<button class="icon-btn menu-btn" data-menu-toggle>☰</button>
+</div>
+</div>
+</header>
+<main>
+<section class="subhero guide-hero">
+<div class="container">
+<p class="eyebrow reveal">Toucheng Living Guide</p>
+<h1 class="reveal">頭城生活指南</h1>
+<p class="reveal">整理居民真正需要的交通接送、室內修繕水電、教學、醫療與其他在地生活服務。</p>
+</div>
+</section>
+<section class="section">
+<div class="container guide-layout">
+<aside class="guide-sidebar reveal">
+<p class="eyebrow">Categories</p>
+<h2>服務分類</h2>
+<div id="guide-categories" class="guide-category-list">
+</div>
+<div class="guide-coming">
+<strong>資料持續校訂</strong>
+<p>生活服務可能異動；「使用中」代表近期提供資料，「待確認」代表由舊站移植、尚待再次確認。</p>
+</div>
+</aside>
+<div class="guide-content">
+<section class="guide-directory reveal">
+<div class="section-heading">
+<div>
+<p class="eyebrow">Local services</p>
+<h2 class="section-title">在地服務清單</h2>
+</div>
+<span id="guide-result-count" class="status-chip">
+</span>
+</div>
+<label class="guide-search">
+<span>搜尋生活服務</span>
+<input id="guide-search" type="search" placeholder="例如：診所、計程車、早餐、修冷氣" autocomplete="off">
+</label>
+<div id="guide-items" class="guide-items-grid">
+</div>
+</section>
+<article class="guide-feature reveal" id="clothing-recycling">
+<div class="guide-feature-head">
+<div>
+<span class="source-badge supplement">生活指南</span>
+<p class="eyebrow">Clothing recycling map</p>
+<h2>頭城舊衣回收箱資訊</h2>
+<p>地點可能異動，出發前請以地圖與現場狀況為準。</p>
+</div>
+<a class="btn btn-primary" href="https://www.google.com/maps/d/u/0/viewer?mid=17ob8QwlaQGT7O-Xdpwui33G1rc1TqlRu&ll=24.858238534119945%2C121.82225570000001&z=15" target="_blank" rel="noopener noreferrer">在 Google 地圖開啟 ↗</a>
+</div>
+<div class="guide-map-frame">
+<iframe src="https://www.google.com/maps/d/embed?mid=17ob8QwlaQGT7O-Xdpwui33G1rc1TqlRu&ll=24.858238534119945%2C121.82225570000001&z=15" title="頭城舊衣回收箱地圖" loading="lazy">
+</iframe>
+</div>
+</article>
+<div class="editorial-note">
+<strong>資料定位</strong>
+<p>本頁是居民共同整理的生活資訊，不是商業廣告；店家與服務內容如有變更，可在後續版本修訂。</p>
+</div>
+</div>
+</div>
+</section>
+</main>
+<footer class="site-footer">
+<div class="container">
+<div class="footer-grid">
+<div>
+<h3>頭城地方記憶典藏</h3>
+<p>保存地方史料，也保存生活小事與居民共同記憶。</p>
+</div>
+<div>
+<h3>持續編纂中</h3>
+<p>新的史料與生活資訊將在標示來源後逐步加入。</p>
+</div>
+<div>
+<h3>網站製作</h3>
+<p>設計與開發：頭城二三事與ChatGPT</p>
+</div>
+</div>
+<div class="footer-bottom">
+<span>© 2026 Toucheng Heritage</span>
+<span>v1.4</span>
+</div>
+</div>
+</footer>
+</body>
+</html>

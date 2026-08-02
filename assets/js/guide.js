@@ -17,7 +17,7 @@
     const q = (search.value || '').trim().toLowerCase();
     const filtered = items.filter(item => {
       const matchesCategory = activeCategory === '全部' || item.category === activeCategory;
-      const haystack = [item.name,item.category,item.description,item.notes,item.hours,item.phone,item.address].join(' ').toLowerCase();
+      const haystack = [item.name,item.category,item.description,item.notes,item.hours,item.phone,item.address,item.contact,item.email,item.line].join(' ').toLowerCase();
       return matchesCategory && (!q || haystack.includes(q));
     });
     resultCount.textContent = `顯示 ${filtered.length}／${items.length} 筆`;
@@ -27,9 +27,15 @@
           <div class="guide-item-meta"><span class="source-badge supplement">${esc(item.category)}</span><span class="status-chip">${esc(item.status || '待確認')}</span></div>
           <h3>${esc(item.name)}</h3>
           ${item.description ? `<p>${esc(item.description)}</p>` : ''}
+          ${item.contact ? `<p><strong>聯絡人：</strong>${esc(item.contact)}</p>` : ''}
           ${item.address ? `<p><strong>地址：</strong>${esc(item.address)}</p>` : ''}
           ${item.hours ? `<p><strong>時間：</strong>${esc(item.hours)}</p>` : ''}
           ${item.phone ? `<p><strong>電話：</strong><a href="tel:${esc(item.phone.replace(/[^0-9+]/g,''))}">${esc(item.phone)}</a></p>` : ''}
+          ${item.fax ? `<p><strong>傳真：</strong>${esc(item.fax)}</p>` : ''}
+          ${item.email ? `<p><strong>電子郵件：</strong><a href="mailto:${esc(item.email)}">${esc(item.email)}</a></p>` : ''}
+          ${item.line ? `<p><strong>LINE：</strong>${esc(item.line)}</p>` : ''}
+          ${item.businessId ? `<p><strong>統一編號：</strong>${esc(item.businessId)}</p>` : ''}
+          ${item.image ? `<a class="guide-image-link" href="${esc(item.image)}" target="_blank" rel="noopener noreferrer"><img src="${esc(item.image)}" alt="${esc(item.name)}資料圖片" loading="lazy"><span>查看資料圖片 ↗</span></a>` : ''}
           ${item.notes ? `<small>${esc(item.notes)}</small>` : ''}
         </div>
         <div class="guide-item-actions">

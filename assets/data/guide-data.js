@@ -6,8 +6,7 @@ window.TOUCHENG_GUIDE_ITEMS = [
     "description": "在地導覽聯絡資訊。",
     "url": "https://www.facebook.com/riverstone261",
     "status": "待確認",
-    "lastVerified": "",
-    "notes": "資料移植自原《頭城生活指南》網站。"
+    "lastVerified": ""
   },
   {
     "id": "guide-mengda-youli-sheng",
@@ -16,19 +15,18 @@ window.TOUCHENG_GUIDE_ITEMS = [
     "description": "汽車維修、保養及板金烤漆相關服務。",
     "mapUrl": "https://goo.gl/maps/tMwoFmtYY5wfLNFg9",
     "status": "待確認",
-    "lastVerified": "",
-    "notes": "資料移植自原《頭城生活指南》網站。"
+    "lastVerified": ""
   },
   {
     "id": "guide-kavalan-computer",
     "category": "電腦維修與回收",
     "name": "噶瑪蘭電腦",
     "description": "電腦維修與回收。",
-    "phone": "0982-185600",
+    "phone": "0982-185-600",
     "mapUrl": "https://goo.gl/maps/syoubTjUA1z56qt8A",
     "status": "待確認",
     "lastVerified": "",
-    "notes": "原站備註：主機／筆電 $100、螢幕 $50、印表機 $30；價格與服務請先電話確認。"
+    "notes": "原站備註：主機／筆電100元、螢幕50元、印表機30元；價格與服務請先電話確認。"
   },
   {
     "id": "guide-baohui-tech",
@@ -37,18 +35,17 @@ window.TOUCHENG_GUIDE_ITEMS = [
     "description": "電腦維修與相關服務。",
     "mapUrl": "https://goo.gl/maps/Gy3Z12r1F14k1iWw7",
     "status": "待確認",
-    "lastVerified": "",
-    "notes": "資料移植自原《頭城生活指南》網站。"
+    "lastVerified": ""
   },
   {
     "id": "guide-jinfeng",
     "category": "電腦維修與回收",
     "name": "金峰企業社",
-    "description": "電腦維修與相關服務。",
+    "description": "金屬、電器、紙類回收。",
+    "hours": "週一至週五 08:00–18:00；週休二日",
     "mapUrl": "https://maps.app.goo.gl/ZdUthDiFK5u6Z6CC8",
     "status": "待確認",
-    "lastVerified": "",
-    "notes": "資料移植自原《頭城生活指南》網站。"
+    "lastVerified": ""
   },
   {
     "id": "guide-zhaoren-clinic",
@@ -59,7 +56,7 @@ window.TOUCHENG_GUIDE_ITEMS = [
     "status": "待確認",
     "lastVerified": "",
     "hours": "07:30–12:00／14:30–17:00／17:30–21:00",
-    "notes": "門診時間移植自原網站，實際看診時間請先向院所確認。"
+    "notes": "實際看診時間請先向院所確認。"
   },
   {
     "id": "guide-cixin-clinic",
@@ -88,73 +85,185 @@ window.TOUCHENG_GUIDE_ITEMS = [
     "description": "衣物修改相關服務。",
     "mapUrl": "https://goo.gl/maps/vNLusydUSudh49kYA",
     "status": "待確認",
-    "lastVerified": "",
-    "notes": "資料移植自原《頭城生活指南》網站。"
+    "lastVerified": ""
   },
   {
     "id": "guide-weixin-appliance",
     "category": "冷氣與家電維修",
     "name": "維新電器（小胖冷氣）",
     "description": "冷氣安裝、冷氣維修、熱水器及各式家電維修。",
-    "phone": "0905-508890",
+    "phone": "0905-508-890",
     "address": "宜蘭縣頭城鎮城南里東五巷4-1號",
     "status": "使用中",
     "lastVerified": "2026-08-02",
     "notes": "聯絡人：王凱霖（小胖）；資料由頭城二三事提供。"
   },
   {
+    "id": "guide-tienta-ramp",
+    "category": "室內修繕水電",
+    "name": "添大興業",
+    "description": "無障礙斜坡板。",
+    "phone": "03-9770-189",
+    "fax": "03-2166-858",
+    "email": "jameslin@tienta.com.tw",
+    "address": "宜蘭縣頭城鎮和平街70號",
+    "status": "待確認",
+    "lastVerified": ""
+  },
+  {
+    "id": "guide-chengkung-plumbing",
+    "category": "室內修繕水電",
+    "name": "成功水電工程行",
+    "description": "新建案水電工程、老宅翻修、老舊線路更換、高低壓用電申請、自來水申請、衛浴設備燈具安裝、瓦斯管路配置、家庭水電查修、監視器系統、自動控制系統及機電系統整合。",
+    "contact": "吳凰源",
+    "phone": "0981-383-008",
+    "businessId": "87384897",
+    "status": "待確認",
+    "lastVerified": "",
+    "notes": "乙級室內配線士、甲種電匠、工業配線士及自來水管相關證照。"
+  },
+  {
+    "id": "guide-keiting-monitoring",
+    "category": "室內修繕水電",
+    "name": "數位監控系統｜李楷廷（阿倫）",
+    "description": "監視器系統、遠端監控監聽、設計規劃安裝、水電維護維修及網路架設配線。",
+    "phone": "0916-250-657",
+    "email": "thekeitin@yahoo.com",
+    "line": "thekeitin",
+    "address": "宜蘭縣頭城鎮下埔里下埔路57之3號",
+    "status": "待確認",
+    "lastVerified": ""
+  },
+  {
+    "id": "guide-miyamura-interior",
+    "category": "室內修繕水電",
+    "name": "宮村室內裝修設計工程有限公司",
+    "description": "室內裝修設計、建築外觀設計及工程管理顧問。",
+    "contact": "林銘慶",
+    "phone": "0983-338-147",
+    "line": "0983338147",
+    "businessId": "56633920",
+    "address": "宜蘭縣頭城鎮青雲路二段723號",
+    "status": "待確認",
+    "lastVerified": ""
+  },
+  {
+    "id": "guide-shengyuan-engineering",
+    "category": "室內修繕水電",
+    "name": "盛源工程行",
+    "description": "水電工程承包、維修及安裝。",
+    "contact": "張展源",
+    "phone": "0988-437-356",
+    "businessId": "87385354",
+    "address": "宜蘭縣頭城鎮頭濱路一段439號",
+    "status": "待確認",
+    "lastVerified": ""
+  },
+  {
+    "id": "guide-jinli-curtain",
+    "category": "室內修繕水電",
+    "name": "金利屋窗簾",
+    "description": "壁紙、地毯、塑膠拉門、塑膠地磚、窗簾及到府丈量估價。",
+    "contact": "林文仲",
+    "phone": "0935-088-467",
+    "fax": "03-9771-767",
+    "line": "0935088467",
+    "businessId": "13669217",
+    "address": "宜蘭縣頭城鎮開蘭路249號",
+    "status": "待確認",
+    "lastVerified": ""
+  },
+  {
+    "id": "guide-changhong-aluminum",
+    "category": "室內修繕水電",
+    "name": "長弘鋁門窗",
+    "description": "防盜靜音格子窗、防颱百葉窗、鋁格網、造型鋁格柵、防盜窗、造型門、隱藏式紗窗門、舊窗換新窗、陽台凸窗及採光罩。",
+    "contact": "莊宏琦",
+    "phone": "0917-739-990",
+    "fax": "03-9773-097",
+    "email": "mia720523@gmail.com",
+    "businessId": "40971543",
+    "address": "宜蘭縣頭城鎮金面路202-7號",
+    "status": "待確認",
+    "lastVerified": ""
+  },
+  {
+    "id": "guide-heixuan-carpentry",
+    "category": "室內修繕水電",
+    "name": "黑軒木工油漆",
+    "description": "木工與油漆服務，需依現場狀況評估。",
+    "phone": "0978-007-067",
+    "status": "待確認",
+    "lastVerified": "",
+    "notes": "無法隔空判斷，實際工程內容與費用請依現場評估。"
+  },
+  {
+    "id": "guide-japanese-tutor",
+    "category": "教學服務",
+    "name": "日本語文家教",
+    "description": "一對一或團體日語教學；1人每小時500元、2人每人每小時450元、3人以上每人每小時350元。",
+    "hours": "可配合彈性調整",
+    "email": "saiyuri1029@gmail.com",
+    "line": "yayu1029",
+    "address": "7-11蘭雲門市（麥當勞右前方）",
+    "status": "待確認",
+    "lastVerified": "",
+    "notes": "也歡迎一人以上團體報名；費用與上課安排請先聯絡確認。"
+  },
+  {
+    "id": "guide-piano-lessons",
+    "category": "教學服務",
+    "name": "來學鋼琴吧",
+    "description": "四歲以上兒童，一對一、每週一堂課；課程量身定制，同步學習鋼琴演奏、樂理試唱與音樂素養。",
+    "address": "煦翎花藝設計1樓",
+    "image": "assets/images/guide/piano-lessons.jpg",
+    "status": "待確認",
+    "lastVerified": "",
+    "notes": "提供一堂免費體驗課，請掃描資料圖片中的LINE QR碼預約。"
+  },
+  {
+    "id": "guide-lin-ruilin-taxi",
+    "category": "交通接送",
+    "name": "林瑞麟計程車",
+    "description": "頭城地區計程車與機場接送服務。",
+    "phone": "0932-088-662",
+    "line": "0932088662",
+    "status": "待確認",
+    "lastVerified": "",
+    "notes": "車牌TAZ-110。"
+  },
+  {
+    "id": "guide-kavalan-boat",
+    "category": "交通接送",
+    "name": "噶瑪蘭號",
+    "description": "烏石港出發的繞島、賞鯨與登島航程，可免費代客申請登島。",
+    "contact": "陳凱迪",
+    "phone": "0927-639-785",
+    "email": "kind1205@yahoo.com.tw",
+    "url": "http://www.yilan-whale.tw/",
+    "address": "宜蘭縣頭城鎮烏石港碼頭",
+    "status": "待確認",
+    "lastVerified": "",
+    "notes": "原資料列有繞島、賞鯨與登島等航程及票價；航班、票價與登島規定請以業者最新公告為準。"
+  },
+  {
     "id": "guide-xu-wenbin-taxi",
-    "category": "計程車與交通",
+    "category": "交通接送",
     "name": "徐文彬計程車",
-    "description": "頭城地區叫車及包車服務。",
+    "description": "頭城地區包車服務及夜間叫車。",
     "phone": "0916-220-000",
     "hours": "14:00–02:00",
     "status": "使用中",
     "lastVerified": "2026-08-02",
-    "notes": "需要叫車服務，歡迎來電；車牌 TDH-0068。"
+    "notes": "車牌TDH-0068。"
   },
   {
-    "id": "guide-five-aunt-breakfast",
-    "category": "早餐與餐飲",
-    "name": "五阿姨早餐店",
-    "description": "2017年5月30日重新開幕的在地早餐店。",
-    "address": "宜蘭縣頭城鎮城西里吉祥路32號",
+    "id": "guide-airport-charter-0953",
+    "category": "交通接送",
+    "name": "機場接送、包車旅遊",
+    "description": "機場接送與包車旅遊服務。",
+    "phone": "0953-965-988",
     "status": "使用中",
-    "lastVerified": "2026-08-02",
-    "notes": "開幕日期與地址由頭城二三事提供。"
-  },
-  {
-    "id": "guide-lele-lunchbox",
-    "category": "早餐與餐飲",
-    "name": "樂樂飯盒",
-    "description": "現做飯盒與便當，11:00起營業至售完。",
-    "address": "宜蘭縣頭城鎮沙成路63-1號",
-    "hours": "11:00–售完",
-    "status": "使用中",
-    "lastVerified": "2026-08-02",
-    "notes": "2026年4月18日開幕。"
-  },
-  {
-    "id": "guide-yuanbao-breakfast",
-    "category": "早餐與餐飲",
-    "name": "元堡早餐",
-    "description": "頭城民鋒路早餐店。",
-    "address": "宜蘭縣頭城鎮民鋒路78號",
-    "hours": "06:00–11:00",
-    "status": "使用中",
-    "lastVerified": "2026-08-02",
-    "notes": "2026年5月2日開幕。"
-  },
-  {
-    "id": "guide-donburi",
-    "category": "早餐與餐飲",
-    "name": "丼飯！",
-    "description": "牛五花、羊肉、豬五花、去骨雞腿丼飯，每份120元。",
-    "address": "宜蘭縣頭城鎮民鋒路78-2號",
-    "phone": "0981-482100",
-    "hours": "10:00–14:00／16:00–19:00",
-    "status": "使用中",
-    "lastVerified": "2026-08-02",
-    "notes": "2026年7月24日正式營業；另有水煮時蔬、半熟太陽蛋與蔥蛋。"
+    "lastVerified": "2026-08-02"
   }
 ];
