@@ -64,3 +64,14 @@ body{font-family:var(--sans);background:var(--color-paper);color:var(--color-ink
 
 /* v1.1 guide directory */
 .guide-category-list{display:grid;gap:10px}.guide-directory{margin-bottom:52px}.guide-search{display:block;margin:0 0 22px}.guide-search span{display:block;font-weight:700;margin-bottom:8px}.guide-search input{width:100%;padding:15px 17px;border:1px solid var(--color-line);border-radius:16px;background:var(--color-surface);color:var(--color-text);font:inherit}.guide-items-grid{display:grid;gap:14px}.guide-item-card{display:flex;justify-content:space-between;align-items:center;gap:24px;padding:22px;border:1px solid var(--color-line);border-radius:20px;background:var(--color-surface);box-shadow:var(--shadow-sm)}.guide-item-main{min-width:0}.guide-item-meta{display:flex;gap:8px;flex-wrap:wrap}.guide-item-card h3{margin:.7rem 0 .35rem;font-size:1.25rem}.guide-item-card p{margin:.25rem 0;color:var(--color-muted)}.guide-item-card small{display:block;margin-top:.55rem;color:var(--color-muted)}.guide-item-actions{display:flex;gap:9px;flex-wrap:wrap;justify-content:flex-end}.guide-feature{margin-top:52px}@media(max-width:700px){.guide-item-card{align-items:flex-start;flex-direction:column}.guide-item-actions{justify-content:flex-start}}
+
+/* v1.2 timeline readability */
+.timeline-mode::before,
+.timeline-mode .history-card::before{display:none!important}
+.timeline-mode{padding-left:0}
+.history-card .event-year{position:relative;z-index:1}
+.then-now-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem;margin-top:1rem}
+.then-now-grid figure{margin:0;border:1px solid var(--color-line);border-radius:var(--radius-md);overflow:hidden;background:var(--color-paper-strong)}
+.then-now-grid img{width:100%;aspect-ratio:16/10;object-fit:cover}
+.then-now-grid figcaption{padding:.75rem 1rem;color:var(--color-muted);font-size:.85rem}
+@media(max-width:700px){.then-now-grid{grid-template-columns:1fr}}
