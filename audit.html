@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="zh-Hant" data-theme="light">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>校訂與資料來源報告｜頭城地方記憶典藏</title>
+<meta name="description" content="檢視頭城地方記憶典藏的來源統計、日期精度與疑似重複事件。">
+<link rel="icon" href="favicon.svg"><link rel="stylesheet" href="assets/css/style.css?v=1.6">
+<script defer src="assets/data/site-meta.js?v=1.6"></script><script defer src="assets/data/audit-report.js?v=1.6"></script><script defer src="assets/js/app.js?v=1.6"></script><script defer src="assets/js/audit.js?v=1.6"></script>
+</head>
+<body>
+<header class="site-header"><div class="container nav"><a class="brand" href="index.html"><svg class="brand-mark" viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="18" fill="#0b3040"/><path d="M8 43c9-7 14-3 21-14 8-12 17-14 27 14H8z" fill="#5f8165"/><path d="M7 49c11-5 20 5 31 0 8-4 14-2 20 0" fill="none" stroke="#d4ad58" stroke-width="4" stroke-linecap="round"/></svg><span>頭城地方記憶典藏</span></a><nav class="nav-links" aria-label="主要導覽"><a href="index.html">首頁</a><a href="history.html">時間軸</a><a href="stories.html">頭城小故事</a><a href="guide.html">生活指南</a><a href="people.html">人物與觀點</a><a href="map.html">地方地圖</a><a href="about.html">關於典藏</a></nav><div class="nav-actions"><button class="icon-btn" data-theme-toggle aria-label="切換深色模式">☾</button><button class="icon-btn menu-btn" data-menu-toggle aria-label="開啟選單" aria-expanded="false">☰</button></div></div></header>
+<main>
+<section class="page-hero"><div class="container"><p class="eyebrow">Editorial audit · Source overview</p><h1>校訂與資料來源報告</h1><p>程式協助找出可能需要檢查的地方；不自動刪除、不自動合併，也不擅自補上未知日期。</p><div class="archive-stats"><span><strong id="auditRecordCount">—</strong> 筆紀錄</span><span><strong id="auditDuplicateCount">—</strong> 組疑似重複</span><span><strong id="auditPrecisionCount">—</strong> 筆日期待補</span><span><strong id="auditSourceCount">—</strong> 種主要來源</span></div></div></section>
+<section class="section"><div class="container"><div class="section-heading"><div><p class="eyebrow">Sources</p><h2 class="section-title">資料來源總覽</h2></div></div><p class="audit-rule" id="auditRule"></p><div class="source-overview" id="sourceOverview"></div><details class="shared-url-panel"><summary>查看多人共用的來源網址</summary><div id="sharedUrlList"></div></details></div></section>
+<section class="section"><div class="container"><div class="section-heading"><div><p class="eyebrow">Resolved</p><h2 class="section-title">本版已確認合併</h2></div></div><div class="audit-list" id="resolvedMergeList"></div></div></section>
+<section class="section section-muted"><div class="container"><div class="section-heading"><div><p class="eyebrow">Review queue</p><h2 class="section-title">人工校訂候選</h2></div></div><div class="audit-toolbar"><label>問題類型<select id="auditType"><option value="">全部類型</option><option>疑似重複</option><option>同名不同日期</option><option>日期精度</option></select></label><label>搜尋<input id="auditSearch" type="search" placeholder="事件名稱或紀錄 ID"></label></div><p id="auditSummary" class="small-note"></p><div class="audit-list" id="auditList"></div><div class="load-more-wrap"><button class="btn btn-primary" id="auditMore" type="button">載入更多</button></div></div></section>
+</main>
+<footer class="site-footer"><div class="container"><div class="footer-grid"><div><h3>校訂原則</h3><p>程式找線索，地方經驗與可追溯來源做最後判斷。</p></div><div><h3>版本</h3><p>v<span data-site-version>1.6</span>・更新 <span data-site-updated>2026-08-03</span></p></div><div><h3>回到資料</h3><p><a href="history.html">開啟完整時間軸 →</a></p></div></div><div class="footer-bottom"><span>© 2026 Toucheng Heritage</span><span>所有候選均保留人工判斷。</span></div></div></footer>
+</body></html>

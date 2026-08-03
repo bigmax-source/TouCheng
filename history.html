@@ -6,13 +6,11 @@
 <title>時間軸與生活誌｜頭城地方記憶典藏</title>
 <meta name="description" content="搜尋頭城地方史手稿、網站補充事件與生活史紀錄。">
 <link rel="icon" href="favicon.svg">
-<link rel="stylesheet" href="assets/css/style.css?v=1.5">
-<script defer src="assets/data/history-data.js?v=1.5">
+<link rel="stylesheet" href="assets/css/style.css?v=1.6">
+<script defer src="assets/data/site-meta.js?v=1.6"></script>
+<script defer src="assets/js/app.js?v=1.6">
 </script>
-<script defer src="assets/data/site-meta.js?v=1.5"></script>
-<script defer src="assets/js/app.js?v=1.5">
-</script>
-<script defer src="assets/js/history.js?v=1.5">
+<script defer src="assets/js/history.js?v=1.6">
 </script>
 </head>
 <body>
@@ -86,11 +84,11 @@
 </label>
 <label>資料類型<select id="sourceFilter">
 <option value="">全部來源</option>
-<option value="official">官方／公共機構</option>
-<option value="local_publication_history">地方出版與文史</option>
-<option value="news">新聞紀錄</option>
-<option value="local_community">地方生活與社群</option>
-<option value="oral_legend">民間傳說與口述</option>
+<option value="官方／公共機構">官方／公共機構</option>
+<option value="地方出版與文史">地方出版與文史</option>
+<option value="新聞紀錄">新聞紀錄</option>
+<option value="地方生活與社群">地方生活與社群</option>
+<option value="民間傳說與口述">民間傳說與口述</option>
 </select>
 </label>
 <label>排序<select id="sortOrder">
@@ -104,7 +102,7 @@
 </div>
 </div>
 <div class="results-bar">
-<p id="resultSummary" aria-live="polite">載入中…</p>
+<div><p id="resultSummary" aria-live="polite">載入中…</p><p class="load-status" id="historyLoadStatus">正在讀取資料索引…</p></div>
 <div class="result-actions">
 <button class="view-toggle" id="viewToggle" type="button">切換精簡閱讀</button>
 <button class="btn btn-small btn-primary" id="journeyToggle" type="button">開始歷史漫遊</button>
@@ -119,11 +117,18 @@
 <section class="history-results timeline-mode" id="historyResults">
 </section>
 </div>
+<div class="load-more-wrap"><button class="btn btn-primary" id="loadMoreHistory" type="button" hidden>載入更多</button></div>
 <div class="empty-state" id="emptyState" hidden>
 <h2>找不到符合的紀錄</h2>
 <p>可嘗試縮短關鍵字，或清除篩選條件。</p>
 <button class="btn btn-primary" id="emptyReset" type="button">顯示全部資料</button>
 </div>
+</div>
+</section>
+<section class="section section-muted">
+<div class="container research-links">
+<article><p class="eyebrow">Editorial audit</p><h2>資料如何被校訂？</h2><p>查看日期精度、疑似重複、同名不同日期與資料來源統計。報告只提出候選，不自動刪除史料。</p><a class="btn btn-ghost" href="audit.html">開啟校訂與來源報告 →</a></article>
+<article><p class="eyebrow">Curated paths</p><h2>先從三條路徑閱讀</h2><p>不必一次面對499張卡片，可從烏石港、女性與家屋、雪山隧道後的頭城開始。</p><a class="btn btn-primary" href="curations.html">進入主題策展 →</a></article>
 </div>
 </section>
 </main>

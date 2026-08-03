@@ -8,7 +8,10 @@ const siteMeta = window.SITE_META || {};
 
 document.querySelectorAll('[data-site-version]').forEach(el=>el.textContent=siteMeta.version || '1.5');
 document.querySelectorAll('[data-site-updated]').forEach(el=>el.textContent=siteMeta.updatedAt || '2026-08-03');
-document.querySelectorAll('[data-history-count]').forEach(el=>el.textContent=historyData.length || '—');
+document.querySelectorAll('[data-history-count]').forEach(el=>el.textContent=siteMeta.historyCount || historyData.length || '—');
+document.querySelectorAll('[data-site-coverage]').forEach(el=>el.textContent=siteMeta.coverage || '—');
+document.querySelectorAll('[data-source-type-count]').forEach(el=>el.textContent=siteMeta.sourceTypeCount || '—');
+document.querySelectorAll('[data-curation-count]').forEach(el=>el.textContent=siteMeta.curationCount || '—');
 
 const storedTheme = localStorage.getItem('toucheng-theme');
 if (storedTheme) root.dataset.theme = storedTheme;
