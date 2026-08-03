@@ -1,5 +1,67 @@
 window.TOUCHENG_HISTORY = [
   {
+    "id": "undated-dakenggu",
+    "dynasty": "清",
+    "era": "約清代起",
+    "ganzhi": "",
+    "year": 1800,
+    "date": "清代至今",
+    "title": "大坑罟的河海文化與信仰",
+    "event": "大坑罟位於烏石港旁，其開發歷史與漢人進入蘭陽平原的歷程相連。鄰近河道與海洋形成河海文化，協天宮、威靈廟、中興宮等信仰在居民外移後，仍是地方子民的重要精神寄託。",
+    "categories": [
+      "地方聚落",
+      "信仰與祭典",
+      "港口與海洋"
+    ],
+    "source": "蘭陽博物館電子報",
+    "sourceUrl": "https://www.lym.gov.tw/ch/collection/epaper/epaper-history/",
+    "sourceType": "官方公共文化機構出版資料",
+    "reviewStatus": "依使用者整理之電子報內容建檔；建議後續補上對應期數與文章連結",
+    "recordType": "official",
+    "importance": "補充烏石港周邊聚落的生活、信仰與人口流動脈絡。"
+  },
+  {
+    "id": "undated-dongyue-artifact",
+    "dynasty": "近現代",
+    "era": "",
+    "ganzhi": "",
+    "year": 2020,
+    "date": "文化資產紀錄",
+    "title": "頭城東嶽廟承義社「陰陽司大身尪」登錄古物",
+    "event": "頭城東嶽廟承義社的「陰陽司大身尪」（神將）獲指定登錄為一般古物，為全臺首座一般古物類的大身尪。",
+    "categories": [
+      "文化資產",
+      "信仰與祭典"
+    ],
+    "source": "蘭陽博物館電子報",
+    "sourceUrl": "https://www.lym.gov.tw/ch/collection/epaper/epaper-history/",
+    "sourceType": "官方公共文化機構出版資料",
+    "reviewStatus": "依使用者整理之電子報內容建檔；建議後續補上對應期數與文章連結",
+    "recordType": "official",
+    "importance": "呈現頭城宗教器物與無形信仰文化的文資價值。"
+  },
+  {
+    "id": "undated-guishan-symbol",
+    "dynasty": "近現代",
+    "era": "",
+    "ganzhi": "",
+    "year": 2000,
+    "date": "地景紀錄",
+    "title": "龜山島作為蘭陽地景精神象徵",
+    "event": "龜山島被視為守護頭城與蘭陽平原的地景精神象徵，其形象在蘭陽博物館的空間規劃中具有重要意義。",
+    "categories": [
+      "自然與環境",
+      "地方記憶",
+      "教育與文化"
+    ],
+    "source": "蘭陽博物館電子報",
+    "sourceUrl": "https://www.lym.gov.tw/ch/collection/epaper/epaper-history/",
+    "sourceType": "官方公共文化機構出版資料",
+    "reviewStatus": "依使用者整理之電子報內容建檔；建議後續補上對應期數與文章連結",
+    "recordType": "official",
+    "importance": "說明自然地景如何進入地方認同與博物館空間敘事。"
+  },
+  {
     "id": "2026-07-28-mimi-veggie-chicken",
     "date": "2026-07-28",
     "dynasty": "中華民國",
@@ -182,6 +244,32 @@ window.TOUCHENG_HISTORY = [
     "importance": "新校舍啟用記錄地方教育設施更新，以及學校與社區持續發展的重要節點。"
   },
   {
+    "id": "2025-02-03-qiang-qiang-qiang-qiang",
+    "date": "2025-02-03",
+    "dynasty": "中華民國",
+    "era": "民國114年",
+    "ganzhi": "",
+    "year": 2025,
+    "title": "連明偉《槍強搶嗆》開賣",
+    "event": "頭城作家連明偉的長篇小說《槍強搶嗆》於2025年2月3日開賣。作品以地方選舉、政治語言與人際關係為背景，延續他對家鄉、社會與時代現場的書寫。",
+    "categories": [
+      "人物與文學"
+    ],
+    "source": "博客來《槍強搶嗆》商品頁",
+    "sourceUrl": "https://www.books.com.tw/products/0011012452",
+    "sourceType": "文學作品與出版資料",
+    "reviewStatus": "依出版品頁面與作者資料整理。",
+    "recordType": "local-publication",
+    "images": [
+      {
+        "src": "assets/images/people/qiang-qiang-qiang-qiang.png",
+        "alt": "連明偉《槍強搶嗆》書封",
+        "caption": "《槍強搶嗆》書封（使用者提供）"
+      }
+    ],
+    "importance": "記錄頭城作家的當代文學出版，讓地方經驗、政治語言與小說創作進入時間軸。"
+  },
+  {
     "id": "2024-07-09-touwei-farm-station",
     "date": "2024-07-09",
     "dynasty": "中華民國",
@@ -300,6 +388,46 @@ window.TOUCHENG_HISTORY = [
     ]
   },
   {
+    "id": "2023-11-12-paper-airplane-final",
+    "date": "2023-11-12",
+    "dynasty": "中華民國",
+    "era": "民國112年",
+    "ganzhi": "",
+    "year": 2023,
+    "title": "第二屆紙飛機大賽頭城總決賽",
+    "event": "由佛光大學、媽媽號與宜蘭家扶等單位共同推動的第二屆紙飛機大賽在頭城舉行總決賽，約有500位國小學童參與，透過摺紙、競賽與陪伴串聯親子教育及地方社群。",
+    "categories": [
+      "教育與文化",
+      "地方記憶與社群"
+    ],
+    "source": "中央社訊息服務",
+    "sourceUrl": "https://www.cna.com.tw/postwrite/chi/357013",
+    "sourceType": "新聞紀錄",
+    "reviewStatus": "依活動新聞稿整理。",
+    "recordType": "news",
+    "importance": "記錄地方組織、學校與社福團體協力形成的兒童公共活動。"
+  },
+  {
+    "id": "2023-06-09-water-residence",
+    "date": "2023-06-09",
+    "dynasty": "中華民國",
+    "era": "民國112年",
+    "ganzhi": "",
+    "year": 2013,
+    "title": "水旅居開幕",
+    "event": "水旅居於 2023 年 6 月 9 日開幕，增加頭城住宿與旅遊服務選擇，反映地方觀光型態與旅宿產業持續發展。",
+    "categories": [
+      "生活誌",
+      "商業發展",
+      "觀光與旅宿"
+    ],
+    "source": "頭城二三事提供／網站補充整理",
+    "sourceType": "地方生活史與社群記憶",
+    "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源",
+    "recordType": "community",
+    "importance": "記錄頭城旅宿產業與觀光服務的日常變化。"
+  },
+  {
     "id": "2023-03-10-archipelago-partial",
     "date": "2023-03-10",
     "dynasty": "中華民國",
@@ -319,27 +447,6 @@ window.TOUCHENG_HISTORY = [
     "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源。",
     "recordType": "community",
     "importance": "記錄頭城近年都市天際線、旅宿供給與觀光空間的變化。"
-  },
-  {
-    "id": "2013-05-05-toucheng-jhs-old-campus-demolition",
-    "date": "2013-05-05",
-    "dynasty": "中華民國",
-    "era": "民國112年",
-    "ganzhi": "",
-    "year": 2023,
-    "title": "頭城國中舊校區拆除",
-    "event": "2013 年 5 月 5 日，頭城國中舊校區拆除。舊校舍承載多代師生的求學與校園生活記憶，拆除也標誌校園空間更新與地方教育景觀轉變。",
-    "categories": [
-      "教育與文化",
-      "校園生活",
-      "地方記憶",
-      "建築變遷"
-    ],
-    "source": "頭城二三事提供／網站補充整理",
-    "sourceType": "地方生活史與社群記憶",
-    "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源",
-    "recordType": "community",
-    "importance": "記錄多代師生共同生活的校園空間消失與教育設施更新。"
   },
   {
     "id": "2022-12-29-poya-beauty",
@@ -584,26 +691,6 @@ window.TOUCHENG_HISTORY = [
     "importance": "記錄頭城近年都市天際線、旅宿供給與觀光空間的變化。"
   },
   {
-    "id": "undated-dongyue-artifact",
-    "dynasty": "近現代",
-    "era": "",
-    "ganzhi": "",
-    "year": 2020,
-    "date": "文化資產紀錄",
-    "title": "頭城東嶽廟承義社「陰陽司大身尪」登錄古物",
-    "event": "頭城東嶽廟承義社的「陰陽司大身尪」（神將）獲指定登錄為一般古物，為全臺首座一般古物類的大身尪。",
-    "categories": [
-      "文化資產",
-      "信仰與祭典"
-    ],
-    "source": "蘭陽博物館電子報",
-    "sourceUrl": "https://www.lym.gov.tw/ch/collection/epaper/epaper-history/",
-    "sourceType": "官方公共文化機構出版資料",
-    "reviewStatus": "依使用者整理之電子報內容建檔；建議後續補上對應期數與文章連結",
-    "recordType": "official",
-    "importance": "呈現頭城宗教器物與無形信仰文化的文資價值。"
-  },
-  {
     "id": "2020-10-langju-hotel",
     "date": "2020-10",
     "dynasty": "中華民國",
@@ -624,6 +711,28 @@ window.TOUCHENG_HISTORY = [
     "importance": "記錄頭城近年都市天際線、旅宿供給與觀光空間的變化。"
   },
   {
+    "id": "2020-02-29-taiwanese-junior-anchor",
+    "date": "2020-02-29",
+    "dynasty": "中華民國",
+    "era": "民國109年",
+    "ganzhi": "",
+    "year": 2020,
+    "title": "媽媽號台語小主播首播",
+    "event": "「媽媽號－台語小主播新聞台」首集播出，由孩子以臺語採訪與報導頭城地方新聞，讓語言學習、媒體實作與社區觀察在生活現場結合。",
+    "categories": [
+      "教育與文化",
+      "地方記憶與社群"
+    ],
+    "source": "國家文化記憶庫／媽媽號台語小主播新聞台",
+    "sourceUrl": "https://tcmb.culture.tw/zh-tw/detail?id=603667&indexCode=Culture_Media",
+    "referenceUrl": "https://www.youtube.com/@媽媽號-台語小主播新",
+    "referenceLabel": "媽媽號台語小主播 YouTube",
+    "sourceType": "公共文化資料與社群紀錄",
+    "reviewStatus": "依文化資料庫與節目頻道資訊整理。",
+    "recordType": "official",
+    "importance": "保存兒童用臺語記錄地方新聞的起點，也是頭城語言教育與社區媒體的重要節點。"
+  },
+  {
     "id": "2019-03-20-toucheng-mom-house",
     "date": "2019-03-20",
     "dynasty": "中華民國",
@@ -640,12 +749,34 @@ window.TOUCHENG_HISTORY = [
     ],
     "source": "媽媽號 Facebook 粉絲專頁",
     "sourceUrl": "https://www.facebook.com/Toucheng.Mom.House",
-    "referenceLabel": "DOC職人｜媽媽號柑仔店介紹",
+    "referenceLabel": "媽媽號地方行動介紹",
     "referenceUrl": "https://docmall.doctw.com/news_page.php?id=384",
     "sourceType": "地方團體社群頁面",
     "reviewStatus": "開始日期由使用者提供；服務內容參考DOC職人文章整理。",
     "recordType": "community",
     "importance": "記錄地方親子、藝文與台語文化交流空間的形成。"
+  },
+  {
+    "id": "2018-07-14-smilebay-trial-camping",
+    "date": "2018-07-14",
+    "dynasty": "中華民國",
+    "era": "民國107年",
+    "ganzhi": "",
+    "year": 2018,
+    "title": "微笑灣休閒農場 SmileBay 試露營",
+    "event": "微笑灣休閒農場 SmileBay 於2018年7月14日進行試露營，記錄頭城山海環境與露營、休閒農業及地方旅遊結合的新據點。",
+    "categories": [
+      "產業與商業",
+      "文化資產與地景"
+    ],
+    "source": "微笑灣休閒農場 Facebook",
+    "sourceUrl": "https://www.facebook.com/IlanSmileBay/",
+    "referenceUrl": "https://itaiwan.moe.gov.tw/local_info.php?id=2132",
+    "referenceLabel": "教育部數位機會中心地方資訊",
+    "sourceType": "地方生活與社群紀錄",
+    "reviewStatus": "日期由使用者提供，並附農場官方社群與公共計畫介紹頁。",
+    "recordType": "community",
+    "importance": "記錄頭城休閒農業與露營旅遊據點的形成。"
   },
   {
     "id": "2018-oh1796-complete",
@@ -729,28 +860,23 @@ window.TOUCHENG_HISTORY = [
     "importance": "保存舊圖書館消失的時間點，讓居民共同使用過的公共空間不被遺忘。"
   },
   {
-    "id": "2015-06-goldfish-space",
-    "date": "2015-06",
+    "id": "office-2016-8fb3c8adb",
+    "date": "2016-12-30",
     "dynasty": "中華民國",
-    "era": "民國104年",
+    "era": "民國105年",
     "ganzhi": "",
-    "year": 2015,
-    "title": "金魚厝邊開始投入頭城地方工作",
-    "event": "金魚厝邊於2015年6月開始，以老鎮長邱金魚故居為地方據點，延續好厝邊精神，串連地方人物、產業、文化體驗與老街行動。",
+    "year": 2016,
+    "title": "頭城火車站整建工程完工啟用",
+    "event": "頭城火車站整建工程自2015年6月動工，2016年11月竣工，12月30日啟用。",
     "categories": [
-      "地方創生",
-      "社群紀錄",
-      "教育與文化",
-      "頭城老街"
+      "交通與建設"
     ],
-    "source": "金魚厝邊 Facebook 粉絲專頁",
-    "sourceUrl": "https://www.facebook.com/goldfishspace",
-    "referenceLabel": "淡蘭國家綠道｜金魚厝邊介紹",
-    "referenceUrl": "https://danlantrail.necoast-nsa.gov.tw/Stores-Content.aspx?a=3003&l=1&cat=&listid=2869&fromCnt=1",
-    "sourceType": "地方團體社群頁面",
-    "reviewStatus": "開始月份由使用者提供；據點與地方工作內容參考淡蘭國家綠道網站整理。",
-    "recordType": "community",
-    "importance": "保存地方創生團隊串連頭城人、地、產與文化行動的節點。"
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
   },
   {
     "id": "2016-bike-mazu-fourth-year",
@@ -771,6 +897,30 @@ window.TOUCHENG_HISTORY = [
     "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
     "recordType": "local-publication",
     "importance": ""
+  },
+  {
+    "id": "2015-06-goldfish-space",
+    "date": "2015-06",
+    "dynasty": "中華民國",
+    "era": "民國104年",
+    "ganzhi": "",
+    "year": 2015,
+    "title": "金魚厝邊開始投入頭城地方工作",
+    "event": "金魚厝邊於2015年6月開始，以老鎮長邱金魚故居為地方據點，延續好厝邊精神，串連地方人物、產業、文化體驗與老街行動。",
+    "categories": [
+      "地方創生",
+      "社群紀錄",
+      "教育與文化",
+      "頭城老街"
+    ],
+    "source": "金魚厝邊 Facebook 粉絲專頁",
+    "sourceUrl": "https://www.facebook.com/goldfishspace",
+    "referenceLabel": "金魚厝邊介紹",
+    "referenceUrl": "https://danlantrail.necoast-nsa.gov.tw/Stores-Content.aspx?a=3003&l=1&cat=&listid=2869&fromCnt=1",
+    "sourceType": "地方團體社群頁面",
+    "reviewStatus": "開始月份由使用者提供；據點與地方工作內容參考淡蘭國家綠道網站整理。",
+    "recordType": "community",
+    "importance": "保存地方創生團隊串連頭城人、地、產與文化行動的節點。"
   },
   {
     "id": "2015-catholic-restoration-complete",
@@ -911,26 +1061,6 @@ window.TOUCHENG_HISTORY = [
     "importance": ""
   },
   {
-    "id": "2023-06-09-water-residence",
-    "date": "2023-06-09",
-    "dynasty": "中華民國",
-    "era": "民國112年",
-    "ganzhi": "",
-    "year": 2013,
-    "title": "水旅居開幕",
-    "event": "水旅居於 2023 年 6 月 9 日開幕，增加頭城住宿與旅遊服務選擇，反映地方觀光型態與旅宿產業持續發展。",
-    "categories": [
-      "生活誌",
-      "商業發展",
-      "觀光與旅宿"
-    ],
-    "source": "頭城二三事提供／網站補充整理",
-    "sourceType": "地方生活史與社群記憶",
-    "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源",
-    "recordType": "community",
-    "importance": "記錄頭城旅宿產業與觀光服務的日常變化。"
-  },
-  {
     "id": "2013-09-02-supp",
     "date": "2013-09-02",
     "dynasty": "中華民國",
@@ -969,6 +1099,27 @@ window.TOUCHENG_HISTORY = [
     "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源",
     "recordType": "community",
     "importance": "補足雪山隧道通車後，頭城對外公共運輸逐步成形的交通脈絡。"
+  },
+  {
+    "id": "2013-05-05-toucheng-jhs-old-campus-demolition",
+    "date": "2013-05-05",
+    "dynasty": "中華民國",
+    "era": "民國112年",
+    "ganzhi": "",
+    "year": 2023,
+    "title": "頭城國中舊校區拆除",
+    "event": "2013 年 5 月 5 日，頭城國中舊校區拆除。舊校舍承載多代師生的求學與校園生活記憶，拆除也標誌校園空間更新與地方教育景觀轉變。",
+    "categories": [
+      "教育與文化",
+      "校園生活",
+      "地方記憶",
+      "建築變遷"
+    ],
+    "source": "頭城二三事提供／網站補充整理",
+    "sourceType": "地方生活史與社群記憶",
+    "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源",
+    "recordType": "community",
+    "importance": "記錄多代師生共同生活的校園空間消失與教育設施更新。"
   },
   {
     "id": "2013-qingyuan-restoration-phase1",
@@ -1068,26 +1219,6 @@ window.TOUCHENG_HISTORY = [
     "importance": "記錄頭城居民日常生活、地方發展與共同記憶。"
   },
   {
-    "id": "2012-catholic-facade-restored",
-    "date": "2012",
-    "dynasty": "中華民國",
-    "era": "民國101年",
-    "ganzhi": "",
-    "year": 2012,
-    "title": "頭城天主堂正立面整修完成",
-    "event": "聖堂正立面牆面完成整修，恢復較接近早期的樸質外觀。",
-    "categories": [
-      "文化資產",
-      "建築修復",
-      "宗教建築"
-    ],
-    "source": "燦景工作室《覓境》",
-    "sourceType": "地方出版與文史整理",
-    "reviewStatus": "依使用者整理之《覓境》內容建檔；後續可補上書頁與出版資訊。",
-    "recordType": "local_history",
-    "importance": "保存聖堂立面與街區文化景觀。"
-  },
-  {
     "id": "2012-thousand-turtles-community",
     "date": "2012",
     "dynasty": "中華民國",
@@ -1126,6 +1257,26 @@ window.TOUCHENG_HISTORY = [
     "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
     "recordType": "local-publication",
     "importance": ""
+  },
+  {
+    "id": "2012-catholic-facade-restored",
+    "date": "2012",
+    "dynasty": "中華民國",
+    "era": "民國101年",
+    "ganzhi": "",
+    "year": 2012,
+    "title": "頭城天主堂正立面整修完成",
+    "event": "聖堂正立面牆面完成整修，恢復較接近早期的樸質外觀。",
+    "categories": [
+      "文化資產",
+      "建築修復",
+      "宗教建築"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方出版與文史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；後續可補上書頁與出版資訊。",
+    "recordType": "local_history",
+    "importance": "保存聖堂立面與街區文化景觀。"
   },
   {
     "id": "2011-12-nongyuzhijia-demolition",
@@ -1188,26 +1339,6 @@ window.TOUCHENG_HISTORY = [
     "importance": ""
   },
   {
-    "id": "2010-10-29-lanyang-museum",
-    "date": "2010-10-29",
-    "dynasty": "中華民國",
-    "era": "民國99年",
-    "ganzhi": "",
-    "year": 2010,
-    "title": "蘭陽博物館正式開幕",
-    "event": "蘭陽博物館於 2010 年 10 月 29 日正式開幕。建築以單面山地景意象融入烏石港濕地環境，成為認識蘭陽自然、歷史與地方文化的重要入口，也帶動烏石港周邊文化觀光發展。",
-    "categories": [
-      "教育與文化",
-      "文化資產",
-      "地方發展"
-    ],
-    "source": "頭城二三事提供／網站補充整理",
-    "sourceType": "地方生活史與社群記憶",
-    "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源",
-    "recordType": "community",
-    "importance": "蘭陽博物館成為頭城重要文化地標，連結地方史、自然環境與觀光發展。"
-  },
-  {
     "id": "2010-10-29-lanyang-open",
     "dynasty": "近現代",
     "era": "",
@@ -1227,6 +1358,26 @@ window.TOUCHENG_HISTORY = [
     "reviewStatus": "依使用者整理之電子報內容建檔；建議後續補上對應期數與文章連結",
     "recordType": "official",
     "importance": "成為頭城與蘭陽地區重要的文化保存、研究與展示據點。"
+  },
+  {
+    "id": "2010-10-29-lanyang-museum",
+    "date": "2010-10-29",
+    "dynasty": "中華民國",
+    "era": "民國99年",
+    "ganzhi": "",
+    "year": 2010,
+    "title": "蘭陽博物館正式開幕",
+    "event": "蘭陽博物館於 2010 年 10 月 29 日正式開幕。建築以單面山地景意象融入烏石港濕地環境，成為認識蘭陽自然、歷史與地方文化的重要入口，也帶動烏石港周邊文化觀光發展。",
+    "categories": [
+      "教育與文化",
+      "文化資產",
+      "地方發展"
+    ],
+    "source": "頭城二三事提供／網站補充整理",
+    "sourceType": "地方生活史與社群記憶",
+    "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源",
+    "recordType": "community",
+    "importance": "蘭陽博物館成為頭城重要文化地標，連結地方史、自然環境與觀光發展。"
   },
   {
     "id": "2010-05-01-supp",
@@ -1643,22 +1794,119 @@ window.TOUCHENG_HISTORY = [
     "importance": ""
   },
   {
-    "id": "2007-076",
+    "id": "office-2007-dfc7bca98",
+    "date": "2007",
     "dynasty": "中華民國",
-    "era": "民國九十六年",
-    "ganzhi": "丁亥",
+    "era": "民國96年",
+    "ganzhi": "",
     "year": 2007,
-    "title": "國道五號高速公路雪山隧道施工十六年開始通車",
-    "event": "國道五號高速公路雪山隧道施工十六年開始通車。",
+    "title": "2月13日，二城國小前鎮有土地施設學生遮雨棚",
+    "event": "2月13日，二城國小前鎮有土地施設學生遮雨棚，業已完竣。",
+    "categories": [
+      "教育與文化"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-2007-bc5fc55c0",
+    "date": "2007",
+    "dynasty": "中華民國",
+    "era": "民國96年",
+    "ganzhi": "",
+    "year": 2007,
+    "title": "3月22日，本所品質抽驗小組抽驗頭城河一期整治工程、頭城火車站廣場地景改造新建工程及",
+    "event": "3月22日，本所品質抽驗小組抽驗頭城河一期整治工程、頭城火車站廣場地景改造新建工程及城西里新興段上新興小段廢棄物棄置場綠化工程。",
     "categories": [
       "交通與建設"
     ],
-    "source": "莊錫財（2010）手稿辨識稿",
-    "sourceType": "地方文史手稿／待交叉查證",
-    "reviewStatus": "保留作地方文史參考；仍需與官方、學術及原住民族資料交叉查證",
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-2007-a9c496993",
     "date": "2007",
-    "recordType": "local_history",
-    "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
+    "dynasty": "中華民國",
+    "era": "民國96年",
+    "ganzhi": "",
+    "year": 2007,
+    "title": "3月19日，第五公墓入口大門已竣工",
+    "event": "3月19日，第五公墓入口大門已竣工，上午9時於現場辦理驗收，因仍有若干小缺失未予改善，日後擇期再次辦理第2次驗收。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-2007-28f084b37",
+    "date": "2007",
+    "dynasty": "中華民國",
+    "era": "民國96年",
+    "ganzhi": "",
+    "year": 2007,
+    "title": "2月14日，本鎮第二消防分隊新址動土典禮於當日上午10時舉辦",
+    "event": "2月14日，本鎮第二消防分隊新址動土典禮於當日上午10時舉辦，該分隊新房舍預計二年後啟用。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-2007-133bbcabe",
+    "date": "2007",
+    "dynasty": "中華民國",
+    "era": "民國96年",
+    "ganzhi": "",
+    "year": 2007,
+    "title": "3月13日，二城國小前鎮有土地施設學生遮雨棚",
+    "event": "3月13日，二城國小前鎮有土地施設學生遮雨棚，業已完成設籍在案。",
+    "categories": [
+      "教育與文化"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "2007-thousand-turtles",
+    "date": "2007",
+    "dynasty": "中華民國",
+    "era": "民國96年",
+    "ganzhi": "",
+    "year": 2007,
+    "title": "「千龜來朝」活動興起",
+    "event": "居民在慶祝古蹟指定的討論中，希望讓老鄰長記憶裡逐漸消失的神龜會重回老街，進而發展為「千龜來朝」活動。",
+    "categories": [
+      "信仰與祭典",
+      "民俗文化",
+      "社區參與"
+    ],
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方文化出版與生活史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
+    "recordType": "local-publication",
+    "importance": ""
   },
   {
     "id": "2007-fude-restoration-planning",
@@ -1680,24 +1928,22 @@ window.TOUCHENG_HISTORY = [
     "importance": ""
   },
   {
-    "id": "2007-thousand-turtles",
-    "date": "2007",
+    "id": "2007-076",
     "dynasty": "中華民國",
-    "era": "民國96年",
-    "ganzhi": "",
+    "era": "民國九十六年",
+    "ganzhi": "丁亥",
     "year": 2007,
-    "title": "「千龜來朝」活動興起",
-    "event": "居民在慶祝古蹟指定的討論中，希望讓老鄰長記憶裡逐漸消失的神龜會重回老街，進而發展為「千龜來朝」活動。",
+    "title": "國道五號高速公路雪山隧道施工十六年開始通車",
+    "event": "國道五號高速公路雪山隧道施工十六年開始通車。",
     "categories": [
-      "信仰與祭典",
-      "民俗文化",
-      "社區參與"
+      "交通與建設"
     ],
-    "source": "燦景工作室《覓境》",
-    "sourceType": "地方文化出版與生活史整理",
-    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
-    "recordType": "local-publication",
-    "importance": ""
+    "source": "莊錫財（2010）手稿辨識稿",
+    "sourceType": "地方文史手稿／待交叉查證",
+    "reviewStatus": "保留作地方文史參考；仍需與官方、學術及原住民族資料交叉查證",
+    "date": "2007",
+    "recordType": "local_history",
+    "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
   },
   {
     "id": "2006-12-fude-county-monument",
@@ -1821,6 +2067,63 @@ window.TOUCHENG_HISTORY = [
     "importance": "使博物館籌建與地方自然知識研究同步發展。"
   },
   {
+    "id": "office-2002-7cdd780f2",
+    "date": "2002-09-10",
+    "dynasty": "中華民國",
+    "era": "民國91年",
+    "ganzhi": "",
+    "year": 2002,
+    "title": "建頭城鎮體育館之第二期工程",
+    "event": "九月十日，建頭城鎮體育館之第二期工程。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-2002-1edc81dce",
+    "date": "2002-06-01",
+    "dynasty": "中華民國",
+    "era": "民國91年",
+    "ganzhi": "",
+    "year": 2002,
+    "title": "鎮立游泳池辦理民營",
+    "event": "六月一日，鎮立游泳池辦理民營，委由頭城鎮游泳會接辦，造福鎮民。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-2002-56f09cce0",
+    "date": "2002-05-14",
+    "dynasty": "中華民國",
+    "era": "民國91年",
+    "ganzhi": "",
+    "year": 2002,
+    "title": "第五公墓正式完工啟用",
+    "event": "五月十四日，第五公墓正式完工啟用。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
     "id": "2002-01-lanyang-lectures",
     "dynasty": "近現代",
     "era": "",
@@ -1882,6 +2185,63 @@ window.TOUCHENG_HISTORY = [
     "importance": "代表地方博物館資源整合與協作進入新的階段。"
   },
   {
+    "id": "office-2001-1bd7a0a8d",
+    "date": "2001-05-08",
+    "dynasty": "中華民國",
+    "era": "民國90年",
+    "ganzhi": "",
+    "year": 2001,
+    "title": "宜蘭縣政府召開蘭陽博物館建築計劃暨園區第一期工程規劃設計期末簡報",
+    "event": "五月八日，宜蘭縣政府召開蘭陽博物館建築計劃暨園區第一期工程規劃設計期末簡報。",
+    "categories": [
+      "產業與商業"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-2001-dc7856576",
+    "date": "2001-02-08",
+    "dynasty": "中華民國",
+    "era": "民國90年",
+    "ganzhi": "",
+    "year": 2001,
+    "title": "梗枋農路改善工程開工",
+    "event": "二月八日，梗枋農路改善工程開工，施設擋土牆二座及部份水溝，發包金額四十六萬五千元，九十年三月十二日完工。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-2001-46bc31d2d",
+    "date": "2001-01-01",
+    "dynasty": "中華民國",
+    "era": "民國90年",
+    "ganzhi": "",
+    "year": 2001,
+    "title": "本鎮公有零售市場隆重開幕啟用",
+    "event": "一月一日，本鎮公有零售市場隆重開幕啟用。",
+    "categories": [
+      "產業與商業"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
     "id": "2001-01-lanyang-quarterly",
     "dynasty": "近現代",
     "era": "",
@@ -1920,25 +2280,213 @@ window.TOUCHENG_HISTORY = [
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
   },
   {
-    "id": "undated-guishan-symbol",
-    "dynasty": "近現代",
-    "era": "",
+    "id": "office-2000-bd9b61ec1",
+    "date": "2000-12-21",
+    "dynasty": "中華民國",
+    "era": "民國89年",
     "ganzhi": "",
     "year": 2000,
-    "date": "地景紀錄",
-    "title": "龜山島作為蘭陽地景精神象徵",
-    "event": "龜山島被視為守護頭城與蘭陽平原的地景精神象徵，其形象在蘭陽博物館的空間規劃中具有重要意義。",
+    "title": "頭城鎮公所會同頭城分駐所執行違規攤販拆除工作",
+    "event": "十二月二十一日，頭城鎮公所會同頭城分駐所執行違規攤販拆除工作。",
     "categories": [
-      "自然與環境",
-      "地方記憶",
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-2000-29b9992ab",
+    "date": "2000-11-14",
+    "dynasty": "中華民國",
+    "era": "民國89年",
+    "ganzhi": "",
+    "year": 2000,
+    "title": "興建頭城體育健身中心發包",
+    "event": "十一月十四日，興建頭城體育健身中心發包，總金額三千八百七十萬元，九十年一月五日開工，並於九十年九月二十五日完工。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-2000-3e7fce8ee",
+    "date": "2000-11-12",
+    "dynasty": "中華民國",
+    "era": "民國89年",
+    "ganzhi": "",
+    "year": 2000,
+    "title": "中崙社區托兒所增建工程正式落成啟用",
+    "event": "十一月十二日，中崙社區托兒所增建工程正式落成啟用。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-2000-18d9cd8c7",
+    "date": "2000-09-23",
+    "dynasty": "中華民國",
+    "era": "民國89年",
+    "ganzhi": "",
+    "year": 2000,
+    "title": "港口社區活動中心正式落成啟用",
+    "event": "九月二十三日，港口社區活動中心正式落成啟用。",
+    "categories": [
+      "港口與海洋"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-2000-5918f7363",
+    "date": "2000-09-14",
+    "dynasty": "中華民國",
+    "era": "民國89年",
+    "ganzhi": "",
+    "year": 2000,
+    "title": "石城社區活動中心正式落成啟用",
+    "event": "九月十四日，石城社區活動中心正式落成啟用。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-2000-6af3ac9de",
+    "date": "2000-09-13",
+    "dynasty": "中華民國",
+    "era": "民國89年",
+    "ganzhi": "",
+    "year": 2000,
+    "title": "大里社區活動中心正式落成啟用",
+    "event": "九月十三日，大里社區活動中心正式落成啟用。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-2000-cb46dc34f",
+    "date": "2000-08-31",
+    "dynasty": "中華民國",
+    "era": "民國89年",
+    "ganzhi": "",
+    "year": 2000,
+    "title": "大里漁港擴建工程開工",
+    "event": "八月三十一日，大里漁港擴建工程開工，施作項目包括防波堤一七六公尺、碼頭工程一五三公尺、消波塊三十公尺、泊地浚挖、照明工程、排水道、堤面改善工程、北防波堤加拋消波塊等，總經費三千九百零八萬元。",
+    "categories": [
+      "港口與海洋"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-2000-7ef2550ca",
+    "date": "2000-08-30",
+    "dynasty": "中華民國",
+    "era": "民國89年",
+    "ganzhi": "",
+    "year": 2000,
+    "title": "大溪國小試辦九年一貫教育為頭城地區的先行學校",
+    "event": "八月三十日，大溪國小試辦九年一貫教育為頭城地區的先行學校。",
+    "categories": [
       "教育與文化"
     ],
-    "source": "蘭陽博物館電子報",
-    "sourceUrl": "https://www.lym.gov.tw/ch/collection/epaper/epaper-history/",
-    "sourceType": "官方公共文化機構出版資料",
-    "reviewStatus": "依使用者整理之電子報內容建檔；建議後續補上對應期數與文章連結",
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
     "recordType": "official",
-    "importance": "說明自然地景如何進入地方認同與博物館空間敘事。"
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-2000-72171b905",
+    "date": "2000-08-25",
+    "dynasty": "中華民國",
+    "era": "民國89年",
+    "ganzhi": "",
+    "year": 2000,
+    "title": "中山大學海洋地質及化學研究所教授陳鎮東進行「龜山島海底熱泉微量金屬成分影響是否擴及電",
+    "event": "八月二十五日，中山大學海洋地質及化學研究所教授陳鎮東進行「龜山島海底熱泉微量金屬成分影響是否擴及電廠週遭海域之探討」，發現一座淺層海底熱泉大噴口，直徑寬約四公尺、高六公尺，噴口溫度高達一百一十度。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-2000-607567722",
+    "date": "2000-08-01",
+    "dynasty": "中華民國",
+    "era": "民國89年",
+    "ganzhi": "",
+    "year": 2000,
+    "title": "經多年爭取龜山島開放觀光首航典禮由六十位原龜山島住民恭恭迎拱蘭宮神明重返龜山島",
+    "event": "八月一日，經多年爭取龜山島開放觀光首航典禮由六十位原龜山島住民恭恭迎拱蘭宮神明重返龜山島。",
+    "categories": [
+      "信仰與祭典"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-2000-b4537202d",
+    "date": "2000-07-02",
+    "dynasty": "中華民國",
+    "era": "民國89年",
+    "ganzhi": "",
+    "year": 2000,
+    "title": "舉行鎮立運動公園游泳池、溜冰場、兒童遊憩、體能設施啟用典禮",
+    "event": "七月二日，舉行鎮立運動公園游泳池、溜冰場、兒童遊憩、體能設施啟用典禮。",
+    "categories": [
+      "文化資產與地景"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
   },
   {
     "id": "2000-07-supp",
@@ -1961,6 +2509,196 @@ window.TOUCHENG_HISTORY = [
     "importance": "記錄頭城居民日常生活、地方發展與共同記憶。"
   },
   {
+    "id": "office-2000-16b25ff59",
+    "date": "2000-06-17",
+    "dynasty": "中華民國",
+    "era": "民國89年",
+    "ganzhi": "",
+    "year": 2000,
+    "title": "興建第五公墓納骨塔工程開工",
+    "event": "六月十七日，興建第五公墓納骨塔工程開工，規劃總面積十二點五公頃，第一次發包興建建主體設施納骨堂、墓基等工程，發包金二千五百四十三萬元，九十年十月二日完工。另於九十年八月十四日第二次發包興建內部及週邊綠美化設施，發包金額四百八十七萬元。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-2000-74f013c7c",
+    "date": "2000-06-09",
+    "dynasty": "中華民國",
+    "era": "民國89年",
+    "ganzhi": "",
+    "year": 2000,
+    "title": "頭城國中正式遷校至拔雅里新校區",
+    "event": "六月九日，頭城國中正式遷校至拔雅里新校區，並舉行新校區落成啟用。",
+    "categories": [
+      "教育與文化"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-2000-d30f860d3",
+    "date": "2000-05-15",
+    "dynasty": "中華民國",
+    "era": "民國89年",
+    "ganzhi": "",
+    "year": 2000,
+    "title": "福德坑農路改善工程開工",
+    "event": "五月十五日，福德坑農路改善工程開工，闢建農路長一千三百零七公尺；寬四公尺發包金額一百一十八萬元，八十九年六月十四日完工。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-2000-a5d19baba",
+    "date": "2000-05-13",
+    "dynasty": "中華民國",
+    "era": "民國89年",
+    "ganzhi": "",
+    "year": 2000,
+    "title": "宜市信用合作社頭城分社正式開幕啟用",
+    "event": "五月十三日，宜市信用合作社頭城分社正式開幕啟用。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-2000-721615219",
+    "date": "2000-04-17",
+    "dynasty": "中華民國",
+    "era": "民國89年",
+    "ganzhi": "",
+    "year": 2000,
+    "title": "宜蘭縣政府委託宜蘭技術學院檢測石城等八處海域水質",
+    "event": "四月十七日，宜蘭縣政府委託宜蘭技術學院檢測石城等八處海域水質，結果顯示宜蘭沿海水質符合海域地面水體甲類標準及保護人體健康相關環境基準的標準。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-2000-3d2d657e2",
+    "date": "2000-04-07",
+    "dynasty": "中華民國",
+    "era": "民國89年",
+    "ganzhi": "",
+    "year": 2000,
+    "title": "大溪漁港增建防波堤延長四十公尺之工程開工",
+    "event": "四月七日，大溪漁港增建防波堤延長四十公尺之工程開工，並於八十九年十一月二十五日完工，總經費二千八百一十三萬元。",
+    "categories": [
+      "港口與海洋"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-2000-5d8e76c92",
+    "date": "2000-04-01",
+    "dynasty": "中華民國",
+    "era": "民國89年",
+    "ganzhi": "",
+    "year": 2000,
+    "title": "興建長青文康活動中心開工",
+    "event": "四月一日，興建長青文康活動中心開工，發包金額一千二百八十八萬元，並於九十年二月十九日完工。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-2000-04b012c70",
+    "date": "2000-02-02",
+    "dynasty": "中華民國",
+    "era": "民國89年",
+    "ganzhi": "",
+    "year": 2000,
+    "title": "闢桃源谷步道工程開工",
+    "event": "二月二日闢桃源谷步道工程開工，發包金額五千二百萬元，施設桃源谷至草嶺古道、大溪間步道其周邊設施等。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-2000-8ab92497d",
+    "date": "2000-02-01",
+    "dynasty": "中華民國",
+    "era": "民國89年",
+    "ganzhi": "",
+    "year": 2000,
+    "title": "省立頭城家商改名國立頭城家商",
+    "event": "二月一日，省立頭城家商改名國立頭城家商。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-2000-33e5781e6",
+    "date": "2000-02-01",
+    "dynasty": "中華民國",
+    "era": "民國89年",
+    "ganzhi": "",
+    "year": 2000,
+    "title": "北關農場螃蟹標本展示館開館",
+    "event": "二月一日，北關農場螃蟹標本展示館開館。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
     "id": "2000-074",
     "dynasty": "中華民國",
     "era": "民國八十九年",
@@ -1977,6 +2715,101 @@ window.TOUCHENG_HISTORY = [
     "date": "2000",
     "recordType": "local_history",
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
+  },
+  {
+    "id": "office-1999-635c778ad",
+    "date": "1999-12-03",
+    "dynasty": "中華民國",
+    "era": "民國88年",
+    "ganzhi": "",
+    "year": 1999,
+    "title": "私立復興工商專校獲中國工程師會評選為本年度辦理建教合作績優學校",
+    "event": "十二月三日，私立復興工商專校獲中國工程師會評選為本年度辦理建教合作績優學校，接受表揚。",
+    "categories": [
+      "教育與文化"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1999-4e9785cfd",
+    "date": "1999-12-01",
+    "dynasty": "中華民國",
+    "era": "民國88年",
+    "ganzhi": "",
+    "year": 1999,
+    "title": "宜蘭縣政府公佈石城等十二處為網具類禁漁區",
+    "event": "十二月一日，宜蘭縣政府公佈石城等十二處為網具類禁漁區，凡使用網具類漁具之漁船，均不得進入禁漁區範圍作業。",
+    "categories": [
+      "港口與海洋"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1999-f64e23d98",
+    "date": "1999-12",
+    "dynasty": "中華民國",
+    "era": "民國88年",
+    "ganzhi": "",
+    "year": 1999,
+    "title": "頭城家商與文化大學合作辦推廣教育進修學士學分班",
+    "event": "十二月，頭城家商與文化大學合作辦推廣教育進修學士學分班。",
+    "categories": [
+      "教育與文化"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1999-0252b8b95",
+    "date": "1999-11-10",
+    "dynasty": "中華民國",
+    "era": "民國88年",
+    "ganzhi": "",
+    "year": 1999,
+    "title": "港口里社區籃球場設施開工",
+    "event": "十一月十日，港口里社區籃球場設施開工，發包金額五十二萬五千元，八十八年十二月二十二日竣工。",
+    "categories": [
+      "港口與海洋"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1999-0bd0acc55",
+    "date": "1999-09-21",
+    "dynasty": "中華民國",
+    "era": "民國88年",
+    "ganzhi": "",
+    "year": 1999,
+    "title": "中部集集大震，災情慘重",
+    "event": "九月二十一日，中部集集大震，災情慘重，本鎮計募得賑災款一千三百四十三萬九百一十元送交縣府統籌辦理。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
   },
   {
     "id": "1999-09-06-supp",
@@ -1998,6 +2831,291 @@ window.TOUCHENG_HISTORY = [
     "importance": "記錄頭城居民日常生活、地方發展與共同記憶。"
   },
   {
+    "id": "office-1999-20041063f",
+    "date": "1999-09-01",
+    "dynasty": "中華民國",
+    "era": "民國88年",
+    "ganzhi": "",
+    "year": 1999,
+    "title": "國防部及內政部公告解除龜山島軍事管制及禁建",
+    "event": "九月一日，國防部及內政部公告解除龜山島軍事管制及禁建。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1999-59e5b6935",
+    "date": "1999-09",
+    "dynasty": "中華民國",
+    "era": "民國88年",
+    "ganzhi": "",
+    "year": 1999,
+    "title": "頭城家商特殊教育實驗班納歸為綜合職能科班級",
+    "event": "九月，頭城家商特殊教育實驗班納歸為綜合職能科班級。",
+    "categories": [
+      "教育與文化"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1999-f4f73aeee",
+    "date": "1999-08-13",
+    "dynasty": "中華民國",
+    "era": "民國88年",
+    "ganzhi": "",
+    "year": 1999,
+    "title": "宜蘭縣政府決定交由交通部觀光局主導頭城海水浴場開發案",
+    "event": "八月十三日，宜蘭縣政府決定交由交通部觀光局主導頭城海水浴場開發案，並以BOT整體開發。",
+    "categories": [
+      "港口與海洋"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1999-a607d9caf",
+    "date": "1999-08-12",
+    "dynasty": "中華民國",
+    "era": "民國88年",
+    "ganzhi": "",
+    "year": 1999,
+    "title": "本鎮三之一號道路之開蘭橋發包",
+    "event": "八月十二日，本鎮三之一號道路之開蘭橋發包，闢建長五百二十公尺；寬十二公尺橋樑一座，發包工程經費一億二千二百萬元，八十八年十月十五日開工，九十一年二月底完工通車。",
+    "categories": [
+      "交通與建設"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1999-5f5a18cbd",
+    "date": "1999-08-12",
+    "dynasty": "中華民國",
+    "era": "民國88年",
+    "ganzhi": "",
+    "year": 1999,
+    "title": "本鎮大坑里長劉清泉與臺灣人壽保公司簽約",
+    "event": "八月十二日，本鎮大坑里長劉清泉與臺灣人壽保公司簽約，自費為十八至七十五歲里民投保意外險。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1999-d08593546",
+    "date": "1999-06-21",
+    "dynasty": "中華民國",
+    "era": "民國88年",
+    "ganzhi": "",
+    "year": 1999,
+    "title": "宜蘭縣實施醫藥分類",
+    "event": "六月二十一日，宜蘭縣實施醫藥分類，本鎮為東部三縣市率先實施之鄉鎮。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1999-53076ff5a",
+    "date": "1999-06-18",
+    "dynasty": "中華民國",
+    "era": "民國88年",
+    "ganzhi": "",
+    "year": 1999,
+    "title": "為培育漁業資源",
+    "event": "六月十八日，為培育漁業資源，宜蘭縣政府府在石城人工魚礁區投放三百餘座電桿魚礁。",
+    "categories": [
+      "港口與海洋"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1999-41b5e9f7c",
+    "date": "1999-06-05",
+    "dynasty": "中華民國",
+    "era": "民國88年",
+    "ganzhi": "",
+    "year": 1999,
+    "title": "仁澤社區籃球場設施開工",
+    "event": "六月五日，仁澤社區籃球場設施開工，發包金額六十九萬八千元，八十八年七月二十九日竣工。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1999-edc1c2c42",
+    "date": "1999-05-12",
+    "dynasty": "中華民國",
+    "era": "民國88年",
+    "ganzhi": "",
+    "year": 1999,
+    "title": "建運動公園溜冰場工程發包",
+    "event": "五月十二日，建運動公園溜冰場工程發包，金額三百四十萬元，八十八年六月十日開工，八十八年八月十一日完工。",
+    "categories": [
+      "文化資產與地景"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1999-03266079e",
+    "date": "1999-05-05",
+    "dynasty": "中華民國",
+    "era": "民國88年",
+    "ganzhi": "",
+    "year": 1999,
+    "title": "頭城家商新建綜合大樓正式落成啟用",
+    "event": "五月五日，頭城家商新建綜合大樓正式落成啟用。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1999-7997c6063",
+    "date": "1999-04-16",
+    "dynasty": "中華民國",
+    "era": "民國88年",
+    "ganzhi": "",
+    "year": 1999,
+    "title": "交通部國工局公告北宜高頭城至蘇澳延伸段路權範圍",
+    "event": "四月十六日，交通部國工局公告北宜高頭城至蘇澳延伸段路權範圍，並自七月起開始土地徵收作業。",
+    "categories": [
+      "交通與建設"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1999-0478346c1",
+    "date": "1999-04-13",
+    "dynasty": "中華民國",
+    "era": "民國88年",
+    "ganzhi": "",
+    "year": 1999,
+    "title": "臺灣省漁業局與縣府於本鎮外海投放四百二十五座人工魚礁",
+    "event": "四月十三日，臺灣省漁業局與縣府於本鎮外海投放四百二十五座人工魚礁，以保護漁業資源。",
+    "categories": [
+      "港口與海洋"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1999-6550d1a22",
+    "date": "1999-03-19",
+    "dynasty": "中華民國",
+    "era": "民國88年",
+    "ganzhi": "",
+    "year": 1999,
+    "title": "下埔社區活動中心二樓增建落成啟用",
+    "event": "三月十九日，下埔社區活動中心二樓增建落成啟用。本所並於該處舉行社區發展示範觀摩會及民俗藝文系列活動。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1999-eab81e2a4",
+    "date": "1999-03-01",
+    "dynasty": "中華民國",
+    "era": "民國88年",
+    "ganzhi": "",
+    "year": 1999,
+    "title": "響應行政機關資訊化政策",
+    "event": "三月一日，響應行政機關資訊化政策，本所推動文書作業全面資訊化，增進行政效能。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1999-42681d375",
+    "date": "1999-02-20",
+    "dynasty": "中華民國",
+    "era": "民國88年",
+    "ganzhi": "",
+    "year": 1999,
+    "title": "發包運動公園游泳池分二期施工",
+    "event": "二月二十日，發包運動公園游泳池分二期施工；第一期工程金額為一千三百七十萬元，八十八年四月二日開工，八十八年九月五日完工。第二期工程金四百八十三萬元，八十八年十二月六日開工，八十九年七月二十二日完工。",
+    "categories": [
+      "文化資產與地景"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
     "id": "1999-02-01-supp",
     "date": "1999-02-01",
     "dynasty": "中華民國",
@@ -2015,6 +3133,842 @@ window.TOUCHENG_HISTORY = [
     "reviewStatus": "日期與摘要待持續補充佐證",
     "recordType": "community",
     "importance": "記錄頭城居民日常生活、地方發展與共同記憶。"
+  },
+  {
+    "id": "office-1999-f3471b9c4",
+    "date": "1999-01-25",
+    "dynasty": "中華民國",
+    "era": "民國88年",
+    "ganzhi": "",
+    "year": 1999,
+    "title": "鎮公所為美化環境",
+    "event": "一月二十五日，鎮公所為美化環境，選定九重葛為鎮花，預計在全鎮進行八千株的普植工作。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1999-839011ed9",
+    "date": "1999-01-02",
+    "dynasty": "中華民國",
+    "era": "民國88年",
+    "ganzhi": "",
+    "year": 1999,
+    "title": "頭城烏石港魚貨直銷中心正式開幕啟用",
+    "event": "一月二日，頭城烏石港魚貨直銷中心正式開幕啟用。",
+    "categories": [
+      "港口與海洋"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1999-3a7384672",
+    "date": "1999",
+    "dynasty": "中華民國",
+    "era": "民國88年",
+    "ganzhi": "",
+    "year": 1999,
+    "title": "北宜路拓寬改善工程",
+    "event": "北宜路拓寬改善工程；係自石牌縣界至臺二庚線路口間路段，由八十八年起分年分期辦理拓寬工程。",
+    "categories": [
+      "交通與建設"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1998-0c0b2b362",
+    "date": "1998-12-21",
+    "dynasty": "中華民國",
+    "era": "民國87年",
+    "ganzhi": "",
+    "year": 1998,
+    "title": "北關海潮公園開工",
+    "event": "十二月二十一日，北關海潮公園開工，發包金額八千萬元，闢建停車場、海岸觀景平臺區、小吃賣場、遊憩步道及周邊設施等工程，八十九年七月十日完工。",
+    "categories": [
+      "文化資產與地景"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1998-291e4c62b",
+    "date": "1998-10-14",
+    "dynasty": "中華民國",
+    "era": "民國87年",
+    "ganzhi": "",
+    "year": 1998,
+    "title": "復興工商專科學校圖書館暨外語館興建工程開工動土典禮",
+    "event": "十月十四日，復興工商專科學校圖書館暨外語館興建工程開工動土典禮。",
+    "categories": [
+      "教育與文化"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1998-9455c7ebf",
+    "date": "1998-10-06",
+    "dynasty": "中華民國",
+    "era": "民國87年",
+    "ganzhi": "",
+    "year": 1998,
+    "title": "更新社區籃球及其週邊設施開工",
+    "event": "十月六日，更新社區籃球及其週邊設施開工，金額一百零九萬元，八十八年一月二十日竣工。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1998-76107a974",
+    "date": "1998-09-22",
+    "dynasty": "中華民國",
+    "era": "民國87年",
+    "ganzhi": "",
+    "year": 1998,
+    "title": "宜蘭縣環保局檢驗發現頭城、礁溪、員山等鄉鎮有三處地下水含砷量過高",
+    "event": "九月二十二日，宜蘭縣環保局檢驗發現頭城、礁溪、員山等鄉鎮有三處地下水含砷量過高，宜蘭縣衛生局要求公所宣導勿再飲用地下水。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1998-10ac1f609",
+    "date": "1998-09",
+    "dynasty": "中華民國",
+    "era": "民國87年",
+    "ganzhi": "",
+    "year": 1998,
+    "title": "頭城家商增設綜合高中",
+    "event": "九月，頭城家商增設綜合高中。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1998-cebc24bf7",
+    "date": "1998-07-04",
+    "dynasty": "中華民國",
+    "era": "民國87年",
+    "ganzhi": "",
+    "year": 1998,
+    "title": "公有零售市場改建工程開工金三千四百九十二萬元",
+    "event": "七月四日，公有零售市場改建工程開工金三千四百九十二萬元，八十八年十一月二十三日完工。",
+    "categories": [
+      "產業與商業"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1998-4ed3fb2c6",
+    "date": "1998-06-23",
+    "dynasty": "中華民國",
+    "era": "民國87年",
+    "ganzhi": "",
+    "year": 1998,
+    "title": "開工增建中崙社區活動中心二樓",
+    "event": "六月二十三日開工增建中崙社區活動中心二樓，提供托兒所教室使用，總發包經費五百七十萬六千八百元，八十九年二月十五日完工，托兒所於八十九年二月十七日搬至該址上課。",
+    "categories": [
+      "教育與文化"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1998-6e4458468",
+    "date": "1998-04-27",
+    "dynasty": "中華民國",
+    "era": "民國87年",
+    "ganzhi": "",
+    "year": 1998,
+    "title": "國防部同意局部開放龜山島民眾登島參觀",
+    "event": "四月二十七日，國防部同意局部開放龜山島民眾登島參觀，並簡化申請程序。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1998-84d39ac93",
+    "date": "1998-04-13",
+    "dynasty": "中華民國",
+    "era": "民國87年",
+    "ganzhi": "",
+    "year": 1998,
+    "title": "梗枋漁港更新里漁民直銷中心掛牌營運",
+    "event": "四月十三日，梗枋漁港更新里漁民直銷中心掛牌營運。",
+    "categories": [
+      "港口與海洋"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1998-296ef11ed",
+    "date": "1998-04",
+    "dynasty": "中華民國",
+    "era": "民國87年",
+    "ganzhi": "",
+    "year": 1998,
+    "title": "為配合政府大力推動海上觀光休閒旅遊「藍色公路」網",
+    "event": "四月，為配合政府大力推動海上觀光休閒旅遊「藍色公路」網，宜蘭縣政府將規劃本鎮「烏石港觀光休閒碼頭及旅遊服務中心」，預定設置遊客服務中心、遊客上下船安全設施等硬體工程計畫，計二千五百萬元經費。",
+    "categories": [
+      "港口與海洋"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1998-ac755b133",
+    "date": "1998-03-28",
+    "dynasty": "中華民國",
+    "era": "民國87年",
+    "ganzhi": "",
+    "year": 1998,
+    "title": "設於合興里「河東堂獅子博物館」開幕",
+    "event": "三月二十八日，設於合興里「河東堂獅子博物館」開幕。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1998-e68803954",
+    "date": "1998-02-28",
+    "dynasty": "中華民國",
+    "era": "民國87年",
+    "ganzhi": "",
+    "year": 1998,
+    "title": "設立於頭城國小內部之頭城展演中心",
+    "event": "二月二十八日，設立於頭城國小內部之頭城展演中心，總經費計一千八百六十六萬六千元。",
+    "categories": [
+      "教育與文化"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1998-d0675a22d",
+    "date": "1998-02-27",
+    "dynasty": "中華民國",
+    "era": "民國87年",
+    "ganzhi": "",
+    "year": 1998,
+    "title": "城東、合興、金面社區籃球場設施開工",
+    "event": "二月二十七日，城東、合興、金面社區籃球場設施開工，金額二百七十五萬元，八十八年四月三十日竣工。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1998-5a69180b7",
+    "date": "1998",
+    "dynasty": "中華民國",
+    "era": "民國87年",
+    "ganzhi": "",
+    "year": 1998,
+    "title": "臺灣電力公司完成市區內開蘭路、纘祥路、沙成路、青雲路、民鋒路、和平街及吉祥路管線地下",
+    "event": "臺灣電力公司完成市區內開蘭路、纘祥路、沙成路、青雲路、民鋒路、和平街及吉祥路管線地下化工程。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1997-47dcd187c",
+    "date": "1997-11-14",
+    "dynasty": "中華民國",
+    "era": "民國86年",
+    "ganzhi": "",
+    "year": 1997,
+    "title": "本鎮竹安里打馬煙海岸沙流失嚴重",
+    "event": "十一月十四日，本鎮竹安里打馬煙海岸沙流失嚴重，地方人士要求礁石定沙，水利單位則考慮進行離岸堤或突堤工程。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1997-82b5110b4",
+    "date": "1997-10-25",
+    "dynasty": "中華民國",
+    "era": "民國86年",
+    "ganzhi": "",
+    "year": 1997,
+    "title": "二十六日，頭城運動公園正式落成啟用",
+    "event": "十月二十五日、二十六日，頭城運動公園正式落成啟用，耗資三千一百三十八萬元，占地四點三二公頃，並推出農漁具、環保、教、建設、奇石、書法展覽等多項活動。",
+    "categories": [
+      "文化資產與地景"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1997-0be2e7229",
+    "date": "1997-10-03",
+    "dynasty": "中華民國",
+    "era": "民國86年",
+    "ganzhi": "",
+    "year": 1997,
+    "title": "縣府與復興工專辦理社區大學正式開班典禮",
+    "event": "十月三日，縣府與復興工專辦理社區大學正式開班典禮。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1997-8740b3575",
+    "date": "1997-08-26",
+    "dynasty": "中華民國",
+    "era": "民國86年",
+    "ganzhi": "",
+    "year": 1997,
+    "title": "至九月一日配合中元祭典委員會本鎮舉辦中元祭典搶孤民俗系列活動",
+    "event": "八月二十六日至九月一日配合中元祭典委員會本鎮舉辦中元祭典搶孤民俗系列活動，計十一隊參搶孤競技，吸引數萬人參觀。",
+    "categories": [
+      "信仰與祭典"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1997-125626aab",
+    "date": "1997-08-22",
+    "dynasty": "中華民國",
+    "era": "民國86年",
+    "ganzhi": "",
+    "year": 1997,
+    "title": "九股山垃圾場修復工程驗收",
+    "event": "八月二十二日，九股山垃圾場修復工程驗收，係因八十五年八月賀伯颱風侵襲，九股山福德坑垃圾掩埋場之擋土牆崩塌塌，予以修護。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1997-65275ca5b",
+    "date": "1997-08",
+    "dynasty": "中華民國",
+    "era": "民國86年",
+    "ganzhi": "",
+    "year": 1997,
+    "title": "頭城國小設立學前特教班",
+    "event": "八月，頭城國小設立學前特教班。",
+    "categories": [
+      "教育與文化"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1997-39517047e",
+    "date": "1997-08",
+    "dynasty": "中華民國",
+    "era": "民國86年",
+    "ganzhi": "",
+    "year": 1997,
+    "title": "頭城國中新校區整體規劃工程開始施工",
+    "event": "八月，頭城國中新校區整體規劃工程開始施工。",
+    "categories": [
+      "教育與文化"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1997-341e744ed",
+    "date": "1997-07-15",
+    "dynasty": "中華民國",
+    "era": "民國86年",
+    "ganzhi": "",
+    "year": 1997,
+    "title": "頭城鎮所施政便民資訊網站啟用",
+    "event": "七月十五日，頭城鎮所施政便民資訊網站啟用。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1997-e0abd22ad",
+    "date": "1997-07",
+    "dynasty": "中華民國",
+    "era": "民國86年",
+    "ganzhi": "",
+    "year": 1997,
+    "title": "復興工商專科學校增設進修補習學校",
+    "event": "七月，復興工商專科學校增設進修補習學校。",
+    "categories": [
+      "教育與文化"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1997-88b2977af",
+    "date": "1997-07",
+    "dynasty": "中華民國",
+    "era": "民國86年",
+    "ganzhi": "",
+    "year": 1997,
+    "title": "公路局第四區工程處",
+    "event": "七月，公路局第四區工程處，於北宜公路九彎十八拐路段建七座景觀公園。",
+    "categories": [
+      "文化資產與地景"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1997-b235a47cb",
+    "date": "1997-06-15",
+    "dynasty": "中華民國",
+    "era": "民國86年",
+    "ganzhi": "",
+    "year": 1997,
+    "title": "耗資五千萬元，歷時五年完工的竹安國小新校舍落成啟用",
+    "event": "六月十五日，耗資五千萬元，歷時五年完工的竹安國小新校舍落成啟用。",
+    "categories": [
+      "教育與文化"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1997-7535c1eb5",
+    "date": "1997-06-12",
+    "dynasty": "中華民國",
+    "era": "民國86年",
+    "ganzhi": "",
+    "year": 1997,
+    "title": "賀伯颱風侵襲之受損產業道路路福德坑、梗枋等工程開工",
+    "event": "六月十二日，賀伯颱風侵襲之受損產業道路路福德坑、梗枋等工程開工，修復道路長六百七十五公尺；寬五公尺及擋土牆一座等工程，發包金額一百萬元，八十六年七月二十七日完工。",
+    "categories": [
+      "交通與建設"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1997-f0c48a90e",
+    "date": "1997-06-03",
+    "dynasty": "中華民國",
+    "era": "民國86年",
+    "ganzhi": "",
+    "year": 1997,
+    "title": "宜蘭縣政府執行「護礁計畫」",
+    "event": "六月三日，宜蘭縣政府執行「護礁計畫」，在竹安河口至大塭抽水站沿岸投放二百座人工漁礁。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1997-04551789f",
+    "date": "1997-05-31",
+    "dynasty": "中華民國",
+    "era": "民國86年",
+    "ganzhi": "",
+    "year": 1997,
+    "title": "東北角管理處大里遊客服務中心正式落成啟用",
+    "event": "五月三十一日，東北角管理處大里遊客服務中心正式落成啟用。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1997-c8dc72653",
+    "date": "1997-04-18",
+    "dynasty": "中華民國",
+    "era": "民國86年",
+    "ganzhi": "",
+    "year": 1997,
+    "title": "開蘭路擴寬工程開工",
+    "event": "四月十八日，開蘭路擴寬工程開工，分二段闢建：一之一開蘭路拓建長九百五十一公尺；寬十二公尺，發包金六百二十萬元，八十七年五月二十八日完工；二之一開蘭路拓建長六百三十六公尺；寬十三公尺，發包金額六百七十五萬元；八十五年八月九日開工，八十七年五月二十八日完工。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1997-6fb3d615c",
+    "date": "1997-03-24",
+    "dynasty": "中華民國",
+    "era": "民國86年",
+    "ganzhi": "",
+    "year": 1997,
+    "title": "頭城鎮農會金面辦事處新辦公大樓正式落成啟用",
+    "event": "三月二十四日，頭城鎮農會金面辦事處新辦公大樓正式落成啟用。",
+    "categories": [
+      "產業與商業"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1997-35267a744",
+    "date": "1997-02-15",
+    "dynasty": "中華民國",
+    "era": "民國86年",
+    "ganzhi": "",
+    "year": 1997,
+    "title": "鑑於宜蘭海岸線遭海水侵蝕內移情況嚴重",
+    "event": "二月十五日，鑑於宜蘭海岸線遭海水侵蝕內移情況嚴重，經濟部、內政部等相關單位會勘後，決議對頭城至蘇澳被侵蝕最嚴重的二十五公里海岸線，分兩年兩期進行護岸工程。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1997-727b07a8f",
+    "date": "1997",
+    "dynasty": "中華民國",
+    "era": "民國86年",
+    "ganzhi": "",
+    "year": 1997,
+    "title": "大溪社區活動中心二樓增建工程落成啟用",
+    "event": "大溪社區活動中心二樓增建工程落成啟用。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1997-373b6240f",
+    "date": "1997",
+    "dynasty": "中華民國",
+    "era": "民國86年",
+    "ganzhi": "",
+    "year": 1997,
+    "title": "頂埔社區活動中心增建及衛生保健室新建工程落成啟用",
+    "event": "頂埔社區活動中心增建及衛生保健室新建工程落成啟用。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1996-7a24f835d",
+    "date": "1996-12-26",
+    "dynasty": "中華民國",
+    "era": "民國85年",
+    "ganzhi": "",
+    "year": 1996,
+    "title": "由大千戲院改建之鎮立圖書館開館啟用",
+    "event": "十二月二十六日，由大千戲院改建之鎮立圖書館開館啟用。",
+    "categories": [
+      "教育與文化"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1996-9efb853cf",
+    "date": "1996-08-24",
+    "dynasty": "中華民國",
+    "era": "民國85年",
+    "ganzhi": "",
+    "year": 1996,
+    "title": "大坑、二城社區籃球場設施開工",
+    "event": "八月二十四日，大坑、二城社區籃球場設施開工，發包金額二百四十六萬元，八十五年十二月十五日竣工。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1996-72afc8681",
+    "date": "1996-08-05",
+    "dynasty": "中華民國",
+    "era": "民國85年",
+    "ganzhi": "",
+    "year": 1996,
+    "title": "賀伯颱風來襲，造成金面山垃圾場擋土牆崩塌塌塌、金面溪受污染",
+    "event": "八月五日賀伯颱風來襲，造成金面山垃圾場擋土牆崩塌塌塌、金面溪受污染，及本鎮垃圾停收長達一星期影響環境衛生。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1996-d11a9bd79",
+    "date": "1996-08",
+    "dynasty": "中華民國",
+    "era": "民國85年",
+    "ganzhi": "",
+    "year": 1996,
+    "title": "頭城國小設立特殊教育班",
+    "event": "八月，頭城國小設立特殊教育班。",
+    "categories": [
+      "教育與文化"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1996-36dcba934",
+    "date": "1996-06",
+    "dynasty": "中華民國",
+    "era": "民國85年",
+    "ganzhi": "",
+    "year": 1996,
+    "title": "文建會補助頭城鎮公所",
+    "event": "六月，文建會補助頭城鎮公所，座落頭城國小體育館內之展演中心發包施工，工程內容包括舞臺、燈光音響、木質地板等軟硬體設施。",
+    "categories": [
+      "教育與文化"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1996-e64811a06",
+    "date": "1996-03-04",
+    "dynasty": "中華民國",
+    "era": "民國85年",
+    "ganzhi": "",
+    "year": 1996,
+    "title": "頭城國小體育館工程落成啟用典禮",
+    "event": "三月四日，頭城國小體育館工程落成啟用典禮。",
+    "categories": [
+      "教育與文化"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1996-2d85951b3",
+    "date": "1996-03",
+    "dynasty": "中華民國",
+    "era": "民國85年",
+    "ganzhi": "",
+    "year": 1996,
+    "title": "改善偏遠地區居民生活計畫「下埔里村落環境改善工程」及「下福成道路新闢工程」完工",
+    "event": "三月，改善偏遠地區居民生活計畫「下埔里村落環境改善工程」及「下福成道路新闢工程」完工，總經費五百八十萬元。",
+    "categories": [
+      "交通與建設"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1996-abfb31453",
+    "date": "1996-02-05",
+    "dynasty": "中華民國",
+    "era": "民國85年",
+    "ganzhi": "",
+    "year": 1996,
+    "title": "亞太光纖纜路（APCN）第一系統於大坑里海纜中心舉行登陸儀式",
+    "event": "二月五日，亞太光纖纜路（APCN）第一系統於大坑里海纜中心舉行登陸儀式。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
   },
   {
     "id": "1996-073",
@@ -2035,23 +3989,517 @@ window.TOUCHENG_HISTORY = [
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
   },
   {
-    "id": "1994-072",
+    "id": "office-1995-2fdc04e18",
+    "date": "1995-12-19",
     "dynasty": "中華民國",
-    "era": "民國八十三年",
-    "ganzhi": "甲戌",
-    "year": 1994,
-    "title": "頭城鎮農會舊有辦公廳舍及所有倉庫全部折除興建農會辦公大樓",
-    "event": "頭城鎮農會舊有辦公廳舍及所有倉庫全部折除興建農會辦公大樓，於民國八十四年十一月九日竣工落成啟用。",
+    "era": "民國84年",
+    "ganzhi": "",
+    "year": 1995,
+    "title": "頭城農會新建大樓落成啟用",
+    "event": "十二月十九日，頭城農會新建大樓落成啟用。",
     "categories": [
-      "政治與行政",
-      "產業與生活"
+      "產業與商業"
     ],
-    "source": "莊錫財（2010）手稿辨識稿",
-    "sourceType": "地方文史手稿／待交叉查證",
-    "reviewStatus": "保留作地方文史參考；仍需與官方、學術及原住民族資料交叉查證",
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1995-2f0df530d",
+    "date": "1995-12-12",
+    "dynasty": "中華民國",
+    "era": "民國84年",
+    "ganzhi": "",
+    "year": 1995,
+    "title": "大溪川河濱公園開工興建",
+    "event": "十二月十二日，大溪川河濱公園開工興建，發包金額為一千七百五十萬元，分二期闢建；停車場、觀景步道及週邊設施等工程，預定九十一年一月十五日完工。",
+    "categories": [
+      "文化資產與地景"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1995-43bf9f5bb",
+    "date": "1995-10-09",
+    "dynasty": "中華民國",
+    "era": "民國84年",
+    "ganzhi": "",
+    "year": 1995,
+    "title": "農地重劃區內農路整修及改善工程開工",
+    "event": "十月九日，農地重劃區內農路整修及改善工程開工，闢建農路長三百七十五公尺，發包金額一百零八萬元，並於八十五年一月二十六日完工。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1995-e4cb30761",
+    "date": "1995-08-06",
+    "dynasty": "中華民國",
+    "era": "民國84年",
+    "ganzhi": "",
+    "year": 1995,
+    "title": "大塭養殖漁業生產區辦事處落成啟用",
+    "event": "八月六日，大塭養殖漁業生產區辦事處落成啟用。",
+    "categories": [
+      "港口與海洋"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1995-4c1973ad4",
+    "date": "1995-07-15",
+    "dynasty": "中華民國",
+    "era": "民國84年",
+    "ganzhi": "",
+    "year": 1995,
+    "title": "清理遷葬頂埔社區墓地為多功能運動休閒設施開工",
+    "event": "七月十五日，清理遷葬頂埔社區墓地為多功能運動休閒設施開工，闢建籃球、溜冰場及週邊設施等工程，發包金額三百六十八萬六千元，八十五年五月二十日完工。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1995-91da294bb",
+    "date": "1995-07-06",
+    "dynasty": "中華民國",
+    "era": "民國84年",
+    "ganzhi": "",
+    "year": 1995,
+    "title": "本鎮大溫養殖漁業生產區",
+    "event": "七月六日，本鎮大溫養殖漁業生產區，完成全省首座引海水養殖公共設施工程，並由宜蘭縣政府移交給該管理委員會維護。",
+    "categories": [
+      "港口與海洋"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1995-9d4937a18",
+    "date": "1995-07-01",
+    "dynasty": "中華民國",
+    "era": "民國84年",
+    "ganzhi": "",
+    "year": 1995,
+    "title": "中崙里林登財先生榮獲全國十大傑出漁民表揚",
+    "event": "七月一日，中崙里林登財先生榮獲全國十大傑出漁民表揚。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1995-467b31f80",
+    "date": "1995-06-27",
+    "dynasty": "中華民國",
+    "era": "民國84年",
+    "ganzhi": "",
+    "year": 1995,
+    "title": "大修宮產業道路改善工程發包",
+    "event": "六月二十七日，大修宮產業道路改善工程發包，金額一百二十萬元，闢建道路長一千二百八十四公尺。",
+    "categories": [
+      "交通與建設"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1995-ff1a3f3a4",
+    "date": "1995-06",
+    "dynasty": "中華民國",
+    "era": "民國84年",
+    "ganzhi": "",
+    "year": 1995,
+    "title": "本鎮鎮民黃顯榮出任空軍總司令",
+    "event": "六月，本鎮鎮民黃顯榮出任空軍總司令，為首任臺人空軍總司令。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1995-6010555ee",
+    "date": "1995-06",
+    "dynasty": "中華民國",
+    "era": "民國84年",
+    "ganzhi": "",
+    "year": 1995,
+    "title": "發行頭圍人季刊",
+    "event": "六月，發行頭圍人季刊，後改為年刊。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1995-efe80c0b5",
+    "date": "1995-04-01",
+    "dynasty": "中華民國",
+    "era": "民國84年",
+    "ganzhi": "",
+    "year": 1995,
+    "title": "頭城區漁會與羅東博愛醫院合作",
+    "event": "四月一日，頭城區漁會與羅東博愛醫院合作，開辦漁民診所。",
+    "categories": [
+      "產業與商業"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1995-538604b3d",
+    "date": "1995-04",
+    "dynasty": "中華民國",
+    "era": "民國84年",
+    "ganzhi": "",
+    "year": 1995,
+    "title": "整治頭城河開工",
+    "event": "四月，整治頭城河開工，分三期整治：第一期長度一千零三十公尺，經費一千萬元，八十四年八月完工；第二期長度一千三百公尺，經費九百萬元，八十四年八月開工，八十五年二月完工；第三期長度五百一十七公尺，經費八百一十萬元，八十六年一月開工，八十六年五月完工。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1995-5450fd439",
+    "date": "1995-03-06",
+    "dynasty": "中華民國",
+    "era": "民國84年",
+    "ganzhi": "",
+    "year": 1995,
+    "title": "軍方首次准許臺灣省旅遊局會同相關人員踏勘龜山島",
+    "event": "三月六日，軍方首次准許臺灣省旅遊局會同相關人員踏勘龜山島。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1995-0407ff697",
+    "date": "1995-02-08",
+    "dynasty": "中華民國",
+    "era": "民國84年",
+    "ganzhi": "",
+    "year": 1995,
+    "title": "大坑里協天宮香客大樓正式落成啟用",
+    "event": "二月八日，大坑里協天宮香客大樓正式落成啟用。",
+    "categories": [
+      "信仰與祭典"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1994-1db13ff29",
+    "date": "1994-12-13",
+    "dynasty": "中華民國",
+    "era": "民國83年",
+    "ganzhi": "",
+    "year": 1994,
+    "title": "纘祥路拓寬工程開工",
+    "event": "十二月十三日，纘祥路拓寬工程開工，闢建長五百九十七公尺；全長十二公尺，總經費六百八十萬元，八十四年六月二十五日完工。",
+    "categories": [
+      "交通與建設"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1994-2bc883134",
+    "date": "1994-11-29",
+    "dynasty": "中華民國",
+    "era": "民國83年",
+    "ganzhi": "",
+    "year": 1994,
+    "title": "將鎮產大千戲院",
+    "event": "十一月二十九日，將鎮產大千戲院，拆除改建為鎮立圖書館。",
+    "categories": [
+      "教育與文化"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1994-e0a69857d",
+    "date": "1994-11-24",
+    "dynasty": "中華民國",
+    "era": "民國83年",
+    "ganzhi": "",
+    "year": 1994,
+    "title": "位於本鎮的「宜蘭縣栽培漁業生產中心」完成規劃",
+    "event": "十一月二十四日，位於本鎮的「宜蘭縣栽培漁業生產中心」完成規劃。",
+    "categories": [
+      "港口與海洋"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1994-6643a859a",
+    "date": "1994-11-10",
+    "dynasty": "中華民國",
+    "era": "民國83年",
+    "ganzhi": "",
+    "year": 1994,
+    "title": "本鎮更新里經省府核定為「富麗漁村」重點發展社區",
+    "event": "十一月十日，本鎮更新里經省府核定為「富麗漁村」重點發展社區，獲六千萬元補助，將分三年完成社區及漁業設施改善。",
+    "categories": [
+      "港口與海洋"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1994-26c5981b0",
+    "date": "1994-08-01",
+    "dynasty": "中華民國",
+    "era": "民國83年",
+    "ganzhi": "",
+    "year": 1994,
+    "title": "頭城家商試辦特殊教育實驗班",
+    "event": "八月一日，頭城家商試辦特殊教育實驗班。",
+    "categories": [
+      "教育與文化"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1994-1d945195d",
+    "date": "1994-07",
+    "dynasty": "中華民國",
+    "era": "民國83年",
+    "ganzhi": "",
+    "year": 1994,
+    "title": "梗枋里簡易自來水工程完工",
+    "event": "七月，梗枋里簡易自來水工程完工。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1994-e331a361f",
+    "date": "1994-06-17",
+    "dynasty": "中華民國",
+    "era": "民國83年",
+    "ganzhi": "",
+    "year": 1994,
+    "title": "爭取東北角國家風景區管理處大里旅遊服務中心開工",
+    "event": "六月十七日，爭取東北角國家風景區管理處大里旅遊服務中心開工，發包金額八千萬元，其主體設施兩層樓房、戶外拓碑廣場及週邊設施等工程，八十五年十二月十日完工。",
+    "categories": [
+      "文化資產與地景"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1994-b3a964d94",
+    "date": "1994-06-14",
+    "dynasty": "中華民國",
+    "era": "民國83年",
+    "ganzhi": "",
+    "year": 1994,
+    "title": "為配合開闢烏石港的頭城都市計畫變更案完成規劃",
+    "event": "六月十四日，為配合開闢烏石港的頭城都市計畫變更案完成規劃，採區段徵收方式，總經費約十六億三仟九佰萬元，將成為漁業與遊憩兼備的港區。",
+    "categories": [
+      "港口與海洋"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1994-5c82594d9",
+    "date": "1994-05-26",
+    "dynasty": "中華民國",
+    "era": "民國83年",
+    "ganzhi": "",
+    "year": 1994,
+    "title": "頭城鎮農會拆除頭圍穀倉",
+    "event": "五月二十六日，頭城鎮農會拆除頭圍穀倉，改建為停車場。",
+    "categories": [
+      "交通與建設"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1994-3e527c880",
+    "date": "1994-05",
+    "dynasty": "中華民國",
+    "era": "民國83年",
+    "ganzhi": "",
+    "year": 1994,
+    "title": "為扶助民眾法律疑難解答",
+    "event": "五月，為扶助民眾法律疑難解答，成立法律諮詢服務處，每年均聘請名律師免費為民服務，首開本縣各鄉鎮市先例。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1994-5bf95d5e8",
+    "date": "1994-03-08",
+    "dynasty": "中華民國",
+    "era": "民國83年",
+    "ganzhi": "",
+    "year": 1994,
+    "title": "大溪國小校園改建工程開工主體工程有教學大樓、專科教室大樓、行政大樓等",
+    "event": "三月八日，大溪國小校園改建工程開工主體工程有教學大樓、專科教室大樓、行政大樓等，分三期施作，於八十七年九月一日完工。",
+    "categories": [
+      "教育與文化"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1994-591caf8d8",
+    "date": "1994-03-01",
+    "dynasty": "中華民國",
+    "era": "民國83年",
+    "ganzhi": "",
+    "year": 1994,
+    "title": "第十二屆鎮長陳忠茂就職交接",
+    "event": "三月一日，第十二屆鎮長陳忠茂就職交接。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1994-f0e86d770",
     "date": "1994",
-    "recordType": "local_history",
-    "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
+    "dynasty": "中華民國",
+    "era": "民國83年",
+    "ganzhi": "",
+    "year": 1994,
+    "title": "辦理吉祥路新闢工程",
+    "event": "辦理吉祥路新闢工程。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
   },
   {
     "id": "1994-north-fude-delisted",
@@ -2073,6 +4521,196 @@ window.TOUCHENG_HISTORY = [
     "importance": ""
   },
   {
+    "id": "1994-072",
+    "dynasty": "中華民國",
+    "era": "民國八十三年",
+    "ganzhi": "甲戌",
+    "year": 1994,
+    "title": "頭城鎮農會舊有辦公廳舍及所有倉庫全部折除興建農會辦公大樓",
+    "event": "頭城鎮農會舊有辦公廳舍及所有倉庫全部折除興建農會辦公大樓，於民國八十四年十一月九日竣工落成啟用。",
+    "categories": [
+      "政治與行政",
+      "產業與生活"
+    ],
+    "source": "莊錫財（2010）手稿辨識稿",
+    "sourceType": "地方文史手稿／待交叉查證",
+    "reviewStatus": "保留作地方文史參考；仍需與官方、學術及原住民族資料交叉查證",
+    "date": "1994",
+    "recordType": "local_history",
+    "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
+  },
+  {
+    "id": "office-1993-f7cfd0065",
+    "date": "1993-12-14",
+    "dynasty": "中華民國",
+    "era": "民國82年",
+    "ganzhi": "",
+    "year": 1993,
+    "title": "東北社區托兒所動工興建",
+    "event": "十二月十四日，東北社區托兒所動工興建，為全縣首座示範托兒所。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1993-7994a42b1",
+    "date": "1993-10-01",
+    "dynasty": "中華民國",
+    "era": "民國82年",
+    "ganzhi": "",
+    "year": 1993,
+    "title": "本鎮位於核四廠逃命圈範圍",
+    "event": "十月一日，本鎮位於核四廠逃命圈範圍，為免縣民遭受核電災變威脅，宜蘭縣政府行文經濟部表明反核四興建立場。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1993-3c37ed6b8",
+    "date": "1993-09",
+    "dynasty": "中華民國",
+    "era": "民國82年",
+    "ganzhi": "",
+    "year": 1993,
+    "title": "舉辦恢復後之第三次搶孤活動",
+    "event": "九月，舉辦恢復後之第三次搶孤活動。",
+    "categories": [
+      "信仰與祭典"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1993-32c30a035",
+    "date": "1993-07-01",
+    "dynasty": "中華民國",
+    "era": "民國82年",
+    "ganzhi": "",
+    "year": 1993,
+    "title": "「石城縣界公園」開工",
+    "event": "七月一日，「石城縣界公園」開工，發包金額四千七百萬元，闢建停車場、遊客服務中心及週邊設施等工程，八十九年十二月五日完工。",
+    "categories": [
+      "文化資產與地景"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1993-e073be40e",
+    "date": "1993-07",
+    "dynasty": "中華民國",
+    "era": "民國82年",
+    "ganzhi": "",
+    "year": 1993,
+    "title": "下埔養殖漁業生產區公共設施改善工程開工",
+    "event": "七月，下埔養殖漁業生產區公共設施改善工程開工。",
+    "categories": [
+      "港口與海洋"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1993-88a98d4ad",
+    "date": "1993-04-30",
+    "dynasty": "中華民國",
+    "era": "民國82年",
+    "ganzhi": "",
+    "year": 1993,
+    "title": "大坑里反映海水侵蝕嚴重",
+    "event": "四月三十日，大坑里反映海水侵蝕嚴重，造成海岸線內移十公尺。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1993-4be511c7b",
+    "date": "1993-01-06",
+    "dynasty": "中華民國",
+    "era": "民國82年",
+    "ganzhi": "",
+    "year": 1993,
+    "title": "由我國和亞洲太平洋地區國家共同投資的亞太光纖海底電纜系統在本鎮登岸",
+    "event": "一月六日，由我國和亞洲太平洋地區國家共同投資的亞太光纖海底電纜系統在本鎮登岸，七月啟用。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1993-8d890a08c",
+    "date": "1993",
+    "dynasty": "中華民國",
+    "era": "民國82年",
+    "ganzhi": "",
+    "year": 1993,
+    "title": "配合下埔社區購地",
+    "event": "配合下埔社區購地，興建老人休閒中心。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1993-36a13d898",
+    "date": "1993",
+    "dynasty": "中華民國",
+    "era": "民國82年",
+    "ganzhi": "",
+    "year": 1993,
+    "title": "下埔養殖漁業生產區公共設施改善工程",
+    "event": "下埔養殖漁業生產區公共設施改善工程。",
+    "categories": [
+      "港口與海洋"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
     "id": "1993-071",
     "dynasty": "中華民國",
     "era": "民國八十二年",
@@ -2090,6 +4728,82 @@ window.TOUCHENG_HISTORY = [
     "date": "1993",
     "recordType": "local_history",
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
+  },
+  {
+    "id": "office-1992-3d9a3a8d9",
+    "date": "1992-09",
+    "dynasty": "中華民國",
+    "era": "民國81年",
+    "ganzhi": "",
+    "year": 1992,
+    "title": "二城國小附設幼稚園",
+    "event": "九月，二城國小附設幼稚園。",
+    "categories": [
+      "教育與文化"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1992-57e85a40f",
+    "date": "1992-08-29",
+    "dynasty": "中華民國",
+    "era": "民國81年",
+    "ganzhi": "",
+    "year": 1992,
+    "title": "搶孤活動（恢復舉辦的第二年）",
+    "event": "八月二十九日，搶孤活動（恢復舉辦的第二年），遭遇寶莉颱風的肆虐，整個活動在狂風暴雨中進行。",
+    "categories": [
+      "信仰與祭典"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1992-c31816408",
+    "date": "1992-08",
+    "dynasty": "中華民國",
+    "era": "民國81年",
+    "ganzhi": "",
+    "year": 1992,
+    "title": "竹安國小校園整體規劃工程開始施工",
+    "event": "八月，竹安國小校園整體規劃工程開始施工。",
+    "categories": [
+      "教育與文化"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1992-33be08214",
+    "date": "1992-07-28",
+    "dynasty": "中華民國",
+    "era": "民國81年",
+    "ganzhi": "",
+    "year": 1992,
+    "title": "群體醫療中心及教學中心開幕",
+    "event": "七月二十八日，群體醫療中心及教學中心開幕。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
   },
   {
     "id": "1992-lanyang-museum-site",
@@ -2113,6 +4827,44 @@ window.TOUCHENG_HISTORY = [
     "importance": "確立蘭陽博物館與頭城、烏石港地景的長期關係。"
   },
   {
+    "id": "office-1991-452d1800e",
+    "date": "1991-08-24",
+    "dynasty": "中華民國",
+    "era": "民國80年",
+    "ganzhi": "",
+    "year": 1991,
+    "title": "至九月七日，停辦四十三年的搶孤活動",
+    "event": "八月二十四日至九月七日，停辦四十三年的搶孤活動，恢復舉辦。",
+    "categories": [
+      "信仰與祭典"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1991-97cb40b84",
+    "date": "1991",
+    "dynasty": "中華民國",
+    "era": "民國80年",
+    "ganzhi": "",
+    "year": 1991,
+    "title": "烏石港興工重建",
+    "event": "烏石港興工重建，總面積一萬一千點九十七公頃，工程費用達四十餘億元。",
+    "categories": [
+      "港口與海洋"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
     "id": "1991-070",
     "dynasty": "中華民國",
     "era": "民國八十年",
@@ -2131,24 +4883,42 @@ window.TOUCHENG_HISTORY = [
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
   },
   {
-    "id": "1989-069",
+    "id": "office-1990-6ea3a28c0",
+    "date": "1990-03-01",
     "dynasty": "中華民國",
-    "era": "民國七十八年",
-    "ganzhi": "己巳",
-    "year": 1989,
-    "title": "烏石港遺址建立石碑為紀念",
-    "event": "烏石港遺址建立石碑為紀念。頭城鎮志繁修完成出版油印六十冊分發鎮民參閱為紀念。",
+    "era": "民國79年",
+    "ganzhi": "",
+    "year": 1990,
+    "title": "第十一屆鎮長林樂善就職交接",
+    "event": "三月一日，第十一屆鎮長林樂善就職交接。",
     "categories": [
-      "港口與海洋",
-      "政治與行政",
-      "教育與文化"
+      "公共事務"
     ],
-    "source": "莊錫財（2010）手稿辨識稿",
-    "sourceType": "地方文史手稿／待交叉查證",
-    "reviewStatus": "保留作地方文史參考；仍需與官方、學術及原住民族資料交叉查證",
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1989-218e39de3",
     "date": "1989",
-    "recordType": "local_history",
-    "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
+    "dynasty": "中華民國",
+    "era": "民國78年",
+    "ganzhi": "",
+    "year": 1989,
+    "title": "大溪第二漁港擴建工程開工",
+    "event": "大溪第二漁港擴建工程開工。",
+    "categories": [
+      "港口與海洋"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
   },
   {
     "id": "1989-lanyang-museum-origin",
@@ -2172,6 +4942,45 @@ window.TOUCHENG_HISTORY = [
     "importance": "這項倡議把烏石港歷史、地方文化保存與博物館建設連結起來。"
   },
   {
+    "id": "1989-069",
+    "dynasty": "中華民國",
+    "era": "民國七十八年",
+    "ganzhi": "己巳",
+    "year": 1989,
+    "title": "烏石港遺址建立石碑為紀念",
+    "event": "烏石港遺址建立石碑為紀念。頭城鎮志繁修完成出版油印六十冊分發鎮民參閱為紀念。",
+    "categories": [
+      "港口與海洋",
+      "政治與行政",
+      "教育與文化"
+    ],
+    "source": "莊錫財（2010）手稿辨識稿",
+    "sourceType": "地方文史手稿／待交叉查證",
+    "reviewStatus": "保留作地方文史參考；仍需與官方、學術及原住民族資料交叉查證",
+    "date": "1989",
+    "recordType": "local_history",
+    "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
+  },
+  {
+    "id": "office-1988-3b954b1e2",
+    "date": "1988",
+    "dynasty": "中華民國",
+    "era": "民國77年",
+    "ganzhi": "",
+    "year": 1988,
+    "title": "辦理群體醫療中心及教學中心工程",
+    "event": "辦理群體醫療中心及教學中心工程。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
     "id": "1988-068",
     "dynasty": "中華民國",
     "era": "民國七十七年",
@@ -2190,6 +4999,44 @@ window.TOUCHENG_HISTORY = [
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
   },
   {
+    "id": "office-1987-5946e1af3",
+    "date": "1987-08",
+    "dynasty": "中華民國",
+    "era": "民國76年",
+    "ganzhi": "",
+    "year": 1987,
+    "title": "省立頭城高級中學改制為省立頭城高級家事商業職業學校",
+    "event": "八月，省立頭城高級中學改制為省立頭城高級家事商業職業學校。",
+    "categories": [
+      "教育與文化"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1987-13a21eb39",
+    "date": "1987",
+    "dynasty": "中華民國",
+    "era": "民國76年",
+    "ganzhi": "",
+    "year": 1987,
+    "title": "辦理城南城北聯合活動中心工程",
+    "event": "辦理城南城北聯合活動中心工程。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
     "id": "1987-067",
     "dynasty": "中華民國",
     "era": "民國七十六年",
@@ -2206,6 +5053,196 @@ window.TOUCHENG_HISTORY = [
     "date": "1987",
     "recordType": "local_history",
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
+  },
+  {
+    "id": "office-1986-6226a40f2",
+    "date": "1986-03-01",
+    "dynasty": "中華民國",
+    "era": "民國75年",
+    "ganzhi": "",
+    "year": 1986,
+    "title": "第十屆鎮長林樂善就職交接",
+    "event": "三月一日，第十屆鎮長林樂善就職交接。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1985-b7e2a3bc5",
+    "date": "1985-12",
+    "dynasty": "中華民國",
+    "era": "民國74年",
+    "ganzhi": "",
+    "year": 1985,
+    "title": "鎮長莊錫財監修",
+    "event": "十二月，鎮長莊錫財監修，莊英章、吳文星纂之<頭城鎮志>出版。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1985-6d3ad026a",
+    "date": "1985-03",
+    "dynasty": "中華民國",
+    "era": "民國74年",
+    "ganzhi": "",
+    "year": 1985,
+    "title": "成立頭城鎮老人俱樂部",
+    "event": "三月，成立頭城鎮老人俱樂部，會員二百零四人。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1985-a761fd162",
+    "date": "1985-02",
+    "dynasty": "中華民國",
+    "era": "民國74年",
+    "ganzhi": "",
+    "year": 1985,
+    "title": "宜蘭縣立文化中心「史蹟文物工作小組」規劃完成<宜蘭縣草嶺碑林第一期碑體設計工作計畫書",
+    "event": "二月，宜蘭縣立文化中心「史蹟文物工作小組」規劃完成<宜蘭縣草嶺碑林第一期碑體設計工作計畫書>。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1985-ed0eb5156",
+    "date": "1985",
+    "dynasty": "中華民國",
+    "era": "民國74年",
+    "ganzhi": "",
+    "year": 1985,
+    "title": "興建武營社區活動中心二樓",
+    "event": "興建武營社區活動中心二樓。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1985-8fc4f2676",
+    "date": "1985",
+    "dynasty": "中華民國",
+    "era": "民國74年",
+    "ganzhi": "",
+    "year": 1985,
+    "title": "吉祥橋改建，寬十五公尺",
+    "event": "吉祥橋改建，寬十五公尺。",
+    "categories": [
+      "交通與建設"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1985-5d9c2ac62",
+    "date": "1985",
+    "dynasty": "中華民國",
+    "era": "民國74年",
+    "ganzhi": "",
+    "year": 1985,
+    "title": "興建烏石港遺址石碑建立完工",
+    "event": "興建烏石港遺址石碑建立完工。",
+    "categories": [
+      "港口與海洋"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1985-5abb1ec07",
+    "date": "1985",
+    "dynasty": "中華民國",
+    "era": "民國74年",
+    "ganzhi": "",
+    "year": 1985,
+    "title": "築造大坑河堤完工",
+    "event": "築造大坑河堤完工。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1985-4de4d1d25",
+    "date": "1985",
+    "dynasty": "中華民國",
+    "era": "民國74年",
+    "ganzhi": "",
+    "year": 1985,
+    "title": "興建二城國民小學體育館完工",
+    "event": "興建二城國民小學體育館完工。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1985-0aa401ba6",
+    "date": "1985",
+    "dynasty": "中華民國",
+    "era": "民國74年",
+    "ganzhi": "",
+    "year": 1985,
+    "title": "宜蘭線鐵路雙軌工程完工",
+    "event": "宜蘭線鐵路雙軌工程完工，鎮內增加隧道六座。第十一公墓公園化納骨堂啟用。",
+    "categories": [
+      "文化資產與地景"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
   },
   {
     "id": "1985-yilan-plan",
@@ -2247,6 +5284,63 @@ window.TOUCHENG_HISTORY = [
     "importance": ""
   },
   {
+    "id": "office-1984-e44c3b0d5",
+    "date": "1984-06-01",
+    "dynasty": "中華民國",
+    "era": "民國73年",
+    "ganzhi": "",
+    "year": 1984,
+    "title": "交通部觀光局成立「東北角海岸風景特定區管理處」",
+    "event": "六月一日，交通部觀光局成立「東北角海岸風景特定區管理處」。",
+    "categories": [
+      "交通與建設"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1984-7500abc2f",
+    "date": "1984",
+    "dynasty": "中華民國",
+    "era": "民國73年",
+    "ganzhi": "",
+    "year": 1984,
+    "title": "興建東北社區活動中心",
+    "event": "興建東北社區活動中心。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1984-5569a88dc",
+    "date": "1984",
+    "dynasty": "中華民國",
+    "era": "民國73年",
+    "ganzhi": "",
+    "year": 1984,
+    "title": "增設大坑社區托兒所",
+    "event": "增設大坑社區托兒所。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
     "id": "1984-giant-deities-alternate",
     "date": "1984",
     "dynasty": "中華民國",
@@ -2265,6 +5359,196 @@ window.TOUCHENG_HISTORY = [
     "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
     "recordType": "local-publication",
     "importance": ""
+  },
+  {
+    "id": "office-1983-558013243",
+    "date": "1983-11",
+    "dynasty": "中華民國",
+    "era": "民國72年",
+    "ganzhi": "",
+    "year": 1983,
+    "title": "梗枋漁港竣工",
+    "event": "十一月，梗枋漁港竣工。",
+    "categories": [
+      "港口與海洋"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1983-0566e48c0",
+    "date": "1983-08-31",
+    "dynasty": "中華民國",
+    "era": "民國72年",
+    "ganzhi": "",
+    "year": 1983,
+    "title": "港口里第十一公墓新式納骨堂完工",
+    "event": "八月三十一日，港口里第十一公墓新式納骨堂完工，可容三千五百罈/箱。",
+    "categories": [
+      "港口與海洋"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1983-789bf0c56",
+    "date": "1983-04",
+    "dynasty": "中華民國",
+    "era": "民國72年",
+    "ganzhi": "",
+    "year": 1983,
+    "title": "頭城區漁業大樓竣工",
+    "event": "四月，頭城區漁業大樓竣工。",
+    "categories": [
+      "港口與海洋"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1983-b50c3c769",
+    "date": "1983-01-24",
+    "dynasty": "中華民國",
+    "era": "民國72年",
+    "ganzhi": "",
+    "year": 1983,
+    "title": "捨身救溺溫文龍銅像揭幕",
+    "event": "一月二十四日，捨身救溺溫文龍銅像揭幕。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1983-ebe1b6053",
+    "date": "1983",
+    "dynasty": "中華民國",
+    "era": "民國72年",
+    "ganzhi": "",
+    "year": 1983,
+    "title": "大坑河大排水護岸改善工程（大坑橋至弄潮橋段）完工",
+    "event": "大坑河大排水護岸改善工程（大坑橋至弄潮橋段）完工。",
+    "categories": [
+      "交通與建設"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1983-d412b9102",
+    "date": "1983",
+    "dynasty": "中華民國",
+    "era": "民國72年",
+    "ganzhi": "",
+    "year": 1983,
+    "title": "興建大坑里集會所",
+    "event": "興建大坑里集會所。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1983-d22f28b82",
+    "date": "1983",
+    "dynasty": "中華民國",
+    "era": "民國72年",
+    "ganzhi": "",
+    "year": 1983,
+    "title": "梗枋漁港拍場成立",
+    "event": "梗枋漁港拍場成立。",
+    "categories": [
+      "港口與海洋"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1983-776f70d56",
+    "date": "1983",
+    "dynasty": "中華民國",
+    "era": "民國72年",
+    "ganzhi": "",
+    "year": 1983,
+    "title": "農漁之家結束營業",
+    "event": "農漁之家結束營業。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1983-09332e59e",
+    "date": "1983",
+    "dynasty": "中華民國",
+    "era": "民國72年",
+    "ganzhi": "",
+    "year": 1983,
+    "title": "自來水公司第八管理處在本鎮設立營業所",
+    "event": "自來水公司第八管理處在本鎮設立營業所。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1983-05858dd53",
+    "date": "1983",
+    "dynasty": "中華民國",
+    "era": "民國72年",
+    "ganzhi": "",
+    "year": 1983,
+    "title": "海水浴場青年活動中心完工",
+    "event": "海水浴場青年活動中心完工。",
+    "categories": [
+      "港口與海洋"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
   },
   {
     "id": "1983-066",
@@ -2288,6 +5572,253 @@ window.TOUCHENG_HISTORY = [
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
   },
   {
+    "id": "office-1982-afc0b970d",
+    "date": "1982-09-21",
+    "dynasty": "中華民國",
+    "era": "民國71年",
+    "ganzhi": "",
+    "year": 1982,
+    "title": "宜蘭縣政府計劃開發「草嶺碑林風景區」",
+    "event": "九月二十一日，宜蘭縣政府計劃開發「草嶺碑林風景區」。",
+    "categories": [
+      "文化資產與地景"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1982-3adfac544",
+    "date": "1982-08-01",
+    "dynasty": "中華民國",
+    "era": "民國71年",
+    "ganzhi": "",
+    "year": 1982,
+    "title": "第十二屆里長就任",
+    "event": "八月一日，第十二屆里長就任。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1982-1c2632db6",
+    "date": "1982-06-06",
+    "dynasty": "中華民國",
+    "era": "民國71年",
+    "ganzhi": "",
+    "year": 1982,
+    "title": "大里加油站正式啟用",
+    "event": "六月六日，大里加油站正式啟用。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1982-ec21a4166",
+    "date": "1982-04-09",
+    "dynasty": "中華民國",
+    "era": "民國71年",
+    "ganzhi": "",
+    "year": 1982,
+    "title": "頭城高中增設夜間補校",
+    "event": "四月九日，頭城高中增設夜間補校。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1982-2ab1184ae",
+    "date": "1982-03-01",
+    "dynasty": "中華民國",
+    "era": "民國71年",
+    "ganzhi": "",
+    "year": 1982,
+    "title": "第九屆鎮長莊錫財就職",
+    "event": "三月一日，第九屆鎮長莊錫財就職。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1982-c1d99c596",
+    "date": "1982",
+    "dynasty": "中華民國",
+    "era": "民國71年",
+    "ganzhi": "",
+    "year": 1982,
+    "title": "頭城國民小學科學館完工",
+    "event": "頭城國民小學科學館完工。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1982-af3ce7bec",
+    "date": "1982",
+    "dynasty": "中華民國",
+    "era": "民國71年",
+    "ganzhi": "",
+    "year": 1982,
+    "title": "興建拔雅、城東、更新、合興等里活動中心",
+    "event": "興建拔雅、城東、更新、合興等里活動中心。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1982-4d154279c",
+    "date": "1982",
+    "dynasty": "中華民國",
+    "era": "民國71年",
+    "ganzhi": "",
+    "year": 1982,
+    "title": "頭城鎮衛生所二樓改建工程完工啟用",
+    "event": "頭城鎮衛生所二樓改建工程完工啟用。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1982-30d23ce90",
+    "date": "1982",
+    "dynasty": "中華民國",
+    "era": "民國71年",
+    "ganzhi": "",
+    "year": 1982,
+    "title": "自來水施設一、二期工程已完成（即竹安與港口里至石城里止幹線全部完成）",
+    "event": "自來水施設一、二期工程已完成（即竹安與港口里至石城里止幹線全部完成）。",
+    "categories": [
+      "港口與海洋"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1982-301edd385",
+    "date": "1982",
+    "dynasty": "中華民國",
+    "era": "民國71年",
+    "ganzhi": "",
+    "year": 1982,
+    "title": "大坑河（頭城橋至濱海公路段）改善工程完工",
+    "event": "大坑河（頭城橋至濱海公路段）改善工程完工。",
+    "categories": [
+      "交通與建設"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1982-2f4be23b7",
+    "date": "1982",
+    "dynasty": "中華民國",
+    "era": "民國71年",
+    "ganzhi": "",
+    "year": 1982,
+    "title": "頭城鎮游泳池完工啟用",
+    "event": "頭城鎮游泳池完工啟用。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1982-0bbd9600d",
+    "date": "1982",
+    "dynasty": "中華民國",
+    "era": "民國71年",
+    "ganzhi": "",
+    "year": 1982,
+    "title": "增建二城社區活動中心二樓完成",
+    "event": "增建二城社區活動中心二樓完成。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1982-0ac840754",
+    "date": "1982",
+    "dynasty": "中華民國",
+    "era": "民國71年",
+    "ganzhi": "",
+    "year": 1982,
+    "title": "第十一公墓示範公園化第二期工程完工",
+    "event": "第十一公墓示範公園化第二期工程完工。",
+    "categories": [
+      "文化資產與地景"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
     "id": "1982-065",
     "dynasty": "中華民國",
     "era": "民國七十一年",
@@ -2304,6 +5835,158 @@ window.TOUCHENG_HISTORY = [
     "date": "1982",
     "recordType": "local_history",
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
+  },
+  {
+    "id": "office-1981-df4751ae4",
+    "date": "1981-10",
+    "dynasty": "中華民國",
+    "era": "民國70年",
+    "ganzhi": "",
+    "year": 1981,
+    "title": "頭城河改善工程完工",
+    "event": "十月，頭城河改善工程完工。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1981-1f2ee891d",
+    "date": "1981-04",
+    "dynasty": "中華民國",
+    "era": "民國70年",
+    "ganzhi": "",
+    "year": 1981,
+    "title": "外澳河堤整建工程完工",
+    "event": "四月，外澳河堤整建工程完工。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1981-9e1622490",
+    "date": "1981-02-06",
+    "dynasty": "中華民國",
+    "era": "民國70年",
+    "ganzhi": "",
+    "year": 1981,
+    "title": "大里停車場啟用",
+    "event": "二月六日，大里停車場啟用。",
+    "categories": [
+      "交通與建設"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1981-e6716e144",
+    "date": "1981",
+    "dynasty": "中華民國",
+    "era": "民國70年",
+    "ganzhi": "",
+    "year": 1981,
+    "title": "增加拔雅、更新、合興三所托兒所",
+    "event": "增加拔雅、更新、合興三所托兒所。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1981-aca21cb1b",
+    "date": "1981",
+    "dynasty": "中華民國",
+    "era": "民國70年",
+    "ganzhi": "",
+    "year": 1981,
+    "title": "福德坑產業道路二期工程完工",
+    "event": "福德坑產業道路二期工程完工。",
+    "categories": [
+      "交通與建設"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1981-96dd12a3b",
+    "date": "1981",
+    "dynasty": "中華民國",
+    "era": "民國70年",
+    "ganzhi": "",
+    "year": 1981,
+    "title": "年底，宜蘭縣長陳定南將「草嶺碑林」列為宜蘭縣觀光發展計畫的重點",
+    "event": "年底，宜蘭縣長陳定南將「草嶺碑林」列為宜蘭縣觀光發展計畫的重點，責成建設局、民政局規劃，並委託臺灣大學土木工程研究所都市計畫研究室研擬開發細則。",
+    "categories": [
+      "產業與商業"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1981-8936ce0c9",
+    "date": "1981",
+    "dynasty": "中華民國",
+    "era": "民國70年",
+    "ganzhi": "",
+    "year": 1981,
+    "title": "興建合興里活動中心和外澳防波堤工程",
+    "event": "興建合興里活動中心和外澳防波堤工程。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1981-582ef6428",
+    "date": "1981",
+    "dynasty": "中華民國",
+    "era": "民國70年",
+    "ganzhi": "",
+    "year": 1981,
+    "title": "大溪里成立頭城郵局第一支局",
+    "event": "大溪里成立頭城郵局第一支局。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
   },
   {
     "id": "1981-little-earth-god-moved",
@@ -2326,6 +6009,177 @@ window.TOUCHENG_HISTORY = [
     "importance": ""
   },
   {
+    "id": "office-1980-ecb185d24",
+    "date": "1980-08",
+    "dynasty": "中華民國",
+    "era": "民國69年",
+    "ganzhi": "",
+    "year": 1980,
+    "title": "頭城國際青年商會成立",
+    "event": "八月，頭城國際青年商會成立。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1980-a68eeac01",
+    "date": "1980-08",
+    "dynasty": "中華民國",
+    "era": "民國69年",
+    "ganzhi": "",
+    "year": 1980,
+    "title": "綜合商場三十一棟落成",
+    "event": "八月，綜合商場三十一棟落成，十二月出租啟用，每月收入租金二十餘萬元。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1980-54f66180c",
+    "date": "1980-08",
+    "dynasty": "中華民國",
+    "era": "民國69年",
+    "ganzhi": "",
+    "year": 1980,
+    "title": "濱海公路通車，公路局在本鎮青雲路設置車站",
+    "event": "八月，濱海公路通車，公路局在本鎮青雲路設置車站。",
+    "categories": [
+      "交通與建設"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1980-c24d566f6",
+    "date": "1980-06",
+    "dynasty": "中華民國",
+    "era": "民國69年",
+    "ganzhi": "",
+    "year": 1980,
+    "title": "頭城國際扶輪社成立",
+    "event": "六月，頭城國際扶輪社成立。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1980-83966b086",
+    "date": "1980-06",
+    "dynasty": "中華民國",
+    "era": "民國69年",
+    "ganzhi": "",
+    "year": 1980,
+    "title": "漁會辦公大樓竣工",
+    "event": "六月，漁會辦公大樓竣工。",
+    "categories": [
+      "產業與商業"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1980-e042d49c1",
+    "date": "1980-02-01",
+    "dynasty": "中華民國",
+    "era": "民國69年",
+    "ganzhi": "",
+    "year": 1980,
+    "title": "北迴鐵路通車",
+    "event": "二月一日，北迴鐵路通車。",
+    "categories": [
+      "交通與建設"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1980-aa4a56d2f",
+    "date": "1980",
+    "dynasty": "中華民國",
+    "era": "民國69年",
+    "ganzhi": "",
+    "year": 1980,
+    "title": "興建大溪社區活動中心",
+    "event": "興建大溪社區活動中心。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1980-835e77026",
+    "date": "1980",
+    "dynasty": "中華民國",
+    "era": "民國69年",
+    "ganzhi": "",
+    "year": 1980,
+    "title": "石牌風景區給水設備、停車場、廁所完工啟用",
+    "event": "石牌風景區給水設備、停車場、廁所完工啟用。",
+    "categories": [
+      "文化資產與地景"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1980-73ee2b7fa",
+    "date": "1980",
+    "dynasty": "中華民國",
+    "era": "民國69年",
+    "ganzhi": "",
+    "year": 1980,
+    "title": "興建頭城國民小學司令臺完工",
+    "event": "興建頭城國民小學司令臺完工。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
     "id": "1980-063",
     "dynasty": "中華民國",
     "era": "民國六十九年",
@@ -2346,6 +6200,25 @@ window.TOUCHENG_HISTORY = [
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
   },
   {
+    "id": "office-1979-73966c3f1",
+    "date": "1979-08",
+    "dynasty": "中華民國",
+    "era": "民國68年",
+    "ganzhi": "",
+    "year": 1979,
+    "title": "大里里簡易自來水工程完工",
+    "event": "八月，大里里簡易自來水工程完工。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
     "id": "1979-062",
     "dynasty": "中華民國",
     "era": "民國六十八年",
@@ -2362,6 +6235,310 @@ window.TOUCHENG_HISTORY = [
     "date": "1979",
     "recordType": "local_history",
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
+  },
+  {
+    "id": "office-1978-9db38667c",
+    "date": "1978-03-17",
+    "dynasty": "中華民國",
+    "era": "民國67年",
+    "ganzhi": "",
+    "year": 1978,
+    "title": "簡易自來水廠大溪給水站啟用供水",
+    "event": "三月十七日，簡易自來水廠大溪給水站啟用供水。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1978-ba99cd318",
+    "date": "1978",
+    "dynasty": "中華民國",
+    "era": "民國67年",
+    "ganzhi": "",
+    "year": 1978,
+    "title": "頭城國小設立啟智班",
+    "event": "頭城國小設立啟智班。",
+    "categories": [
+      "教育與文化"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1978-9df8d93c1",
+    "date": "1978",
+    "dynasty": "中華民國",
+    "era": "民國67年",
+    "ganzhi": "",
+    "year": 1978,
+    "title": "大溪、龜山里合併為一里",
+    "event": "大溪、龜山里合併為一里，行政區域由二十四里改減為二十三里。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1978-01ef8aa80",
+    "date": "1978",
+    "dynasty": "中華民國",
+    "era": "民國67年",
+    "ganzhi": "",
+    "year": 1978,
+    "title": "興建下埔社區活動中心",
+    "event": "興建下埔社區活動中心。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1977-221875c02",
+    "date": "1977-12-30",
+    "dynasty": "中華民國",
+    "era": "民國66年",
+    "ganzhi": "",
+    "year": 1977,
+    "title": "第八屆鎮長莊錫財就職",
+    "event": "十二月三十日，第八屆鎮長莊錫財就職。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1977-4fd99cfc4",
+    "date": "1977-10-31",
+    "dynasty": "中華民國",
+    "era": "民國66年",
+    "ganzhi": "",
+    "year": 1977,
+    "title": "龜山島居民遷村仁澤社區舉行落成典禮",
+    "event": "十月三十一日，龜山島居民遷村仁澤社區舉行落成典禮。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1977-1e5094fab",
+    "date": "1977-07-16",
+    "dynasty": "中華民國",
+    "era": "民國66年",
+    "ganzhi": "",
+    "year": 1977,
+    "title": "警察分駐所遷建新址武營里",
+    "event": "七月十六日，警察分駐所遷建新址武營里，掘出嘉慶二十二年冬月古砲二尊。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1977-cb6f87683",
+    "date": "1977-06",
+    "dynasty": "中華民國",
+    "era": "民國66年",
+    "ganzhi": "",
+    "year": 1977,
+    "title": "頭城國際獅子會成立",
+    "event": "六月，頭城國際獅子會成立。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1977-9af2e9667",
+    "date": "1977",
+    "dynasty": "中華民國",
+    "era": "民國66年",
+    "ganzhi": "",
+    "year": 1977,
+    "title": "大溪南方、大坑等二里海堤完工",
+    "event": "大溪南方、大坑等二里海堤完工，全八百五十公尺。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1977-92a767632",
+    "date": "1977",
+    "dynasty": "中華民國",
+    "era": "民國66年",
+    "ganzhi": "",
+    "year": 1977,
+    "title": "頭城區漁會漁民醫療所成立",
+    "event": "頭城區漁會漁民醫療所成立。",
+    "categories": [
+      "產業與商業"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1977-25a8a9ae1",
+    "date": "1977",
+    "dynasty": "中華民國",
+    "era": "民國66年",
+    "ganzhi": "",
+    "year": 1977,
+    "title": "興建金盈社區活動中心",
+    "event": "興建金盈社區活動中心。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1976-a119b0bd3",
+    "date": "1976-08-16",
+    "dynasty": "中華民國",
+    "era": "民國65年",
+    "ganzhi": "",
+    "year": 1976,
+    "title": "梗枋大橋動工興建",
+    "event": "八月十六日，梗枋大橋動工興建。",
+    "categories": [
+      "交通與建設"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1976-cf92b978f",
+    "date": "1976",
+    "dynasty": "中華民國",
+    "era": "民國65年",
+    "ganzhi": "",
+    "year": 1976,
+    "title": "興建大坑海堤",
+    "event": "興建大坑海堤。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1976-b16137e87",
+    "date": "1976",
+    "dynasty": "中華民國",
+    "era": "民國65年",
+    "ganzhi": "",
+    "year": 1976,
+    "title": "公路局汽車宜蘭頭城線",
+    "event": "公路局汽車宜蘭頭城線，向北延駛至福隆。",
+    "categories": [
+      "交通與建設"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1976-6d2126f6f",
+    "date": "1976",
+    "dynasty": "中華民國",
+    "era": "民國65年",
+    "ganzhi": "",
+    "year": 1976,
+    "title": "龜山島居民一百零六戶",
+    "event": "龜山島居民一百零六戶，集體遷村至大溪里。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1976-2cdd00f73",
+    "date": "1976",
+    "dynasty": "中華民國",
+    "era": "民國65年",
+    "ganzhi": "",
+    "year": 1976,
+    "title": "頭城區漁會合併壯圍漁會",
+    "event": "頭城區漁會合併壯圍漁會。",
+    "categories": [
+      "產業與商業"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
   },
   {
     "id": "1976-061",
@@ -2382,6 +6559,348 @@ window.TOUCHENG_HISTORY = [
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
   },
   {
+    "id": "office-1975-f5078482e",
+    "date": "1975",
+    "dynasty": "中華民國",
+    "era": "民國64年",
+    "ganzhi": "",
+    "year": 1975,
+    "title": "北部濱海公路開工",
+    "event": "北部濱海公路開工。",
+    "categories": [
+      "交通與建設"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1975-d145b8f16",
+    "date": "1975",
+    "dynasty": "中華民國",
+    "era": "民國64年",
+    "ganzhi": "",
+    "year": 1975,
+    "title": "興建武營社區活動中心",
+    "event": "興建武營社區活動中心。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1975-9df0645ae",
+    "date": "1975",
+    "dynasty": "中華民國",
+    "era": "民國64年",
+    "ganzhi": "",
+    "year": 1975,
+    "title": "宜蘭縣政府核准因颱風損壞建住宅貸款一百六十戶",
+    "event": "宜蘭縣政府核准因颱風損壞建住宅貸款一百六十戶。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1975-9ac38232e",
+    "date": "1975",
+    "dynasty": "中華民國",
+    "era": "民國64年",
+    "ganzhi": "",
+    "year": 1975,
+    "title": "行政院經濟設計委員會所訂定的宜蘭區域計畫",
+    "event": "行政院經濟設計委員會所訂定的宜蘭區域計畫，以冬山、頭城、礁溪為一般市鎮中心。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1975-999f53475",
+    "date": "1975",
+    "dynasty": "中華民國",
+    "era": "民國64年",
+    "ganzhi": "",
+    "year": 1975,
+    "title": "省府已核定頭城次要河堤防",
+    "event": "省府已核定頭城次要河堤防，因「范迪」颱風損壞的修復工程，六月底完工。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1975-9126fc3b8",
+    "date": "1975",
+    "dynasty": "中華民國",
+    "era": "民國64年",
+    "ganzhi": "",
+    "year": 1975,
+    "title": "大溪新漁港擴建完工",
+    "event": "大溪新漁港擴建完工。",
+    "categories": [
+      "港口與海洋"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1975-2ff0aa5f6",
+    "date": "1975",
+    "dynasty": "中華民國",
+    "era": "民國64年",
+    "ganzhi": "",
+    "year": 1975,
+    "title": "竹安河口導流堤興建完工",
+    "event": "竹安河口導流堤興建完工，長二百公尺。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1975-08db6bdcb",
+    "date": "1975",
+    "dynasty": "中華民國",
+    "era": "民國64年",
+    "ganzhi": "",
+    "year": 1975,
+    "title": "金盈里簡易自來水完工",
+    "event": "金盈里簡易自來水完工。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1974-8584712dc",
+    "date": "1974-06-08",
+    "dynasty": "中華民國",
+    "era": "民國63年",
+    "ganzhi": "",
+    "year": 1974,
+    "title": "大里漁船澳完成擴建工程",
+    "event": "六月八日，大里漁船澳完成擴建工程。",
+    "categories": [
+      "港口與海洋"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1974-fd56e1e6f",
+    "date": "1974-01",
+    "dynasty": "中華民國",
+    "era": "民國63年",
+    "ganzhi": "",
+    "year": 1974,
+    "title": "釣魚臺列嶼正式劃為本鎮大溪里行政區",
+    "event": "一月，釣魚臺列嶼正式劃為本鎮大溪里行政區。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1974-3dc95911b",
+    "date": "1974",
+    "dynasty": "中華民國",
+    "era": "民國63年",
+    "ganzhi": "",
+    "year": 1974,
+    "title": "范迪颱風暴雨洪水",
+    "event": "范迪颱風暴雨洪水，道路、河川、民房毀損嚴重。內大溪災戶三十九戶合興里災戶二十三戶，全部遷居外大溪。",
+    "categories": [
+      "交通與建設"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1974-174fb9990",
+    "date": "1974",
+    "dynasty": "中華民國",
+    "era": "民國63年",
+    "ganzhi": "",
+    "year": 1974,
+    "title": "興建福成里活動中心",
+    "event": "興建福成里活動中心。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1973-29a0dd961",
+    "date": "1973-12-17",
+    "dynasty": "中華民國",
+    "era": "民國62年",
+    "ganzhi": "",
+    "year": 1973,
+    "title": "召集水稻栽培區農友",
+    "event": "十二月十七日，召集水稻栽培區農友，舉行籌備會議，商討今後實施水稻技術，綜合栽培工作方法及應行注意事項。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1973-3b4a9d8cf",
+    "date": "1973-11-01",
+    "dynasty": "中華民國",
+    "era": "民國62年",
+    "ganzhi": "",
+    "year": 1973,
+    "title": "第十屆里長就職",
+    "event": "十一月一日，第十屆里長就職。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1973-1b8360213",
+    "date": "1973-11-01",
+    "dynasty": "中華民國",
+    "era": "民國62年",
+    "ganzhi": "",
+    "year": 1973,
+    "title": "薛朝成就任第十屆鎮民代表會主席",
+    "event": "十一月一日，薛朝成就任第十屆鎮民代表會主席。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1973-e46efb51a",
+    "date": "1973-03",
+    "dynasty": "中華民國",
+    "era": "民國62年",
+    "ganzhi": "",
+    "year": 1973,
+    "title": "初，成立小康計劃推行小組",
+    "event": "三月初，成立小康計劃推行小組。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1973-bba62b907",
+    "date": "1973-02",
+    "dynasty": "中華民國",
+    "era": "民國62年",
+    "ganzhi": "",
+    "year": 1973,
+    "title": "設立大里國民小學",
+    "event": "二月，設立大里國民小學。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1973-506634915",
+    "date": "1973",
+    "dynasty": "中華民國",
+    "era": "民國62年",
+    "ganzhi": "",
+    "year": 1973,
+    "title": "大里漁港第二期擴建工程獲教會補助物資約四十餘萬元",
+    "event": "大里漁港第二期擴建工程獲教會補助物資約四十餘萬元。",
+    "categories": [
+      "港口與海洋"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
     "id": "1973-060",
     "dynasty": "中華民國",
     "era": "民國六十二年",
@@ -2400,6 +6919,101 @@ window.TOUCHENG_HISTORY = [
     "date": "1973",
     "recordType": "local_history",
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
+  },
+  {
+    "id": "office-1972-4a9850a7e",
+    "date": "1972-03-01",
+    "dynasty": "中華民國",
+    "era": "民國61年",
+    "ganzhi": "",
+    "year": 1972,
+    "title": "第七屆鎮長邱金魚就職",
+    "event": "三月一日，第七屆鎮長邱金魚就職。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1972-5f435b7d0",
+    "date": "1972-01-28",
+    "dynasty": "中華民國",
+    "era": "民國61年",
+    "ganzhi": "",
+    "year": 1972,
+    "title": "大溪風景特定區奉臺灣省政府核定公告實施",
+    "event": "一月二十八日，大溪風景特定區奉臺灣省政府核定公告實施。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1972-c980a254f",
+    "date": "1972",
+    "dynasty": "中華民國",
+    "era": "民國61年",
+    "ganzhi": "",
+    "year": 1972,
+    "title": "通往竹安里的福德坑大橋已全部竣工",
+    "event": "通往竹安里的福德坑大橋已全部竣工。",
+    "categories": [
+      "交通與建設"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1971-7d9eab189",
+    "date": "1971-07-01",
+    "dynasty": "中華民國",
+    "era": "民國60年",
+    "ganzhi": "",
+    "year": 1971,
+    "title": "頭城鎮都市計畫奉省政府核定公告實施",
+    "event": "七月一日，頭城鎮都市計畫奉省政府核定公告實施。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1971-04a9e1cd4",
+    "date": "1971-01-10",
+    "dynasty": "中華民國",
+    "era": "民國60年",
+    "ganzhi": "",
+    "year": 1971,
+    "title": "行政院將釣魚臺列嶼核定為臺灣省宜蘭縣管轄區",
+    "event": "一月十日，行政院將釣魚臺列嶼核定為臺灣省宜蘭縣管轄區。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
   },
   {
     "id": "1971-wensheng-rehab-opens",
@@ -2441,6 +7055,120 @@ window.TOUCHENG_HISTORY = [
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
   },
   {
+    "id": "office-1970-fbe7cd432",
+    "date": "1970-06",
+    "dynasty": "中華民國",
+    "era": "民國59年",
+    "ganzhi": "",
+    "year": 1970,
+    "title": "頭城地區可收視電視播放",
+    "event": "六月，頭城地區可收視電視播放。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1970-89a8063ef",
+    "date": "1970-06",
+    "dynasty": "中華民國",
+    "era": "民國59年",
+    "ganzhi": "",
+    "year": 1970,
+    "title": "石城漁港修復完工",
+    "event": "六月，石城漁港修復完工。",
+    "categories": [
+      "港口與海洋"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1970-8e95c9904",
+    "date": "1970-05-20",
+    "dynasty": "中華民國",
+    "era": "民國59年",
+    "ganzhi": "",
+    "year": 1970,
+    "title": "大千戲院落成啟用",
+    "event": "五月二十日，大千戲院落成啟用。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1970-79d18c0fe",
+    "date": "1970-04-12",
+    "dynasty": "中華民國",
+    "era": "民國59年",
+    "ganzhi": "",
+    "year": 1970,
+    "title": "省主席將梗枋里改名為更新里",
+    "event": "四月十二日，省主席將梗枋里改名為更新里。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1970-56f96b322",
+    "date": "1970",
+    "dynasty": "中華民國",
+    "era": "民國59年",
+    "ganzhi": "",
+    "year": 1970,
+    "title": "龜山島開港工程完成",
+    "event": "龜山島開港工程完成。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1970-0b2e8bb69",
+    "date": "1970",
+    "dynasty": "中華民國",
+    "era": "民國59年",
+    "ganzhi": "",
+    "year": 1970,
+    "title": "興建二城社區活動中心",
+    "event": "興建二城社區活動中心。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
     "id": "1970-rehab-fundraising",
     "date": "1970",
     "dynasty": "中華民國",
@@ -2480,6 +7208,82 @@ window.TOUCHENG_HISTORY = [
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
   },
   {
+    "id": "office-1969-4a6852f3d",
+    "date": "1969-08",
+    "dynasty": "中華民國",
+    "era": "民國58年",
+    "ganzhi": "",
+    "year": 1969,
+    "title": "設梗枋國民小學",
+    "event": "八月，設梗枋國民小學。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1969-46e33b3b0",
+    "date": "1969-08",
+    "dynasty": "中華民國",
+    "era": "民國58年",
+    "ganzhi": "",
+    "year": 1969,
+    "title": "設竹安國民小學",
+    "event": "八月，設竹安國民小學。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1969-094ef4c22",
+    "date": "1969-07-15",
+    "dynasty": "中華民國",
+    "era": "民國58年",
+    "ganzhi": "",
+    "year": 1969,
+    "title": "龜山島漁港竣工啟用",
+    "event": "七月十五日，龜山島漁港竣工啟用。",
+    "categories": [
+      "港口與海洋"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1969-411c68ad6",
+    "date": "1969",
+    "dynasty": "中華民國",
+    "era": "民國58年",
+    "ganzhi": "",
+    "year": 1969,
+    "title": "興華電池廠至本鎮建廠",
+    "event": "興華電池廠至本鎮建廠。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
     "id": "1969-057",
     "dynasty": "中華民國",
     "era": "民國五十八年",
@@ -2500,6 +7304,44 @@ window.TOUCHENG_HISTORY = [
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
   },
   {
+    "id": "office-1968-b1be9e27b",
+    "date": "1968-03-01",
+    "dynasty": "中華民國",
+    "era": "民國57年",
+    "ganzhi": "",
+    "year": 1968,
+    "title": "第六屆鎮長邱金魚就職",
+    "event": "三月一日，第六屆鎮長邱金魚就職。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1968-70057c36b",
+    "date": "1968",
+    "dynasty": "中華民國",
+    "era": "民國57年",
+    "ganzhi": "",
+    "year": 1968,
+    "title": "九年國民義務教育開始",
+    "event": "九年國民義務教育開始，臺灣省政府設立頭城高中於新建里，原縣立頭城中學改為頭城國民中學。",
+    "categories": [
+      "教育與文化"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
     "id": "1968-056",
     "dynasty": "中華民國",
     "era": "民國五十七年",
@@ -2516,6 +7358,82 @@ window.TOUCHENG_HISTORY = [
     "date": "1968",
     "recordType": "local_history",
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
+  },
+  {
+    "id": "office-1967-dc5e36374",
+    "date": "1967-12",
+    "dynasty": "中華民國",
+    "era": "民國56年",
+    "ganzhi": "",
+    "year": 1967,
+    "title": "中旬，鎮公所新廈落成",
+    "event": "十二月中旬，鎮公所新廈落成。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1967-215279220",
+    "date": "1967-04",
+    "dynasty": "中華民國",
+    "era": "民國56年",
+    "ganzhi": "",
+    "year": 1967,
+    "title": "草嶺道路完工",
+    "event": "四月，草嶺道路完工。",
+    "categories": [
+      "交通與建設"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1967-e69e5bc6a",
+    "date": "1967",
+    "dynasty": "中華民國",
+    "era": "民國56年",
+    "ganzhi": "",
+    "year": 1967,
+    "title": "興建頂埔社區活動中心",
+    "event": "興建頂埔社區活動中心。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1967-65261ed3a",
+    "date": "1967",
+    "dynasty": "中華民國",
+    "era": "民國56年",
+    "ganzhi": "",
+    "year": 1967,
+    "title": "仲秋，宜蘭縣文獻委員會以「虎字碑懷古」為題",
+    "event": "仲秋，宜蘭縣文獻委員會以「虎字碑懷古」為題，向全國詩人徵詩。所得詩作，刊登於<宜蘭文獻>三卷一期。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
   },
   {
     "id": "1967-st-paul-credit-union",
@@ -2554,6 +7472,101 @@ window.TOUCHENG_HISTORY = [
     "date": "1967",
     "recordType": "local_history",
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
+  },
+  {
+    "id": "office-1966-060a7ccbe",
+    "date": "1966-10",
+    "dynasty": "中華民國",
+    "era": "民國55年",
+    "ganzhi": "",
+    "year": 1966,
+    "title": "龜山防波堤完工",
+    "event": "十月，龜山防波堤完工。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1966-1c7294c22",
+    "date": "1966-08",
+    "dynasty": "中華民國",
+    "era": "民國55年",
+    "ganzhi": "",
+    "year": 1966,
+    "title": "大溪國民學校大里分班改制為大里分校",
+    "event": "八月，大溪國民學校大里分班改制為大里分校。",
+    "categories": [
+      "教育與文化"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1966-0633dcf80",
+    "date": "1966-03-29",
+    "dynasty": "中華民國",
+    "era": "民國55年",
+    "ganzhi": "",
+    "year": 1966,
+    "title": "私立復興工業專科學校成立",
+    "event": "三月二十九日，私立復興工業專科學校成立。",
+    "categories": [
+      "教育與文化"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1966-2d08b52b5",
+    "date": "1966",
+    "dynasty": "中華民國",
+    "era": "民國55年",
+    "ganzhi": "",
+    "year": 1966,
+    "title": "公路局汽車宜蘭頭城線",
+    "event": "公路局汽車宜蘭頭城線，北駛至大里、馬崗。",
+    "categories": [
+      "交通與建設"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1966-1e34ff65f",
+    "date": "1966",
+    "dynasty": "中華民國",
+    "era": "民國55年",
+    "ganzhi": "",
+    "year": 1966,
+    "title": "鎮公所協助天主教會創立漁產合作社經營捕魚事業",
+    "event": "鎮公所協助天主教會創立漁產合作社經營捕魚事業。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
   },
   {
     "id": "1966-starfish-fishery-mutual-aid",
@@ -2596,6 +7609,101 @@ window.TOUCHENG_HISTORY = [
     "importance": "記錄頭城天主堂長期投入兒童照護與復健服務。"
   },
   {
+    "id": "office-1963-539e45576",
+    "date": "1963-08-23",
+    "dynasty": "中華民國",
+    "era": "民國52年",
+    "ganzhi": "",
+    "year": 1963,
+    "title": "石城漁港修建工程完工",
+    "event": "八月二十三日，石城漁港修建工程完工。",
+    "categories": [
+      "港口與海洋"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1963-f8620975c",
+    "date": "1963-07",
+    "dynasty": "中華民國",
+    "era": "民國52年",
+    "ganzhi": "",
+    "year": 1963,
+    "title": "設頭城國民學校竹安分班",
+    "event": "七月，設頭城國民學校竹安分班。",
+    "categories": [
+      "教育與文化"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1963-d3f9970a6",
+    "date": "1963",
+    "dynasty": "中華民國",
+    "era": "民國52年",
+    "ganzhi": "",
+    "year": 1963,
+    "title": "大溪電話代辦處竣工",
+    "event": "大溪電話代辦處竣工。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1963-a82a799b3",
+    "date": "1963",
+    "dynasty": "中華民國",
+    "era": "民國52年",
+    "ganzhi": "",
+    "year": 1963,
+    "title": "頭城國民學校外澳分班成立",
+    "event": "頭城國民學校外澳分班成立。（民國六十年改為分校）。",
+    "categories": [
+      "教育與文化"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1963-09957a3cd",
+    "date": "1963",
+    "dynasty": "中華民國",
+    "era": "民國52年",
+    "ganzhi": "",
+    "year": 1963,
+    "title": "頭城河防潮堤修建工程開工",
+    "event": "頭城河防潮堤修建工程開工。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
     "id": "1963-renai-kindergarten",
     "date": "1963",
     "dynasty": "中華民國",
@@ -2613,6 +7721,44 @@ window.TOUCHENG_HISTORY = [
     "reviewStatus": "依使用者整理之《覓境》內容建檔；後續可補上書頁與出版資訊。",
     "recordType": "local_history",
     "importance": "呈現宗教團體對地方幼兒教育的投入。"
+  },
+  {
+    "id": "office-1962-ed7957a3a",
+    "date": "1962-03-30",
+    "dynasty": "中華民國",
+    "era": "民國51年",
+    "ganzhi": "",
+    "year": 1962,
+    "title": "龜山島電氣工程完工",
+    "event": "三月三十日，龜山島電氣工程完工。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1962-6fc38874d",
+    "date": "1962",
+    "dynasty": "中華民國",
+    "era": "民國51年",
+    "ganzhi": "",
+    "year": 1962,
+    "title": "出售梗枋山造林木二十萬元",
+    "event": "出售梗枋山造林木二十萬元，配合興建鎮公所現址。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
   },
   {
     "id": "1962-054",
@@ -2672,6 +7818,25 @@ window.TOUCHENG_HISTORY = [
     "importance": "聖堂的圓頂與建築形式成為頭城具辨識度的文化地景。"
   },
   {
+    "id": "office-1960-43f6b8e98",
+    "date": "1960-01-01",
+    "dynasty": "中華民國",
+    "era": "民國49年",
+    "ganzhi": "",
+    "year": 1960,
+    "title": "第四屆鎮長沈阿賢就職",
+    "event": "一月一日，第四屆鎮長沈阿賢就職。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
     "id": "1960-01-st-peter-construction",
     "date": "1960-01",
     "dynasty": "中華民國",
@@ -2711,6 +7876,25 @@ window.TOUCHENG_HISTORY = [
     "importance": ""
   },
   {
+    "id": "office-1959-acdf035a0",
+    "date": "1959-10-25",
+    "dynasty": "中華民國",
+    "era": "民國48年",
+    "ganzhi": "",
+    "year": 1959,
+    "title": "頭城公有零售市場改建竣工",
+    "event": "十月二十五日，頭城公有零售市場改建竣工。",
+    "categories": [
+      "產業與商業"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
     "id": "1959-052",
     "dynasty": "中華民國",
     "era": "民國四十八年",
@@ -2727,6 +7911,44 @@ window.TOUCHENG_HISTORY = [
     "date": "1959",
     "recordType": "local_history",
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
+  },
+  {
+    "id": "office-1958-f03520c3b",
+    "date": "1958",
+    "dynasty": "中華民國",
+    "era": "民國47年",
+    "ganzhi": "",
+    "year": 1958,
+    "title": "大溪漁市成立",
+    "event": "大溪漁市成立。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1958-d42401b2a",
+    "date": "1958",
+    "dynasty": "中華民國",
+    "era": "民國47年",
+    "ganzhi": "",
+    "year": 1958,
+    "title": "頭城海水浴場開放",
+    "event": "頭城海水浴場開放。",
+    "categories": [
+      "港口與海洋"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
   },
   {
     "id": "1958-catholic-church-moves-qingyun",
@@ -2767,6 +7989,82 @@ window.TOUCHENG_HISTORY = [
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
   },
   {
+    "id": "office-1957-212bb96ae",
+    "date": "1957-08",
+    "dynasty": "中華民國",
+    "era": "民國46年",
+    "ganzhi": "",
+    "year": 1957,
+    "title": "頭城區漁會漁民診療所創立",
+    "event": "八月，頭城區漁會漁民診療所創立。",
+    "categories": [
+      "產業與商業"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1956-a4842401a",
+    "date": "1956",
+    "dynasty": "中華民國",
+    "era": "民國45年",
+    "ganzhi": "",
+    "year": 1956,
+    "title": "「農漁之家」落成是本鎮第一家戲院",
+    "event": "「農漁之家」落成是本鎮第一家戲院。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1955-9980f7639",
+    "date": "1955-08-05",
+    "dynasty": "中華民國",
+    "era": "民國44年",
+    "ganzhi": "",
+    "year": 1955,
+    "title": "石城漁船澳新建工程完工",
+    "event": "八月五日，石城漁船澳新建工程完工。",
+    "categories": [
+      "港口與海洋"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1955-4f766ac0b",
+    "date": "1955",
+    "dynasty": "中華民國",
+    "era": "民國44年",
+    "ganzhi": "",
+    "year": 1955,
+    "title": "電力公司興建大型變電所於新建里",
+    "event": "電力公司興建大型變電所於新建里。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
     "id": "1955-050",
     "dynasty": "中華民國",
     "era": "民國四十四年",
@@ -2783,6 +8081,25 @@ window.TOUCHENG_HISTORY = [
     "date": "1955",
     "recordType": "local_history",
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
+  },
+  {
+    "id": "office-1954-837a98b64",
+    "date": "1954",
+    "dynasty": "中華民國",
+    "era": "民國43年",
+    "ganzhi": "",
+    "year": 1954,
+    "title": "設立龜山國民學校",
+    "event": "設立龜山國民學校。",
+    "categories": [
+      "教育與文化"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
   },
   {
     "id": "1954-gao-dejin-arrives",
@@ -2822,6 +8139,82 @@ window.TOUCHENG_HISTORY = [
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
   },
   {
+    "id": "office-1953-866d48654",
+    "date": "1953-10",
+    "dynasty": "中華民國",
+    "era": "民國42年",
+    "ganzhi": "",
+    "year": 1953,
+    "title": "籌建「農漁之家」",
+    "event": "十月，籌建「農漁之家」。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1953-6cc801c95",
+    "date": "1953-08-01",
+    "dynasty": "中華民國",
+    "era": "民國42年",
+    "ganzhi": "",
+    "year": 1953,
+    "title": "第二屆鎮長黃竹旺就職",
+    "event": "八月一日，第二屆鎮長黃竹旺就職。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1953-aa8cd0fa2",
+    "date": "1953-05-01",
+    "dynasty": "中華民國",
+    "era": "民國42年",
+    "ganzhi": "",
+    "year": 1953,
+    "title": "宜蘭線鐵路增設石城站",
+    "event": "五月一日，宜蘭線鐵路增設石城站。",
+    "categories": [
+      "交通與建設"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1953-61b789c7b",
+    "date": "1953",
+    "dynasty": "中華民國",
+    "era": "民國42年",
+    "ganzhi": "",
+    "year": 1953,
+    "title": "頭城鎮衛生所新廈落成",
+    "event": "頭城鎮衛生所新廈落成。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
     "id": "1953-048",
     "dynasty": "中華民國",
     "era": "民國四十二年",
@@ -2838,6 +8231,25 @@ window.TOUCHENG_HISTORY = [
     "date": "1953",
     "recordType": "local_history",
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
+  },
+  {
+    "id": "office-1952-edd690fd0",
+    "date": "1952-08",
+    "dynasty": "中華民國",
+    "era": "民國41年",
+    "ganzhi": "",
+    "year": 1952,
+    "title": "設大溪國民學校梗枋分班",
+    "event": "八月，設大溪國民學校梗枋分班。",
+    "categories": [
+      "教育與文化"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
   },
   {
     "id": "1952-047",
@@ -2858,6 +8270,63 @@ window.TOUCHENG_HISTORY = [
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
   },
   {
+    "id": "office-1951-36b62f0f8",
+    "date": "1951-08-01",
+    "dynasty": "中華民國",
+    "era": "民國40年",
+    "ganzhi": "",
+    "year": 1951,
+    "title": "民選第一屆鎮長黃竹旺就職",
+    "event": "八月一日，民選第一屆鎮長黃竹旺就職。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1951-faf7d16fd",
+    "date": "1951",
+    "dynasty": "中華民國",
+    "era": "民國40年",
+    "ganzhi": "",
+    "year": 1951,
+    "title": "頭城區漁會成立",
+    "event": "頭城區漁會成立。",
+    "categories": [
+      "產業與商業"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1951-2804e326a",
+    "date": "1951",
+    "dynasty": "中華民國",
+    "era": "民國40年",
+    "ganzhi": "",
+    "year": 1951,
+    "title": "民選第一屆縣長盧纘祥就職",
+    "event": "民選第一屆縣長盧纘祥就職。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
     "id": "1951-046",
     "dynasty": "中華民國",
     "era": "民國四十年",
@@ -2874,6 +8343,82 @@ window.TOUCHENG_HISTORY = [
     "date": "1951",
     "recordType": "local_history",
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
+  },
+  {
+    "id": "office-1950-ed7752655",
+    "date": "1950-10-10",
+    "dynasty": "中華民國",
+    "era": "民國39年",
+    "ganzhi": "",
+    "year": 1950,
+    "title": "宜蘭縣正式成立",
+    "event": "十月十日，宜蘭縣正式成立，方家慧擔任縣長。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1950-085b030c6",
+    "date": "1950-09-03",
+    "dynasty": "中華民國",
+    "era": "民國39年",
+    "ganzhi": "",
+    "year": 1950,
+    "title": "頭城中學立高中部",
+    "event": "九月三日，頭城中學立高中部，舉行慶祝典禮。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1950-bd5a47b10",
+    "date": "1950-05-31",
+    "dynasty": "中華民國",
+    "era": "民國39年",
+    "ganzhi": "",
+    "year": 1950,
+    "title": "龜山海面交通船沈沒",
+    "event": "五月三十一日，龜山海面交通船沈沒，溺死十八人。",
+    "categories": [
+      "交通與建設"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1950-6e5f7d491",
+    "date": "1950",
+    "dynasty": "中華民國",
+    "era": "民國39年",
+    "ganzhi": "",
+    "year": 1950,
+    "title": "重陽節，宜蘭鄉紳盧纘祥邀「登瀛吟社詩友康灩泉、莊鱉、林才添等共二十七人",
+    "event": "重陽節，宜蘭鄉紳盧纘祥邀「登瀛吟社詩友康灩泉、莊鱉、林才添等共二十七人，攀登草嶺賦詩，共同約定奪魁者日後立碑以記其事。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
   },
   {
     "id": "1950-045",
@@ -2895,6 +8440,63 @@ window.TOUCHENG_HISTORY = [
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
   },
   {
+    "id": "office-1949-74bfb61cb",
+    "date": "1949-08",
+    "dynasty": "中華民國",
+    "era": "民國38年",
+    "ganzhi": "",
+    "year": 1949,
+    "title": "設頭城國民學校龜山分教場",
+    "event": "八月，設頭城國民學校龜山分教場。",
+    "categories": [
+      "教育與文化"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1949-f7498f0f8",
+    "date": "1949",
+    "dynasty": "中華民國",
+    "era": "民國38年",
+    "ganzhi": "",
+    "year": 1949,
+    "title": "臺灣郵電業務劃分",
+    "event": "臺灣郵電業務劃分，本鎮改組頭城郵局及頭城電信局。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1949-0545ea526",
+    "date": "1949",
+    "dynasty": "中華民國",
+    "era": "民國38年",
+    "ganzhi": "",
+    "year": 1949,
+    "title": "實行「三七五」減租",
+    "event": "實行「三七五」減租。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
     "id": "1949-044",
     "dynasty": "中華民國",
     "era": "民國三十八年",
@@ -2914,6 +8516,25 @@ window.TOUCHENG_HISTORY = [
     "date": "1949",
     "recordType": "local_history",
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
+  },
+  {
+    "id": "office-1948-699199cfa",
+    "date": "1948-01-01",
+    "dynasty": "中華民國",
+    "era": "民國37年",
+    "ganzhi": "",
+    "year": 1948,
+    "title": "升格為頭城鎮",
+    "event": "一月一日升格為頭城鎮。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
   },
   {
     "id": "1948-043",
@@ -2953,6 +8574,139 @@ window.TOUCHENG_HISTORY = [
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
   },
   {
+    "id": "office-1946-a7fd6d94a",
+    "date": "1946-12-07",
+    "dynasty": "中華民國",
+    "era": "民國35年",
+    "ganzhi": "",
+    "year": 1946,
+    "title": "鄉民代表會選舉林才添為第二任鄉長、黃竹旺為副鄉長",
+    "event": "十二月七日，鄉民代表會選舉林才添為第二任鄉長、黃竹旺為副鄉長。",
+    "categories": [
+      "公共事務"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1946-e524abec2",
+    "date": "1946-09-09",
+    "dynasty": "中華民國",
+    "era": "民國35年",
+    "ganzhi": "",
+    "year": 1946,
+    "title": "呈准改設頭城鄉",
+    "event": "九月九日，呈准改設頭城鄉，頭城生產合作社成立。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1946-67cebca3e",
+    "date": "1946-08",
+    "dynasty": "中華民國",
+    "era": "民國35年",
+    "ganzhi": "",
+    "year": 1946,
+    "title": "設立頭城初級中學（今縣立頭城國民中學）",
+    "event": "八月，設立頭城初級中學（今縣立頭城國民中學）。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1946-0c5393d7c",
+    "date": "1946-02-08",
+    "dynasty": "中華民國",
+    "era": "民國35年",
+    "ganzhi": "",
+    "year": 1946,
+    "title": "第一屆民選里長就職",
+    "event": "二月八日，第一屆民選里長就職。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1946-b0a862b84",
+    "date": "1946-01-16",
+    "dynasty": "中華民國",
+    "era": "民國35年",
+    "ganzhi": "",
+    "year": 1946,
+    "title": "成立臺北縣政府",
+    "event": "一月十六日，成立臺北縣政府，宜蘭、羅東、蘇澳三郡歸臺北縣管轄。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1946-790e937a3",
+    "date": "1946",
+    "dynasty": "中華民國",
+    "era": "民國35年",
+    "ganzhi": "",
+    "year": 1946,
+    "title": "頭城調解委員會成立",
+    "event": "頭城調解委員會成立。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1946-25eeedc56",
+    "date": "1946",
+    "dynasty": "中華民國",
+    "era": "民國35年",
+    "ganzhi": "",
+    "year": 1946,
+    "title": "農歷七月三十日夜十一時左右",
+    "event": "農歷七月三十日夜十一時左右，搶孤活動發生意外，死亡者武營里陸朝木，受傷者澳里王金。",
+    "categories": [
+      "信仰與祭典"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
     "id": "1946-041",
     "dynasty": "中華民國",
     "era": "民國三十五年",
@@ -2972,6 +8726,63 @@ window.TOUCHENG_HISTORY = [
     "date": "1946",
     "recordType": "local_history",
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
+  },
+  {
+    "id": "office-1945-46b5c4fb8",
+    "date": "1945-10-25",
+    "dynasty": "中華民國",
+    "era": "民國34年",
+    "ganzhi": "",
+    "year": 1945,
+    "title": "臺灣光復，本鎮易名頭圍鄉",
+    "event": "十月二十五日，臺灣光復，本鎮易名頭圍鄉，第一任鄉長為盧纘祥。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1945-6208a8cad",
+    "date": "1945-06-19",
+    "dynasty": "中華民國",
+    "era": "民國34年",
+    "ganzhi": "",
+    "year": 1945,
+    "title": "盟軍戰機大約八十架以基隆為主",
+    "event": "六月十九日，盟軍戰機大約八十架以基隆為主，大肆轟炸，又另一批轟炸宜蘭，在頭城海面空戰。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
+  },
+  {
+    "id": "office-1945-9e97e289d",
+    "date": "1945",
+    "dynasty": "中華民國",
+    "era": "民國34年",
+    "ganzhi": "",
+    "year": 1945,
+    "title": "頭圍義勇消防分隊成立",
+    "event": "頭圍義勇消防分隊成立。",
+    "categories": [
+      "生活與民俗"
+    ],
+    "source": "頭城鎮公所大事記",
+    "sourceUrl": "https://toucheng.e-land.gov.tw/cp.aspx?n=6835",
+    "sourceType": "頭城鎮公所官網大事記",
+    "reviewStatus": "依頭城鎮公所大事記整理；文字經本站依上下文校訂。",
+    "recordType": "official",
+    "importance": "保存鎮政建設、災害、教育、產業與地方生活變遷的官方時間線索。"
   },
   {
     "id": "1945-040",
@@ -3090,24 +8901,6 @@ window.TOUCHENG_HISTORY = [
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
   },
   {
-    "id": "1935-035",
-    "dynasty": "日統",
-    "era": "民國廿四年",
-    "ganzhi": "乙亥",
-    "year": 1935,
-    "title": "台灣舉辦博覽會施政四十週年紀念",
-    "event": "台灣舉辦博覽會施政四十週年紀念。",
-    "categories": [
-      "教育與文化"
-    ],
-    "source": "莊錫財（2010）手稿辨識稿",
-    "sourceType": "地方文史手稿／待交叉查證",
-    "reviewStatus": "保留作地方文史參考；仍需與官方、學術及原住民族資料交叉查證",
-    "date": "1935",
-    "recordType": "local_history",
-    "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
-  },
-  {
     "id": "1935-jiangjun-temple-size",
     "date": "1935",
     "dynasty": "中華民國",
@@ -3126,6 +8919,24 @@ window.TOUCHENG_HISTORY = [
     "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
     "recordType": "local-publication",
     "importance": ""
+  },
+  {
+    "id": "1935-035",
+    "dynasty": "日統",
+    "era": "民國廿四年",
+    "ganzhi": "乙亥",
+    "year": 1935,
+    "title": "台灣舉辦博覽會施政四十週年紀念",
+    "event": "台灣舉辦博覽會施政四十週年紀念。",
+    "categories": [
+      "教育與文化"
+    ],
+    "source": "莊錫財（2010）手稿辨識稿",
+    "sourceType": "地方文史手稿／待交叉查證",
+    "reviewStatus": "保留作地方文史參考；仍需與官方、學術及原住民族資料交叉查證",
+    "date": "1935",
+    "recordType": "local_history",
+    "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
   },
   {
     "id": "1932-034",
@@ -3185,26 +8996,6 @@ window.TOUCHENG_HISTORY = [
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
   },
   {
-    "id": "1924-031",
-    "dynasty": "日統",
-    "era": "大正十三年",
-    "ganzhi": "甲子",
-    "year": 1924,
-    "title": "礁溪至礁溪鐵道先行通車",
-    "event": "礁溪至礁溪鐵道先行通車。夏天因豪雨成災，山洪爆發頭圍港全部淤塞，烏石港及頭圍港一帶變為溼地做為稻田，烏石港自設港以來繁盛約歷九十八載。",
-    "categories": [
-      "港口與海洋",
-      "交通與建設",
-      "開墾敘事"
-    ],
-    "source": "莊錫財（2010）手稿辨識稿",
-    "sourceType": "地方文史手稿／待交叉查證",
-    "reviewStatus": "保留作地方文史參考；仍需與官方、學術及原住民族資料交叉查證",
-    "date": "1924",
-    "recordType": "local_history",
-    "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
-  },
-  {
     "id": "1924-wushih-buried-railway",
     "date": "1924",
     "dynasty": "中華民國",
@@ -3223,6 +9014,26 @@ window.TOUCHENG_HISTORY = [
     "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
     "recordType": "local-publication",
     "importance": ""
+  },
+  {
+    "id": "1924-031",
+    "dynasty": "日統",
+    "era": "大正十三年",
+    "ganzhi": "甲子",
+    "year": 1924,
+    "title": "礁溪至礁溪鐵道先行通車",
+    "event": "礁溪至礁溪鐵道先行通車。夏天因豪雨成災，山洪爆發頭圍港全部淤塞，烏石港及頭圍港一帶變為溼地做為稻田，烏石港自設港以來繁盛約歷九十八載。",
+    "categories": [
+      "港口與海洋",
+      "交通與建設",
+      "開墾敘事"
+    ],
+    "source": "莊錫財（2010）手稿辨識稿",
+    "sourceType": "地方文史手稿／待交叉查證",
+    "reviewStatus": "保留作地方文史參考；仍需與官方、學術及原住民族資料交叉查證",
+    "date": "1924",
+    "recordType": "local_history",
+    "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
   },
   {
     "id": "1920-030",
@@ -3415,25 +9226,6 @@ window.TOUCHENG_HISTORY = [
     "importance": ""
   },
   {
-    "id": "1895-023",
-    "dynasty": "日統",
-    "era": "光緒廿一年 / 明治廿八年",
-    "ganzhi": "乙未",
-    "year": 1895,
-    "title": "一、中日訂立馬關條約",
-    "event": "一、中日訂立馬關條約，割台灣、澎湖給日本統治。二、依據「喚醒堂本畫渡世慈帆」心修部內彎詩是年七月二十九日柳天君神各「酉時詠放水燈」我堂過街熱鬧開，嘻嘻哈哈奏鼓吹。吹笙聽曲歌聲放。推測有放水燈都有槍孤。故是年開始在開成寺廟庭舉辦中元祭典普渡及辦搶孤。至今已達一一五年之久。",
-    "categories": [
-      "信仰與祭典",
-      "戰爭與政權"
-    ],
-    "source": "莊錫財（2010）手稿辨識稿",
-    "sourceType": "地方文史手稿／待交叉查證",
-    "reviewStatus": "保留作地方文史參考；仍需與官方、學術及原住民族資料交叉查證",
-    "date": "1895",
-    "recordType": "local_history",
-    "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
-  },
-  {
     "id": "1895-regime-change",
     "dynasty": "日治",
     "era": "",
@@ -3452,6 +9244,25 @@ window.TOUCHENG_HISTORY = [
     "reviewStatus": "依使用者整理之電子報內容建檔；建議後續補上對應期數與文章連結",
     "recordType": "official",
     "importance": "標誌頭城近代行政與社會制度轉換。"
+  },
+  {
+    "id": "1895-023",
+    "dynasty": "日統",
+    "era": "光緒廿一年 / 明治廿八年",
+    "ganzhi": "乙未",
+    "year": 1895,
+    "title": "一、中日訂立馬關條約",
+    "event": "一、中日訂立馬關條約，割台灣、澎湖給日本統治。二、依據「喚醒堂本畫渡世慈帆」心修部內彎詩是年七月二十九日柳天君神各「酉時詠放水燈」我堂過街熱鬧開，嘻嘻哈哈奏鼓吹。吹笙聽曲歌聲放。推測有放水燈都有槍孤。故是年開始在開成寺廟庭舉辦中元祭典普渡及辦搶孤。至今已達一一五年之久。",
+    "categories": [
+      "信仰與祭典",
+      "戰爭與政權"
+    ],
+    "source": "莊錫財（2010）手稿辨識稿",
+    "sourceType": "地方文史手稿／待交叉查證",
+    "reviewStatus": "保留作地方文史參考；仍需與官方、學術及原住民族資料交叉查證",
+    "date": "1895",
+    "recordType": "local_history",
+    "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
   },
   {
     "id": "1892-wushih-flood-shift",
@@ -3549,25 +9360,6 @@ window.TOUCHENG_HISTORY = [
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
   },
   {
-    "id": "1883-018",
-    "dynasty": "清",
-    "era": "光緒九年",
-    "ganzhi": "癸亥",
-    "year": 1883,
-    "title": "三月三日烏石港被美國大型角板船觸礁(而航道被堵塞)大型…",
-    "event": "三月三日烏石港被美國大型角板船觸礁(而航道被堵塞)大型船隻不能出入。基督長老教會由加拿大馬偕神父在打馬烟傳教一八七七年民國前六十年徐春生教師將教會遷到城北里。",
-    "categories": [
-      "港口與海洋",
-      "信仰與祭典"
-    ],
-    "source": "莊錫財（2010）手稿辨識稿",
-    "sourceType": "地方文史手稿／待交叉查證",
-    "reviewStatus": "保留作地方文史參考；仍需與官方、學術及原住民族資料交叉查證",
-    "date": "1883",
-    "recordType": "local_history",
-    "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
-  },
-  {
     "id": "1883-wushih-grounding",
     "dynasty": "清",
     "era": "光緒九年",
@@ -3586,6 +9378,25 @@ window.TOUCHENG_HISTORY = [
     "reviewStatus": "依使用者整理之電子報內容建檔；建議後續補上對應期數與文章連結",
     "recordType": "official",
     "importance": "港道受阻加速烏石港功能轉變。"
+  },
+  {
+    "id": "1883-018",
+    "dynasty": "清",
+    "era": "光緒九年",
+    "ganzhi": "癸亥",
+    "year": 1883,
+    "title": "三月三日烏石港被美國大型角板船觸礁(而航道被堵塞)大型…",
+    "event": "三月三日烏石港被美國大型角板船觸礁(而航道被堵塞)大型船隻不能出入。基督長老教會由加拿大馬偕神父在打馬烟傳教一八七七年民國前六十年徐春生教師將教會遷到城北里。",
+    "categories": [
+      "港口與海洋",
+      "信仰與祭典"
+    ],
+    "source": "莊錫財（2010）手稿辨識稿",
+    "sourceType": "地方文史手稿／待交叉查證",
+    "reviewStatus": "保留作地方文史參考；仍需與官方、學術及原住民族資料交叉查證",
+    "date": "1883",
+    "recordType": "local_history",
+    "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
   },
   {
     "id": "1878-wushih-map",
@@ -3627,24 +9438,6 @@ window.TOUCHENG_HISTORY = [
     "importance": ""
   },
   {
-    "id": "1875-017",
-    "dynasty": "清",
-    "era": "光緒元年",
-    "ganzhi": "乙亥",
-    "year": 1875,
-    "title": "清朝政府設台北府、宜蘭縣、淡水縣、新竹縣、基隆廳(噶瑪…",
-    "event": "清朝政府設台北府、宜蘭縣、淡水縣、新竹縣、基隆廳(噶瑪蘭改為宜蘭縣)。",
-    "categories": [
-      "政治與行政"
-    ],
-    "source": "莊錫財（2010）手稿辨識稿",
-    "sourceType": "地方文史手稿／待交叉查證",
-    "reviewStatus": "保留作地方文史參考；仍需與官方、學術及原住民族資料交叉查證",
-    "date": "1875",
-    "recordType": "local_history",
-    "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
-  },
-  {
     "id": "1875-cat-spirit-legend",
     "date": "1875",
     "dynasty": "清",
@@ -3663,6 +9456,24 @@ window.TOUCHENG_HISTORY = [
     "reviewStatus": "此為地方傳說，應與可考建廟史分開閱讀。",
     "recordType": "folklore",
     "importance": ""
+  },
+  {
+    "id": "1875-017",
+    "dynasty": "清",
+    "era": "光緒元年",
+    "ganzhi": "乙亥",
+    "year": 1875,
+    "title": "清朝政府設台北府、宜蘭縣、淡水縣、新竹縣、基隆廳(噶瑪…",
+    "event": "清朝政府設台北府、宜蘭縣、淡水縣、新竹縣、基隆廳(噶瑪蘭改為宜蘭縣)。",
+    "categories": [
+      "政治與行政"
+    ],
+    "source": "莊錫財（2010）手稿辨識稿",
+    "sourceType": "地方文史手稿／待交叉查證",
+    "reviewStatus": "保留作地方文史參考；仍需與官方、學術及原住民族資料交叉查證",
+    "date": "1875",
+    "recordType": "local_history",
+    "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
   },
   {
     "id": "1874-016",
@@ -3836,25 +9647,24 @@ window.TOUCHENG_HISTORY = [
     "importance": "原始手稿年表紀錄；其意義與觀點仍需結合其他史料閱讀。"
   },
   {
-    "id": "undated-dakenggu",
+    "id": "1796-qingyuan-temple-founded",
+    "date": "1796",
     "dynasty": "清",
-    "era": "約清代起",
+    "era": "",
     "ganzhi": "",
-    "year": 1800,
-    "date": "清代至今",
-    "title": "大坑罟的河海文化與信仰",
-    "event": "大坑罟位於烏石港旁，其開發歷史與漢人進入蘭陽平原的歷程相連。鄰近河道與海洋形成河海文化，協天宮、威靈廟、中興宮等信仰在居民外移後，仍是地方子民的重要精神寄託。",
+    "year": 1796,
+    "title": "慶元宮創建",
+    "event": "慶元宮創建於1796年，是頭城老街重要的媽祖信仰中心。關於「慶元」名稱由來，地方文獻有不同說法，《覓境》記載其與當時蘭陽平原開發歷史相關。",
     "categories": [
-      "地方聚落",
       "信仰與祭典",
-      "港口與海洋"
+      "頭城老街",
+      "文化資產"
     ],
-    "source": "蘭陽博物館電子報",
-    "sourceUrl": "https://www.lym.gov.tw/ch/collection/epaper/epaper-history/",
-    "sourceType": "官方公共文化機構出版資料",
-    "reviewStatus": "依使用者整理之電子報內容建檔；建議後續補上對應期數與文章連結",
-    "recordType": "official",
-    "importance": "補充烏石港周邊聚落的生活、信仰與人口流動脈絡。"
+    "source": "燦景工作室《覓境》",
+    "sourceType": "地方文化出版與生活史整理",
+    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
+    "recordType": "local-publication",
+    "importance": ""
   },
   {
     "id": "1796-lym-wushih",
@@ -3876,26 +9686,6 @@ window.TOUCHENG_HISTORY = [
     "reviewStatus": "依使用者整理之電子報內容建檔；建議後續補上對應期數與文章連結",
     "recordType": "official",
     "importance": "烏石港連結海運、物資與人口移動，是理解頭城早期發展的重要節點。"
-  },
-  {
-    "id": "1796-qingyuan-temple-founded",
-    "date": "1796",
-    "dynasty": "清",
-    "era": "",
-    "ganzhi": "",
-    "year": 1796,
-    "title": "慶元宮創建",
-    "event": "慶元宮創建於1796年，是頭城老街重要的媽祖信仰中心。關於「慶元」名稱由來，地方文獻有不同說法，《覓境》記載其與當時蘭陽平原開發歷史相關。",
-    "categories": [
-      "信仰與祭典",
-      "頭城老街",
-      "文化資產"
-    ],
-    "source": "燦景工作室《覓境》",
-    "sourceType": "地方文化出版與生活史整理",
-    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
-    "recordType": "local-publication",
-    "importance": ""
   },
   {
     "id": "1768-002",

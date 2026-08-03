@@ -3,6 +3,12 @@ const themeButton = document.querySelector('[data-theme-toggle]');
 const menuButton = document.querySelector('[data-menu-toggle]');
 const navLinks = document.querySelector('.nav-links');
 const header = document.querySelector('.site-header');
+const historyData = Array.isArray(window.TOUCHENG_HISTORY) ? window.TOUCHENG_HISTORY : [];
+const siteMeta = window.SITE_META || {};
+
+document.querySelectorAll('[data-site-version]').forEach(el=>el.textContent=siteMeta.version || '1.5');
+document.querySelectorAll('[data-site-updated]').forEach(el=>el.textContent=siteMeta.updatedAt || '2026-08-03');
+document.querySelectorAll('[data-history-count]').forEach(el=>el.textContent=historyData.length || '—');
 
 const storedTheme = localStorage.getItem('toucheng-theme');
 if (storedTheme) root.dataset.theme = storedTheme;

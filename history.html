@@ -6,12 +6,13 @@
 <title>時間軸與生活誌｜頭城地方記憶典藏</title>
 <meta name="description" content="搜尋頭城地方史手稿、網站補充事件與生活史紀錄。">
 <link rel="icon" href="favicon.svg">
-<link rel="stylesheet" href="assets/css/style.css?v=1.4">
-<script defer src="assets/data/history-data.js?v=1.4">
+<link rel="stylesheet" href="assets/css/style.css?v=1.5">
+<script defer src="assets/data/history-data.js?v=1.5">
 </script>
-<script defer src="assets/js/app.js?v=1.4">
+<script defer src="assets/data/site-meta.js?v=1.5"></script>
+<script defer src="assets/js/app.js?v=1.5">
 </script>
-<script defer src="assets/js/history.js?v=1.4">
+<script defer src="assets/js/history.js?v=1.5">
 </script>
 </head>
 <body>
@@ -45,14 +46,14 @@
 <div class="container">
 <p class="eyebrow">History · Everyday Life · Local Memory</p>
 <h1>時間軸與生活誌</h1>
-<p>同時保存地方史手稿與頭城日常記憶。兩種資料分開標示、並列閱讀，不把生活小事排除在地方歷史之外。</p>
+<p>同時保存官方紀錄、地方出版、新聞、口述與頭城日常記憶。不同來源分開標示、並列閱讀，不把生活小事排除在地方歷史之外。</p>
 <div class="archive-stats">
 <span>
-<strong id="totalCount">198</strong> 筆紀錄</span>
+<strong id="totalCount">—</strong> 筆紀錄</span>
 <span>
 <strong>1768–2026</strong> 年代跨度</span>
 <span>
-<strong>2</strong> 種資料層級</span>
+<strong>5</strong> 種來源類型</span>
 </div>
 </div>
 </section>
@@ -64,7 +65,7 @@
 </div>
 <div>
 <h2>一座城，同時有大歷史與小日常</h2>
-<p>莊錫財手稿依原文保存；商店開幕、社群成立、公共空間與居民共同回憶，則標示為「網站補充整理」。兩者都可搜尋，但來源與證據層級不混用。</p>
+<p>官方大事記、地方出版、新聞、社群紀錄與口述材料並列保存；每筆資料清楚標示來源與整理狀態，不把不同證據層級混為一談。</p>
 </div>
 <a class="text-link" href="about.html">了解編輯原則 →</a>
 </aside>
@@ -86,8 +87,10 @@
 <label>資料類型<select id="sourceFilter">
 <option value="">全部來源</option>
 <option value="official">官方／公共機構</option>
-<option value="local_history">地方文史（待查證）</option>
-<option value="community">頭城二三事／生活紀錄</option>
+<option value="local_publication_history">地方出版與文史</option>
+<option value="news">新聞紀錄</option>
+<option value="local_community">地方生活與社群</option>
+<option value="oral_legend">民間傳說與口述</option>
 </select>
 </label>
 <label>排序<select id="sortOrder">
@@ -101,7 +104,7 @@
 </div>
 </div>
 <div class="results-bar">
-<p id="resultSummary" aria-live="polite">顯示全部 198 筆紀錄</p>
+<p id="resultSummary" aria-live="polite">載入中…</p>
 <div class="result-actions">
 <button class="view-toggle" id="viewToggle" type="button">切換精簡閱讀</button>
 <button class="btn btn-small btn-primary" id="journeyToggle" type="button">開始歷史漫遊</button>

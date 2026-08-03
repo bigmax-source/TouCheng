@@ -6,8 +6,10 @@
 <title>頭城地方記憶典藏｜Toucheng Heritage</title>
 <meta name="description" content="保存頭城地方史料、生活小事與共同記憶的持續編纂型數位典藏。">
 <link rel="icon" href="favicon.svg">
-<link rel="stylesheet" href="assets/css/style.css?v=1.4">
-<script defer src="assets/js/app.js?v=1.4">
+<link rel="stylesheet" href="assets/css/style.css?v=1.5">
+<script defer src="assets/data/history-data.js?v=1.5"></script>
+<script defer src="assets/data/site-meta.js?v=1.5"></script>
+<script defer src="assets/js/app.js?v=1.5">
 </script>
 </head>
 <body>
@@ -48,7 +50,7 @@
 <h1>因為有人記錄，<br>所以不會忘記。</h1>
 <p class="hero-lead">保存頭城三百年的地方史料，也保存一間店開幕、一個社群成立，以及居民記得的每一件小事。</p>
 <div class="hero-actions">
-<a class="btn btn-primary" href="history.html">開始探索 198 筆紀錄</a>
+<a class="btn btn-primary" href="history.html">開始探索 <span id="homeHistoryCount" data-history-count>—</span> 筆紀錄</a>
 <a class="btn btn-ghost" href="#explore">選擇閱讀方式</a>
 </div>
 </div>
@@ -63,10 +65,10 @@
 <a class="portal-card history reveal" href="history.html">
 <span>01</span>
 <strong>地方歷史</strong>
-<p>閱讀莊錫財手稿辨識稿，並看見來源、史觀與待補觀點。</p>
+<p>閱讀官方資料、地方出版、文學書寫與居民生活紀錄，並看見不同來源、觀點與待補證之處。</p>
 <em>1731–2026 →</em>
 </a>
-<a class="portal-card culture reveal" href="history.html?category=教育與文化">
+<a class="portal-card culture reveal" href="history.html?category=文化資產與地景">
 <span>02</span>
 <strong>文化資產</strong>
 <p>從廟宇、鐵道、港口、圖書館與文創園區理解地方變遷。</p>
@@ -78,7 +80,7 @@
 <p>從七個車站、八個漁港，到早餐店與消失的店家記憶。</p>
 <em>閱讀 16 則故事 →</em>
 </a>
-<a class="portal-card life reveal" href="history.html">
+<a class="portal-card life reveal" href="history.html?category=地方記憶與社群">
 <span>04</span>
 <strong>頭城生活誌</strong>
 <p>收錄商店開幕、社群成立與居民共同記得的日常。</p>
@@ -93,7 +95,7 @@
 <a class="portal-card place reveal" href="people.html">
 <span>06</span>
 <strong>人物與地方</strong>
-<p>從李榮春的文學世界出發，逐步串聯人物、地點、作品與地方記憶。</p>
+<p>從李榮春、卓媽媽、林瑞文、連明偉與彭仁鴻，逐步串聯人物、空間、作品與地方行動。</p>
 <em>人物與地方 →</em>
 </a>
 </div>
@@ -103,19 +105,19 @@
 <div class="container intro-grid">
 <div class="intro-copy reveal">
 <p class="eyebrow">Two layers, clearly separated</p>
-<h2 class="section-title">史料與記憶，<br>不混在一起。</h2>
-<p>第一層是莊錫財先生 2010 年地方史手稿辨識稿，忠實保存原文與特定漢人開墾史觀；第二層是由頭城二三事提供的網站補充紀錄，收錄交通、文化、商業、社群與日常生活。</p>
+<h2 class="section-title">史料、出版與地方記憶，<br>清楚標示來源。</h2>
+<p>史料與出版層收錄官方資料、博物館、地方文史出版與新聞；地方記憶層收錄店家、社群、照片、口述與居民提供資料。莊錫財手稿仍保留為其中一項地方文史來源。</p>
 </div>
 <div class="layer-stack reveal">
 <article>
-<span class="source-badge manuscript">地方史手稿</span>
-<h3>保存原文</h3>
-<p>不靜默改寫，不把單一敘事當成全部。</p>
+<span class="source-badge manuscript">史料與出版層</span>
+<h3>保存可追溯資料</h3>
+<p>官方資料、博物館、出版與新聞各自標示來源。</p>
 </article>
 <article>
-<span class="source-badge supplement">網站補充整理</span>
-<h3>保存生活</h3>
-<p>日期、摘要與在地記憶可持續補證與修訂。</p>
+<span class="source-badge supplement">地方記憶層</span>
+<h3>保存居民生活</h3>
+<p>店家、社群、照片與口述記憶可持續補證與修訂。</p>
 </article>
 </div>
 </div>

@@ -6,12 +6,13 @@
 <title>頭城生活指南｜頭城地方記憶典藏</title>
 <meta name="description" content="提供新住民與居民使用的頭城生活指南。">
 <link rel="icon" href="favicon.svg">
-<link rel="stylesheet" href="assets/css/style.css?v=1.4">
-<script defer src="assets/js/app.js?v=1.4">
+<link rel="stylesheet" href="assets/css/style.css?v=1.5">
+<script defer src="assets/data/site-meta.js?v=1.5"></script>
+<script defer src="assets/js/app.js?v=1.5">
 </script>
-<script defer src="assets/data/guide-data.js?v=1.4">
+<script defer src="assets/data/guide-data.js?v=1.5">
 </script>
-<script defer src="assets/js/guide.js?v=1.4">
+<script defer src="assets/js/guide.js?v=1.5">
 </script>
 </head>
 <body>
@@ -25,7 +26,7 @@
 </svg>
 <span>頭城地方記憶典藏</span>
 </a>
-<nav class="nav-links">
+<nav class="nav-links" aria-label="主要導覽">
 <a href="index.html">首頁</a>
 <a href="history.html">時間軸</a>
 <a href="stories.html">頭城小故事</a>
@@ -72,7 +73,7 @@
 </div>
 <label class="guide-search">
 <span>搜尋生活服務</span>
-<input id="guide-search" type="search" placeholder="例如：診所、計程車、早餐、修冷氣" autocomplete="off">
+<input id="guide-search" type="search" placeholder="例如：診所、計程車、水電、開鎖、修冷氣" autocomplete="off">
 </label>
 <div id="guide-items" class="guide-items-grid">
 </div>
@@ -118,7 +119,7 @@
 </div>
 <div class="footer-bottom">
 <span>© 2026 Toucheng Heritage</span>
-<span>v1.4</span>
+<span>v<span data-site-version>1.5</span></span>
 </div>
 </div>
 </footer>
