@@ -1,0 +1,25 @@
+{
+  "version": "1.61",
+  "removeRecords": [
+    {
+      "id": "2007-076",
+      "keepId": "2006-06-16-supp",
+      "reason": "依人工校訂，刪除2007年公所大事記所載雪山隧道通車紀錄；只保留2006年6月16日正式通車事件。"
+    },
+    {
+      "id": "undated-dakenggu",
+      "keepId": "people.html#dakenggu-culture",
+      "reason": "依人工編輯決定，將無明確單一事件日期的大坑罟河海文化與信仰紀錄移至人物與觀點頁的地方文化紀錄。"
+    },
+    {
+      "id": "undated-guishan-symbol",
+      "keepId": "people.html#guishan-symbol",
+      "reason": "依人工編輯決定，將龜山島地景精神象徵紀錄移至人物與觀點頁的地方文化紀錄。"
+    },
+    {
+      "id": "undated-dongyue-artifact",
+      "keepId": "people.html#dongyue-artifact",
+      "reason": "依人工編輯決定，將欠缺登錄日期的陰陽司大身尪古物紀錄移至人物與觀點頁的地方文化紀錄，待補日期後再評估是否回到時間軸。"
+    }
+  ]
+}

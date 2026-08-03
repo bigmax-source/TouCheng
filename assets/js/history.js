@@ -1,11 +1,11 @@
 (() => {
   const $ = (s) => document.querySelector(s);
   const search=$('#historySearch'), dynasty=$('#dynastyFilter'), category=$('#categoryFilter'), source=$('#sourceFilter');
-  const sort=$('#sortOrder'), results=$('#historyResults'), summary=$('#resultSummary'), yearIndex=$('#yearIndex');
+  const sort=$('#sortOrder'), results=$('#historyResults'), summary=$('#resultSummary'), yearIndex=$('#yearIndex'), decadeJump=$('#decadeJump');
   const empty=$('#emptyState'), quickTags=$('#quickTags'), viewToggle=$('#viewToggle'), journey=$('#journeyToggle');
   const totalCount=$('#totalCount'), loadMore=$('#loadMoreHistory'), loadStatus=$('#historyLoadStatus');
   const topicCategories=['港口與海洋','交通與建設','產業與商業','信仰與祭典','教育與文化','人物與文學','生活與民俗','文化資產與地景','公共事務','地方記憶與社群'];
-  let data=[], manifest=null, visibleLimit=50, allLoaded=false, journeyTimer=null;
+  let data=[], manifest=null, visibleOffset=0, visibleLimit=50, allLoaded=false, journeyTimer=null;
 
   const normalize=(s='')=>s.toString().toLowerCase().replace(/\s+/g,'');
   const escapeHTML=(s='')=>s.toString().replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -20,15 +20,31 @@
   function sourceList(x){return (x.sources||[]).map(s=>s.url?`<a href="${escapeHTML(s.url)}" target="_blank" rel="noopener noreferrer">${escapeHTML(s.name)} ↗</a>`:escapeHTML(s.name)).join('<br>')}
   function card(x,q){const tags=[x.primaryCategory,...(x.tags||[]).filter(t=>topicCategories.includes(t))].filter(Boolean);return `<article class="history-card ${escapeHTML(x.recordType)}" id="event-${escapeHTML(x.id)}" data-year="${escapeHTML(x.year)}"><div class="event-year"><span>${escapeHTML(x.startDate||x.year)}</span><small>${escapeHTML(x.dynasty)}</small></div><div class="event-body"><div class="event-heading"><div>${badge(x)}<p class="event-era">${escapeHTML(x.era)}${x.ganzhi?'・'+escapeHTML(x.ganzhi):''}</p><h2>${highlight(x.title,q)}</h2></div><button class="permalink" type="button" data-copy-link="event-${escapeHTML(x.id)}" aria-label="複製此事件連結">#</button></div><div class="event-tags">${[...new Set(tags)].map(c=>`<button class="event-tag" type="button" data-pick-category="${escapeHTML(c)}">${escapeHTML(c)}</button>`).join('')}</div>${metadata(x)}<p class="event-text">${highlight(x.event,q)}</p>${x.images?.length?`<div class="then-now-grid">${x.images.map(img=>`<figure><img src="${escapeHTML(img.src)}" alt="${escapeHTML(img.alt||'')}" loading="lazy"><figcaption>${escapeHTML(img.caption||'')}</figcaption></figure>`).join('')}</div>`:''}${x.importance?`<div class="why-note"><strong>為什麼記錄？</strong><span>${escapeHTML(x.importance)}</span></div>`:''}<details class="source-details"><summary>資料來源與校訂狀態</summary><dl><div><dt>來源</dt><dd>${sourceList(x)}</dd></div><div><dt>可信度</dt><dd>${escapeHTML(x.review?.confidence||'待查證')}</dd></div><div><dt>最後更新</dt><dd>${escapeHTML(x.review?.lastUpdated||'—')}</dd></div></dl><p>${escapeHTML(x.review?.status||x.reviewStatus||'待查證')}</p></details></div></article>`}
 
-  function bindCards(){document.querySelectorAll('[data-pick-category]').forEach(b=>b.onclick=()=>{category.value=b.dataset.pickCategory;visibleLimit=50;syncQuick();render();document.querySelector('.archive-toolbar').scrollIntoView({behavior:'smooth',block:'start'})});document.querySelectorAll('[data-copy-link]').forEach(b=>b.onclick=async()=>{const url=`${location.href.split('#')[0]}#${b.dataset.copyLink}`;try{await navigator.clipboard.writeText(url);b.textContent='✓';setTimeout(()=>b.textContent='#',1200)}catch{location.hash=b.dataset.copyLink}})}
-  function render(){const items=filtered(),shown=items.slice(0,visibleLimit),s=state();const qualified=(s.q||s.d||s.c||s.s)?`找到 ${items.length} 筆`:`共 ${items.length} 筆`;summary.textContent=`${qualified}，目前顯示 ${shown.length} 筆`;results.innerHTML=shown.map(x=>card(x,s.q)).join('');empty.hidden=items.length!==0;results.hidden=items.length===0;loadMore.hidden=shown.length>=items.length;loadMore.textContent=`載入更多（尚有 ${Math.max(0,items.length-shown.length)} 筆）`;const years=[...new Set(shown.map(x=>Math.floor(x.year/10)*10))].sort((a,b)=>b-a);yearIndex.innerHTML=years.map(y=>`<a href="#event-${shown.find(x=>Math.floor(x.year/10)*10===y).id}">${y}年代</a>`).join('');bindCards()}
+  function bindCards(){document.querySelectorAll('[data-pick-category]').forEach(b=>b.onclick=()=>{category.value=b.dataset.pickCategory;visibleOffset=0;visibleLimit=50;syncQuick();render();document.querySelector('.archive-toolbar').scrollIntoView({behavior:'smooth',block:'start'})});document.querySelectorAll('[data-copy-link]').forEach(b=>b.onclick=async()=>{const url=`${location.href.split('#')[0]}#${b.dataset.copyLink}`;try{await navigator.clipboard.writeText(url);b.textContent='✓';setTimeout(()=>b.textContent='#',1200)}catch{location.hash=b.dataset.copyLink}})}
+  function decadeOf(x){return Math.floor(Number(x.year)/10)*10}
+  function renderYearIndex(items){
+    const counts=new Map();items.forEach(x=>{const decade=decadeOf(x);if(Number.isFinite(decade))counts.set(decade,(counts.get(decade)||0)+1)});
+    const decades=[...counts.keys()].sort((a,b)=>b-a),groups=new Map();
+    decades.forEach(decade=>{const century=`${Math.floor(decade/100)+1}世紀`;if(!groups.has(century))groups.set(century,[]);groups.get(century).push(decade)});
+    yearIndex.innerHTML=[...groups].map(([century,values])=>`<section class="decade-group"><h3>${century}</h3>${values.map(decade=>`<button type="button" data-decade="${decade}"><span>${decade}年代</span><small>${counts.get(decade)}筆</small></button>`).join('')}</section>`).join('');
+    decadeJump.innerHTML='<option value="">選擇年代</option>'+decades.map(decade=>`<option value="${decade}">${decade}年代（${counts.get(decade)}筆）</option>`).join('');
+    decadeJump.disabled=decades.length===0;
+  }
+  function jumpToDecade(decade){
+    const items=filtered(),index=items.findIndex(x=>decadeOf(x)===decade);if(index<0)return;
+    const targetId=`event-${items[index].id}`;visibleOffset=Math.floor(index/50)*50;visibleLimit=50;render();decadeJump.value=String(decade);
+    requestAnimationFrame(()=>{const target=document.getElementById(targetId);if(target)target.scrollIntoView({behavior:'smooth',block:'start'})});
+  }
+  function render(){const items=filtered(),shown=items.slice(visibleOffset,visibleOffset+visibleLimit),s=state();const qualified=(s.q||s.d||s.c||s.s)?`找到 ${items.length} 筆`:`共 ${items.length} 筆`,range=shown.length?`第 ${visibleOffset+1}–${visibleOffset+shown.length} 筆`:'目前顯示 0 筆';summary.textContent=`${qualified}，${range}`;results.innerHTML=shown.map(x=>card(x,s.q)).join('');empty.hidden=items.length!==0;results.hidden=items.length===0;loadMore.hidden=visibleOffset+shown.length>=items.length;loadMore.textContent=`載入更多（後方尚有 ${Math.max(0,items.length-visibleOffset-shown.length)} 筆）`;renderYearIndex(items);bindCards()}
   function syncQuick(){document.querySelectorAll('.tag-filter').forEach(b=>b.classList.toggle('active',b.dataset.category===category.value))}
-  function resetLimitAndRender(){visibleLimit=50;syncQuick();render()}
+  function resetLimitAndRender(){visibleOffset=0;visibleLimit=50;syncQuick();render()}
   function populateFilters(){const current=dynasty.value,currentCategory=category.value;dynasty.innerHTML='<option value="">全部時期</option>';[...new Set(data.map(x=>x.dynasty))].filter(Boolean).forEach(v=>dynasty.append(new Option(v,v)));dynasty.value=current;category.innerHTML='<option value="">全部分類</option>';topicCategories.forEach(v=>category.append(new Option(v,v)));category.value=currentCategory;quickTags.innerHTML='';topicCategories.forEach(v=>{const b=document.createElement('button');b.type='button';b.className='tag-filter';b.textContent=v;b.dataset.category=v;quickTags.append(b)});syncQuick()}
   async function getJSON(url){const response=await fetch(url);if(!response.ok)throw new Error(`${response.status} ${url}`);return response.json()}
 
   [search,dynasty,category,source,sort].forEach(el=>el.addEventListener(el===search?'input':'change',resetLimitAndRender));
   quickTags.addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;category.value=category.value===b.dataset.category?'':b.dataset.category;resetLimitAndRender()});
+  yearIndex.addEventListener('click',e=>{const button=e.target.closest('[data-decade]');if(button)jumpToDecade(Number(button.dataset.decade))});
+  decadeJump.addEventListener('change',()=>{if(decadeJump.value)jumpToDecade(Number(decadeJump.value))});
   $('#resetFilters').onclick=()=>{search.value='';dynasty.value='';category.value='';source.value='';sort.value='desc';resetLimitAndRender();search.focus()};
   $('#emptyReset').onclick=$('#resetFilters').onclick;
   loadMore.onclick=()=>{visibleLimit+=50;render()};
@@ -45,7 +61,7 @@
     const hasDeepFilter=Boolean(initialCategory||initialSource||initialQuery);
     if(!hasDeepFilter){render();loadStatus.textContent=`已先載入最新 ${data.length} 筆，完整索引背景載入中…`}
     const remaining=await Promise.all(manifest.chunks.slice(initialChunkCount).map(c=>getJSON(c.url)));data=data.concat(...remaining);allLoaded=true;populateFilters();
-    if(location.hash){const wanted=location.hash.replace('#event-',''),index=filtered().findIndex(x=>x.id===wanted);if(index>=0)visibleLimit=Math.ceil((index+1)/50)*50}
+    if(location.hash){const wanted=location.hash.replace('#event-',''),index=filtered().findIndex(x=>x.id===wanted);if(index>=0){visibleOffset=Math.floor(index/50)*50;visibleLimit=50}}
     render();loadStatus.textContent=`完整 ${data.length} 筆索引已載入；頁面每次只顯示50筆。`;
     if(location.hash)setTimeout(()=>{const target=document.querySelector(location.hash);if(target)target.scrollIntoView({behavior:'smooth',block:'center'})},100)
   }catch(error){console.error(error);loadStatus.textContent='資料載入失敗，請重新整理頁面。';summary.textContent='無法載入時間軸資料。'}}
