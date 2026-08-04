@@ -1,0 +1,33 @@
+# 一般搜尋引擎可正常索引本站。
+User-agent: *
+Allow: /
+
+# 拒絕已知的 AI 模型訓練與大量資料擷取爬蟲。
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: meta-externalagent
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+# robots.txt 為自願性協定，不能取代法律聲明、存取紀錄或伺服器端防護。
