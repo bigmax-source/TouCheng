@@ -155,5 +155,13 @@ window.TOUCHENG_STORIES = [
     "content": "頭城曾經有過 MTV 店，就在青雲路《合記便當》旁、檳榔攤那棟大樓。",
     "list": [],
     "related": "地方娛樂與商業記憶"
+  },
+  {
+    "id": "laotao-to-mimi",
+    "category": "生活與日常",
+    "title": "從《老饕滷味》到《米米蔬雞》",
+    "content": "之前青雲路《老饕滷味》是姐弟檔，現在姊姊則是經營開蘭路的《米米蔬雞》。",
+    "list": [],
+    "related": "青雲路、開蘭路、地方餐飲與店家記憶"
   }
 ];

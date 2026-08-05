@@ -4,6 +4,7 @@
   const search = document.querySelector('#storySearch');
   const filters = document.querySelector('#storyFilters');
   const count = document.querySelector('#storyCount');
+  document.querySelectorAll('[data-story-total]').forEach(el=>el.textContent=stories.length);
   const dialog = document.querySelector('#storyDialog');
   const state = { category: '全部', query: '' };
   const esc = value => String(value ?? '').replace(/[&<>'"]/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[ch]));

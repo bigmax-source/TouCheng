@@ -6,7 +6,7 @@
   const card=item=>`<article class="today-card"><div><time>${escapeHTML(item.date)}</time><span>${escapeHTML(item.category)}</span></div><h3>${escapeHTML(item.title)}</h3><p>${escapeHTML(item.summary)}</p><footer><small>資料來源：${escapeHTML(item.source)}</small><a href="history.html#event-${encodeURIComponent(item.id)}">查看時間軸紀錄 →</a></footer></article>`;
   async function init(){
     try{
-      const response=await fetch('assets/data/on-this-day.json?v=1.62');
+      const response=await fetch('assets/data/on-this-day.json?v=1.72');
       if(!response.ok)throw new Error(`HTTP ${response.status}`);
       const data=await response.json(),parts=taipeiParts(),key=`${parts.month}-${parts.day}`;
       const exact=data.eventsByDay?.[key]||[];
