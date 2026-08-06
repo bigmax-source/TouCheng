@@ -9,7 +9,7 @@ SITE=ROOT.parent
 SOURCE=SITE/"tools/history-source-v1.5.json"
 COMPAT=SITE/"assets/data/history-data.js"
 OUTDIR=SITE/"assets/data/history"
-UPDATED=os.environ.get('TOUCHENG_UPDATED_AT','2026-08-05')
+UPDATED=os.environ.get('TOUCHENG_UPDATED_AT','2026-08-06')
 
 records=json.loads(SOURCE.read_text(encoding="utf-8"))
 ids=[record['id'] for record in records]

@@ -232,6 +232,32 @@
     "sourceUrl": "https://tcmb.culture.tw/zh-tw/detail?id=282835&indexCode=Culture_Place"
   },
   {
+    "id": "toucheng-elementary-school",
+    "name": "頭城國民小學",
+    "category": "人物與文學",
+    "lat": 24.863,
+    "lng": 121.8275,
+    "address": "宜蘭縣頭城鎮開蘭路282號",
+    "summary": "前身為1898年設立的宜蘭國語傳習所頭圍分教場，同年改制頭圍公學校；創設過程連結殖民教育、地方家庭與百年校園記憶。",
+    "matchTerms": ["頭城國小", "頭城國民小學", "頭圍分教場", "頭圍公學校", "多賀淳吉", "村岡賤夫"],
+    "historyQuery": "頭圍分教場",
+    "peopleUrl": "people.html#toucheng-school-founding",
+    "sourceUrl": "https://www.tces.ilc.edu.tw/2012/08/27/%E9%A0%AD%E5%9F%8E%E5%9C%8B%E5%B0%8F%E6%B2%BF%E9%9D%A9/"
+  },
+  {
+    "id": "waiao-surf-street",
+    "name": "外澳衝浪街",
+    "category": "港口與交通",
+    "lat": 24.8727072,
+    "lng": 121.8390854,
+    "address": "宜蘭縣頭城鎮烏石港路（外澳堤防道）",
+    "summary": "烏石港整建後，沿岸漂沙在港區北側逐漸累積；衝浪人口與店家隨後聚集，形成頭城具代表性的海洋休閒產業地景。",
+    "matchTerms": ["外澳衝浪街", "外澳沙灘", "外澳", "衝浪"],
+    "historyQuery": "外澳衝浪",
+    "peopleUrl": "people.html#surfing-toucheng",
+    "sourceUrl": "https://tcmb.culture.tw/zh-tw/detail?id=282910&indexCode=Culture_Place"
+  },
+  {
     "id": "gangkou-community",
     "name": "港口社區",
     "category": "港口與交通",

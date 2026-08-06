@@ -127,8 +127,8 @@ window.TOUCHENG_STORIES = [
   {
     "id": "friday-night-market",
     "category": "生活與日常",
-    "title": "星期五夜市的駕駛技術",
-    "content": "逛星期五頭城夜市時，有機會可以欣賞遊覽車司機高超的駕駛技術。",
+    "title": "開蘭東路夜市的駕駛技術",
+    "content": "原本的星期五頭城夜市在靠近搶孤場地的開蘭東路上，逛夜市時，有機會可以欣賞遊覽車司機高超的駕駛技術。",
     "list": [],
     "related": "頭城星期五夜市"
   },
