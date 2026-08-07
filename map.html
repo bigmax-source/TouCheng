@@ -4,29 +4,29 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>地方地圖｜頭城地方記憶典藏</title>
-<meta name="description" content="從22個核心地點閱讀頭城，切換歷史地景、信仰文化、人物與文學、港口與交通圖層，並連回相關時間軸紀錄。">
+<meta name="description" content="從地方記憶與生活據點閱讀頭城，切換歷史地景、信仰文化、人物與文學、港口交通及生活飲食圖層。">
 <link rel="icon" href="favicon.svg">
-<link rel="stylesheet" href="assets/css/style.css?v=1.72">
+<link rel="stylesheet" href="assets/css/style.css?v=1.8">
 <link rel="stylesheet" href="assets/vendor/leaflet/leaflet.css?v=1.9.4">
-<script defer src="assets/data/site-meta.js?v=1.72"></script>
+<script defer src="assets/data/site-meta.js?v=1.8"></script>
 <script defer src="assets/vendor/leaflet/leaflet.js?v=1.9.4"></script>
-<script defer src="assets/data/places-data.js?v=1.72"></script>
-<script defer src="assets/js/app.js?v=1.72"></script>
-<script defer src="assets/js/map.js?v=1.72"></script>
+<script defer src="assets/data/places-data.js?v=1.8"></script>
+<script defer src="assets/js/app.js?v=1.8"></script>
+<script defer src="assets/js/map.js?v=1.8"></script>
 </head>
 <body>
 <header class="site-header"><div class="container nav"><a class="brand" href="index.html"><svg class="brand-mark" viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="18" fill="#0b3040"/><path d="M8 43c9-7 14-3 21-14 8-12 17-14 27 14H8z" fill="#5f8165"/><path d="M7 49c11-5 20 5 31 0 8-4 14-2 20 0" fill="none" stroke="#d4ad58" stroke-width="4" stroke-linecap="round"/></svg><span>頭城地方記憶典藏</span></a><nav class="nav-links" aria-label="主要導覽"><a href="index.html">首頁</a><a href="history.html">時間軸</a><a href="stories.html">頭城小故事</a><a href="guide.html">生活指南</a><a href="people.html">人物與觀點</a><a href="map.html" aria-current="page">地方地圖</a><a href="audit.html">資料與校訂</a><a href="about.html">關於典藏</a></nav><div class="nav-actions"><button class="icon-btn" data-theme-toggle aria-label="切換深色模式">☾</button><button class="icon-btn menu-btn" data-menu-toggle aria-label="開啟選單" aria-expanded="false">☰</button></div></div></header>
 <main>
-<section class="page-hero map-hero"><div class="container"><p class="eyebrow">Place · Event · Memory</p><h1>地方地圖</h1><p>有些歷史適合按年代閱讀，有些記憶必須回到發生的地方。</p><div class="map-hero-stats" aria-label="地圖典藏現況"><span><strong id="placeCount">22</strong> 個核心地點</span><span><strong>4</strong> 個閱讀圖層</span><span><strong id="placeEventCount">—</strong> 筆關聯事件</span></div></div></section>
+<section class="page-hero map-hero"><div class="container"><p class="eyebrow">Place · Event · Memory</p><h1>地方地圖</h1><p>有些歷史適合按年代閱讀，有些記憶必須回到發生的地方；v1.8也開始收錄居民日常使用的生活據點。</p><div class="map-hero-stats" aria-label="地圖典藏現況"><span><strong id="placeCount">36</strong> 個地點與生活據點</span><span><strong>5</strong> 個閱讀圖層</span><span><strong id="placeEventCount">—</strong> 筆關聯事件</span></div></div></section>
 <section class="section map-section"><div class="container map-workspace">
 <aside class="map-sidebar" aria-label="地點搜尋與圖層">
-<div class="map-toolbar"><label class="map-search"><span>搜尋地點</span><input id="placeSearch" type="search" placeholder="老街、寺廟、港口、文學館" autocomplete="off"></label><fieldset class="map-layers"><legend>地圖圖層</legend><div id="mapLayerFilters"></div></fieldset><div class="map-filter-summary"><span id="mapResultSummary">顯示22個地點</span><button type="button" id="resetMapFilters">全部顯示</button></div></div>
+<div class="map-toolbar"><label class="map-search"><span>搜尋地點</span><input id="placeSearch" type="search" placeholder="老街、寺廟、港口、雞排、燒烤" autocomplete="off"></label><fieldset class="map-layers"><legend>地圖圖層</legend><div id="mapLayerFilters"></div></fieldset><div class="map-filter-summary"><span id="mapResultSummary">顯示36個地點</span><button type="button" id="resetMapFilters">全部顯示</button></div></div>
 <article class="place-detail" id="placeDetail" aria-live="polite"><div class="place-detail-empty"><span>地</span><h2>選一個地方開始閱讀</h2><p>點選地圖標記或下方地點名稱，查看簡介、相關事件與導航。</p></div></article>
 <div class="place-list" id="placeList" aria-label="核心地點列表"></div>
 </aside>
 <div class="map-stage"><div id="touchengMap" role="application" aria-label="頭城地方記憶互動地圖"></div><div class="map-note"><strong>地圖閱讀提示</strong><span>圖標位置用於地方閱讀與導航；歷史聚落範圍不等同單一座標。</span></div></div>
 </div></section>
 </main>
-<footer class="site-footer"><div class="container"><div class="footer-grid"><div><h3>頭城地方記憶典藏</h3><p>讓時間、人物與空間互相連結，從發生的地方重新閱讀頭城。</p></div><div><h3>地圖資料</h3><p>目前22個核心地點；位置與簡介均保留來源，後續持續校訂。</p></div><div><h3>版本</h3><p>v<span data-site-version>1.72</span>・更新 <span data-site-updated>2026-08-06</span></p></div></div><div class="footer-bottom"><span>© 2026 頭城二三事｜原創摘要、編排與策展保留所有權利・<a href="copyright.html">使用規範</a></span><span>按時間讀・按主題讀・按地方讀</span></div></div></footer>
+<footer class="site-footer"><div class="container"><div class="footer-grid"><div><h3>頭城地方記憶典藏</h3><p>讓時間、人物與空間互相連結，從發生的地方重新閱讀頭城。</p></div><div><h3>地圖資料</h3><p>歷史地點與生活據點分層呈現；地址、電話及位置後續持續校訂。</p></div><div><h3>版本</h3><p>v<span data-site-version>1.8</span>・更新 <span data-site-updated>2026-08-07</span></p></div></div><div class="footer-bottom"><span>© 2026 頭城二三事｜原創摘要、編排與策展保留所有權利・<a href="copyright.html">使用規範</a></span><span>按時間讀・按主題讀・按地方讀</span></div></div></footer>
 </body>
 </html>
