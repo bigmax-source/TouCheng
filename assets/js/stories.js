@@ -12,7 +12,7 @@
   function filtered(){
     return stories.filter(s => {
       const categoryOK = state.category === '全部' || s.category === state.category;
-      const haystack = normalize([s.title,s.content,s.category,(s.list||[]).join(' '),s.related].join(' '));
+      const haystack = normalize([s.title,s.content,s.category,(s.list||[]).join(' '),s.related,s.source].join(' '));
       return categoryOK && (!state.query || haystack.includes(normalize(state.query)));
     });
   }
@@ -26,10 +26,19 @@
     dialog.querySelector('[data-story-category]').textContent=s.category;
     dialog.querySelector('[data-story-title]').textContent=s.title;
     dialog.querySelector('[data-story-content]').textContent=s.content;
+    const imageWrap=dialog.querySelector('[data-story-image-wrap]');
+    const image=dialog.querySelector('[data-story-image]');
+    const imageCaption=dialog.querySelector('[data-story-image-caption]');
+    imageWrap.hidden=!s.image;
+    if(s.image){image.src=s.image;image.alt=s.imageAlt||s.title;imageCaption.textContent=s.imageCaption||''}
     const list=dialog.querySelector('[data-story-list]');
     list.innerHTML=(s.list||[]).map(x=>`<li>${esc(x)}</li>`).join('');
     list.hidden=!(s.list||[]).length;
     dialog.querySelector('[data-story-related]').textContent=s.related || '關聯資料待整理';
+    const sourceWrap=dialog.querySelector('[data-story-source-wrap]');
+    const source=dialog.querySelector('[data-story-source]');
+    sourceWrap.hidden=!s.source;
+    if(s.source){source.textContent=s.source;source.href=s.sourceUrl||'#'}
     dialog.querySelector('[data-story-link]').href=`stories.html#${s.id}`;
     history.replaceState(null,'',`#${s.id}`);
     dialog.showModal();
