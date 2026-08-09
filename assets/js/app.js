@@ -6,12 +6,13 @@ const header = document.querySelector('.site-header');
 const historyData = Array.isArray(window.TOUCHENG_HISTORY) ? window.TOUCHENG_HISTORY : [];
 const siteMeta = window.SITE_META || {};
 
-document.querySelectorAll('[data-site-version]').forEach(el=>el.textContent=siteMeta.version || '1.72');
-document.querySelectorAll('[data-site-updated]').forEach(el=>el.textContent=siteMeta.updatedAt || '2026-08-06');
+document.querySelectorAll('[data-site-version]').forEach(el=>el.textContent=siteMeta.version || '1.8');
+document.querySelectorAll('[data-site-updated]').forEach(el=>el.textContent=siteMeta.updatedAt || '2026-08-07');
 document.querySelectorAll('[data-history-count]').forEach(el=>el.textContent=siteMeta.historyCount || historyData.length || '—');
 document.querySelectorAll('[data-site-coverage]').forEach(el=>el.textContent=siteMeta.coverage || '—');
 document.querySelectorAll('[data-source-type-count]').forEach(el=>el.textContent=siteMeta.sourceTypeCount || '—');
 document.querySelectorAll('[data-people-space-count]').forEach(el=>el.textContent=siteMeta.peopleSpaceCount || '—');
+document.querySelectorAll('[data-story-count]').forEach(el=>el.textContent=siteMeta.storyCount || '—');
 document.querySelectorAll('[data-curation-count]').forEach(el=>el.textContent=siteMeta.curationCount || '—');
 
 const storedTheme = localStorage.getItem('toucheng-theme');

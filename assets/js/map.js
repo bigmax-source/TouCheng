@@ -1,11 +1,11 @@
 (() => {
   const places = window.TOUCHENG_PLACES || [];
-  const categories = ['歷史地景', '信仰文化', '人物與文學', '港口與交通'];
-  const symbols = {'歷史地景':'史','信仰文化':'祀','人物與文學':'文','港口與交通':'港'};
-  const slugs = {'歷史地景':'history','信仰文化':'faith','人物與文學':'literature','港口與交通':'harbor'};
+  const categories = ['歷史地景', '信仰文化', '人物與文學', '港口與交通', '生活飲食'];
+  const symbols = {'歷史地景':'史','信仰文化':'祀','人物與文學':'文','港口與交通':'港','生活飲食':'食'};
+  const slugs = {'歷史地景':'history','信仰文化':'faith','人物與文學':'literature','港口與交通':'harbor','生活飲食':'living'};
   const $ = selector => document.querySelector(selector);
   const esc = (value='') => String(value).replace(/[&<>"']/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
-  const active = new Set(categories);
+  const active = new Set(categories.filter(category=>category!=='生活飲食'));
   const markers = new Map();
   let selectedId = '';
 
@@ -14,7 +14,8 @@
     maxZoom:19,
     attribution:'&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer">OpenStreetMap</a> contributors'
   }).addTo(map);
-  const groups = Object.fromEntries(categories.map(category => [category,L.layerGroup().addTo(map)]));
+  const groups = Object.fromEntries(categories.map(category => [category,L.layerGroup()]));
+  for(const category of active) groups[category].addTo(map);
 
   for (const place of places) {
     const marker = L.marker([place.lat,place.lng], {
@@ -28,10 +29,11 @@
   }
 
   const filterWrap=$('#mapLayerFilters');
-  filterWrap.innerHTML=categories.map(category=>`<label class="map-layer-chip ${slugs[category]}"><input type="checkbox" value="${esc(category)}" checked><span>${symbols[category]}</span><strong>${esc(category)}</strong><small>${places.filter(place=>place.category===category).length}</small></label>`).join('');
+  filterWrap.innerHTML=categories.map(category=>`<label class="map-layer-chip ${slugs[category]}"><input type="checkbox" value="${esc(category)}" ${active.has(category)?'checked':''}><span>${symbols[category]}</span><strong>${esc(category)}</strong><small>${places.filter(place=>place.category===category).length}</small></label>`).join('');
 
   function visiblePlaces(){const query=$('#placeSearch').value.trim().toLowerCase();return places.filter(place=>active.has(place.category)&&(!query||[place.name,place.address,place.summary,place.category].join(' ').toLowerCase().includes(query)))}
-  function navigationUrl(place){return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${place.lat},${place.lng}`)}`}
+  function navigationUrl(place){return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(place.address||`${place.lat},${place.lng}`)}`}
+  function relatedReadingUrl(place){return place.peopleUrl||(place.id==='lanyang-museum'?'people.html#lanyang-museum-tbm':'')}
   function emptyDetail(){return '<div class="place-detail-empty"><span>地</span><h2>選一個地方開始閱讀</h2><p>點選地圖標記或下方地點名稱，查看簡介、相關事件與導航。</p></div>'}
 
   function renderList(){
@@ -43,7 +45,10 @@
   function renderDetail(place){
     const events=place.relatedEvents.slice(0,6);
     const eventList=events.length?`<ol class="place-event-list">${events.map(event=>`<li><time>${esc(event.date)}</time><a href="history.html#event-${encodeURIComponent(event.id)}">${esc(event.title)}</a></li>`).join('')}</ol>`:'<p class="place-no-events">這個地點目前先以地方專題保存，尚待建立可確認日期的年表紀錄。</p>';
-    $('#placeDetail').innerHTML=`<div class="place-detail-head"><span class="source-badge ${slugs[place.category]}">${esc(place.category)}</span><button type="button" class="place-close" aria-label="關閉地點介紹">×</button></div><h2>${esc(place.name)}</h2><p>${esc(place.summary)}</p><dl class="place-facts"><div><dt>位置</dt><dd>${esc(place.address)}</dd></div><div><dt>關聯</dt><dd>${place.relatedEvents.length}筆時間軸紀錄</dd></div></dl><h3>相關事件</h3>${eventList}<div class="place-actions"><a class="btn btn-primary" href="history.html?query=${encodeURIComponent(place.historyQuery)}">查看此地全部相關紀錄 →</a><a class="btn btn-ghost" href="${navigationUrl(place)}" target="_blank" rel="noopener noreferrer">Google Maps 導航 ↗</a>${place.peopleUrl?`<a class="btn btn-ghost" href="${esc(place.peopleUrl)}">閱讀相關專題 →</a>`:''}<a class="place-source" href="${esc(place.sourceUrl)}" target="_blank" rel="noopener noreferrer">查看地點資料來源 ↗</a></div>`;
+    const phoneFact=place.phone?`<div><dt>電話</dt><dd><a href="tel:${esc(place.phone.replace(/[^0-9+]/g,''))}">${esc(place.phone)}</a></dd></div>`:`<div><dt>電話</dt><dd>暫無公開電話</dd></div>`;
+    const isLiving=place.category==='生活飲食';
+    const readingUrl=relatedReadingUrl(place);
+    $('#placeDetail').innerHTML=`<div class="place-detail-head"><span class="source-badge ${slugs[place.category]}">${esc(place.category)}</span><button type="button" class="place-close" aria-label="關閉地點介紹">×</button></div><h2>${esc(place.name)}</h2><p>${esc(place.summary)}</p><dl class="place-facts"><div><dt>位置</dt><dd>${esc(place.address)}</dd></div>${isLiving?phoneFact:`<div><dt>關聯</dt><dd>${place.relatedEvents.length}筆時間軸紀錄</dd></div>`}</dl>${isLiving?'<p class="place-data-note">生活資訊可能變動，出發前請向店家或地圖平台再次確認。</p>':`<h3>相關事件</h3>${eventList}`}<div class="place-actions">${!isLiving?`<a class="btn btn-primary" href="history.html?query=${encodeURIComponent(place.historyQuery)}">查看此地全部相關紀錄 →</a>`:''}${place.phone?`<a class="btn btn-primary" href="tel:${esc(place.phone.replace(/[^0-9+]/g,''))}">撥打電話</a>`:''}<a class="btn btn-ghost" href="${navigationUrl(place)}" target="_blank" rel="noopener noreferrer">Google Maps 導航 ↗</a>${readingUrl?`<a class="btn btn-ghost" href="${esc(readingUrl)}">閱讀相關專題 →</a>`:''}<a class="place-source" href="${esc(place.sourceUrl)}" target="_blank" rel="noopener noreferrer">查看地點資料來源 ↗</a></div>`;
   }
 
   function selectPlace(id,move=true){
