@@ -1,5 +1,6 @@
 (() => {
-  const stories = window.TOUCHENG_STORIES || [];
+  // 資料檔依編纂時間持續向後追加；閱讀頁則以最新加入者優先呈現。
+  const stories = [...(window.TOUCHENG_STORIES || [])].reverse();
   const grid = document.querySelector('#storiesGrid');
   const search = document.querySelector('#storySearch');
   const filters = document.querySelector('#storyFilters');
