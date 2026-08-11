@@ -4,12 +4,12 @@ from datetime import datetime
 import hashlib, json, os, re, shutil
 
 ROOT=Path(__file__).parent
-SITE_VERSION=os.environ.get('TOUCHENG_SITE_VERSION','1.81')
+SITE_VERSION=os.environ.get('TOUCHENG_SITE_VERSION','1.83')
 SITE=ROOT.parent
 SOURCE=SITE/"tools/history-source-v1.5.json"
 COMPAT=SITE/"assets/data/history-data.js"
 OUTDIR=SITE/"assets/data/history"
-UPDATED=os.environ.get('TOUCHENG_UPDATED_AT','2026-08-08')
+UPDATED=os.environ.get('TOUCHENG_UPDATED_AT','2026-08-11')
 
 records=json.loads(SOURCE.read_text(encoding="utf-8"))
 ids=[record['id'] for record in records]
@@ -57,10 +57,10 @@ def topic(value=''):
         if re.search(pattern,value): return name
     return '地方記憶與社群'
 
-PLACE_TERMS=['烏石港','頭圍港','史雲湖','頭城老街','慶元宮','頭城文創園區','頭城文化園區','頭城火車站','頭城車站','外澳車站','龜山車站','大溪車站','大里車站','石城車站','頂埔車站','蘭陽博物館','頭城海水浴場','龜山島','桃源谷','草嶺古道','蜜月灣','微笑灣休閒農場','頭城農場','源合成街屋','李榮春文學館','大溪漁港','梗枋漁港','烏石漁港','竹安河口']
+PLACE_TERMS=['烏石港','頭圍港','史雲湖','頭城老街','頭城鎮文學巷','慶元宮','頭城文創園區','頭城文化園區','頭城火車站','頭城車站','外澳車站','龜山車站','大溪車站','大里車站','石城車站','頂埔車站','蘭陽博物館','頭城海水浴場','龜山島','桃源谷','草嶺古道','蜜月灣','微笑灣休閒農場','頭城農場','源合成街屋','李榮春文學館','大溪漁港','梗枋漁港','烏石漁港','竹安河口']
 VILLAGES=['石城里','大里里','大溪里','合興里','更新里','龜山里','外澳里','港口里','武營里','城東里','城西里','城南里','城北里','新建里','拔雅里','頂埔里','下埔里','二城里','中崙里','金面里','福成里','竹安里']
 PEOPLE=['李榮春','連明偉','林瑞文','彭仁鴻','卓陳明','卓媽媽','莊錫財','吳沙','盧纘祥','陳忠茂','郭章垣','蘇耀邦','葉風鼓','林蔡齡','呂金發','賴阿塗','曾朝宜','康阿振','康阿裕']
-ORGS=['頭城鎮公所','蘭陽博物館','頭城二三事','燦景工作室','頭城文化發展協會','頭城鎮農會','頭城區漁會','國立頭城家商','頭城國中','頭城國小','佛光大學','宜蘭家扶','媽媽號','金魚厝邊','交通部','宜蘭縣政府']
+ORGS=['頭城鎮公所','蘭陽博物館','頭城二三事','燦景工作室','頭城文化發展協會','頭城鎮農會','頭城區漁會','國立頭城家商','頭城國中','頭城國小','佛光大學','宜蘭家扶','媽媽號','金魚厝邊','Overtime Coffee 261 金少爺','交通部','宜蘭縣政府']
 def found(text,terms): return [x for x in terms if x in text]
 
 def source_group(record_type):

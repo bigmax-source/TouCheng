@@ -4476,6 +4476,26 @@
     "importance": "記錄頭城作家的當代文學出版，讓地方經驗、政治語言與小說創作進入時間軸。"
   },
   {
+    "id": "2024-08-16-woo-tea-toucheng-opening",
+    "date": "2024-08-16",
+    "dynasty": "中華民國",
+    "era": "民國113年",
+    "ganzhi": "",
+    "year": 2024,
+    "title": "五桐號－頭城店開幕",
+    "event": "五桐號－頭城店於2024年8月16日開幕，地址為宜蘭縣頭城鎮城南里青雲路三段82號，電話03-977-8065。店家公布的營業時間為每日10:00–20:30；營業資訊可能調整，前往前宜再向店家確認。",
+    "categories": [
+      "產業與商業",
+      "生活與民俗",
+      "連鎖飲料店"
+    ],
+    "source": "頭城二三事提供／店家資訊截圖",
+    "sourceType": "地方生活史與社群記憶",
+    "reviewStatus": "開幕日期由使用者提供；地址、電話與營業時間依2026年8月提供之店家資訊截圖登錄。",
+    "recordType": "community",
+    "importance": "記錄連鎖飲料品牌進入頭城市區，以及青雲路商業生活的變化。"
+  },
+  {
     "id": "2024-07-09-touwei-farm-station",
     "date": "2024-07-09",
     "dynasty": "中華民國",
@@ -4713,6 +4733,45 @@
     "reviewStatus": "日期與摘要由提供者整理，仍可持續補充來源",
     "recordType": "community",
     "importance": "記錄地方餐飲類型的增加，以及居民與旅客日常消費選擇的變化。"
+  },
+  {
+    "id": "2022-09-14-overtime-coffee-261-opening",
+    "date": "2022-09-14",
+    "dynasty": "中華民國",
+    "era": "民國111年",
+    "ganzhi": "",
+    "year": 2022,
+    "title": "Overtime Coffee 261 金少爺開幕",
+    "event": "Overtime Coffee 261 金少爺於2022年9月14日在頭城鎮文學巷開幕，地址為宜蘭縣頭城鎮城南里東五巷7號，電話0926-699-527。店家標示為 LGBTQ+ 友善空間。店家公布營業時間為週一至週三、週五及週日09:40–18:00，週六09:40–17:30，週四公休；營業資訊可能調整，前往前宜再向店家確認。",
+    "categories": [
+      "產業與商業",
+      "生活與民俗",
+      "咖啡館",
+      "友善空間"
+    ],
+    "source": "Overtime Coffee 261 金少爺 Facebook粉絲專頁／頭城二三事提供",
+    "sourceUrl": "https://www.facebook.com/Overtimecoffee261",
+    "sourceType": "地方生活史與社群記憶",
+    "reviewStatus": "開幕日期、地址、電話、營業時間與友善空間資訊由使用者提供；營業資訊仍應以店家最新公告為準。",
+    "recordType": "community",
+    "images": [
+      {
+        "src": "assets/images/history/overtime-coffee-261-barista.jpg",
+        "alt": "Overtime Coffee 261 金少爺沖煮咖啡",
+        "caption": "Overtime Coffee 261 金少爺店內沖煮咖啡（使用者提供）"
+      },
+      {
+        "src": "assets/images/history/overtime-coffee-261-dessert.jpg",
+        "alt": "Overtime Coffee 261 金少爺甜點",
+        "caption": "Overtime Coffee 261 金少爺店內甜點（使用者提供）"
+      },
+      {
+        "src": "assets/images/history/overtime-coffee-261-exterior.jpg",
+        "alt": "Overtime Coffee 261 金少爺店面",
+        "caption": "位於頭城鎮文學巷的 Overtime Coffee 261 金少爺（使用者提供）"
+      }
+    ],
+    "importance": "記錄文學巷中的咖啡空間與多元友善服務，也保存頭城市區巷弄商業與生活文化的變化。"
   },
   {
     "id": "2022-08-01-lanyang-college",
@@ -9712,23 +9771,24 @@
   },
   {
     "id": "1924-wushih-buried-railway",
-    "date": "1924",
+    "date": "1924-08-05",
     "dynasty": "中華民國",
     "era": "民國13年",
     "ganzhi": "",
     "year": 1924,
-    "title": "百年洪水與宜蘭線通車改變交通重心",
-    "event": "福德坑溪山洪使烏石港逐漸埋沒；同年宜蘭線鐵路全線通車，蘭陽平原對外交通逐步由海運轉向陸運。",
+    "title": "甲子年頭圍水患重創街區與頭圍港",
+    "event": "1924年8月5日至6日暴風雨侵襲宜蘭，福德坑溪堤防潰決，山洪與土石侵入頭圍街，南門一帶民宅受損，頭圍港港域也因淤塞而逐漸失去通航功能；停電及交通、電訊中斷，使災情回報格外困難。",
     "categories": [
       "港口與海洋",
       "鐵路交通",
       "地方變遷"
     ],
-    "source": "燦景工作室《覓境》",
-    "sourceType": "地方文化出版與生活史整理",
-    "reviewStatus": "依使用者整理之《覓境》內容建檔；可持續補上頁碼與原文影像。",
-    "recordType": "local-publication",
-    "importance": ""
+    "source": "蘭陽博物館電子報第166期〈頭城的交通建設（一）〉",
+    "sourceUrl": "https://www.lym.gov.tw/ch/collection/epaper/epaper-detail/c4cdca87-31d9-11ef-a1c3-2760f1289ae7/",
+    "sourceType": "官方／公共機構",
+    "reviewStatus": "依蘭陽博物館電子報及莊漢川整理的《臺灣日日新報》史料補足日期與災情；與原《覓境》紀錄合併，不另建重複事件。",
+    "recordType": "official",
+    "importance": "記錄水患如何影響頭圍街居民、港口淤塞與地方交通轉型。"
   },
   {
     "id": "1924-031",
@@ -10127,5 +10187,73 @@
     "importance": "保存一座消失紀念碑及地方如何重新記憶學校創設受阻事件。",
     "people": ["多賀淳吉", "三屋大五郎", "林正芳"],
     "locations": ["頂埔"]
+  },
+  {
+    "id": "1895-caoling-anti-japanese-ambush",
+    "date": "1895",
+    "dynasty": "日本時代",
+    "era": "明治二十八年",
+    "ganzhi": "乙未",
+    "year": 1895,
+    "title": "草嶺古道伏擊與頭圍武營火葬記憶",
+    "event": "1895年底，北臺灣抗日義勇軍領袖林大北、李季成率眾攻擊頂雙溪日本憲兵隊；自大里簡前往救援的日軍、警察在草嶺古道一帶遭伏擊並有死傷。事件後，陣亡者遺體被運至頭圍武營、原清軍駐地火葬，並立碑紀念。",
+    "categories": ["公共事務", "文化資產與地景"],
+    "source": "宜蘭縣頭城文化發展協會常務理事莊漢川地方文史整理",
+    "sourceUrl": "https://www.lym.gov.tw/ch/collection/epaper/epaper-detail/5935caa4-40f3-11eb-b345-2760f1289ae7/",
+    "sourceType": "地方出版與文史",
+    "reviewStatus": "事件脈絡依莊漢川整理；伏擊地點、死傷數及最初碑石年代仍應持續與日治初期檔案交叉核對。",
+    "recordType": "local-publication",
+    "importance": "保存臺日政權交替時期頭城、草嶺古道與武營之間的戰爭記憶。"
+  },
+  {
+    "id": "1936-04-24-wuying-loyal-souls-monument",
+    "date": "1936-04-24",
+    "dynasty": "日本時代",
+    "era": "昭和十一年",
+    "ganzhi": "丙子",
+    "year": 1936,
+    "title": "頭圍庄武營「忠魂碑」舉行除幕式",
+    "event": "原紀念碑文字磨損後，頭圍地方官員與仕紳發起整建。新建武營「忠魂碑」於1936年4月24日舉行除幕式；現存碑石後來移置武營社區小公園，2017年指定為宜蘭縣一般古物。",
+    "categories": ["文化資產與地景", "公共事務"],
+    "source": "蘭陽博物館電子報第124期〈北關嘉慶古砲見學之旅〉",
+    "sourceUrl": "https://www.lym.gov.tw/ch/collection/epaper/epaper-detail/5935caa4-40f3-11eb-b345-2760f1289ae7/",
+    "sourceType": "官方／公共機構",
+    "reviewStatus": "除幕日期依莊漢川提供的1936年報紙圖文；古物身分及現況以蘭陽博物館資料交叉確認。",
+    "recordType": "official",
+    "importance": "見證日本統治初期抗日衝突如何被殖民政府紀念，以及戰後地方對碑體的重新保存。"
+  },
+  {
+    "id": "2019-07-20-toucheng-old-street-art-festival",
+    "date": "2019-07-20",
+    "endDate": "2019-07-28",
+    "dynasty": "中華民國",
+    "era": "民國108年",
+    "ganzhi": "己亥",
+    "year": 2019,
+    "title": "《2019頭城老街文化藝術季：生活這樣也可以》登場",
+    "event": "金魚厝邊策劃的第五屆頭城老街文化藝術季，於7月20日至21日、27日至28日在老街展開，以展覽、街區行動與新舊影像引導人們重新觀看頭城的日常生活。",
+    "categories": ["教育與文化", "地方記憶與社群"],
+    "source": "金魚厝邊／2019頭城老街文化藝術季",
+    "sourceUrl": "https://www.facebook.com/goldfishspace",
+    "sourceType": "地方生活與社群",
+    "reviewStatus": "活動日期及主辦單位依公開報導與使用者提供活動照片整理；照片中的舊照年代與攝影者待補。",
+    "recordType": "community",
+    "importance": "保存地方團隊以藝術、街區與居民生活重新詮釋頭城老街的策展行動。"
+  },
+  {
+    "id": "2017-07-18-yilan-taipei-japanese-guidebook",
+    "date": "2017-07-18",
+    "dynasty": "中華民國",
+    "era": "民國106年",
+    "ganzhi": "丁酉",
+    "year": 2017,
+    "title": "日本旅遊書《宜蘭＋台北》出版，專章介紹頭城",
+    "event": "日本PIE International出版台湾マニア委員会編著的日文旅遊書《宜蘭＋台北》。書中以「閃耀的海與歷史之城」為題，專章介紹頭城的烏石港、北堤沙灘、外澳飛行傘、老街、地方飲食、日和圖圖及蘭陽博物館，留下2017年前後外地旅人觀看頭城的方式。",
+    "categories": ["教育與文化", "出版", "地方記憶與社群"],
+    "source": "《Yilan & Taipei 宜蘭＋台北》版權頁與頭城章",
+    "sourceType": "地方出版與文史",
+    "reviewStatus": "依使用者提供書籍翻拍核對書名、作者、出版社、出版日期、ISBN及頭城章內容；店家資訊屬2017年前後，不作現況資料。",
+    "recordType": "local-publication",
+    "importance": "保存日本旅遊出版如何選擇、分類並向海外讀者介紹頭城的外部觀看視角。"
   }
 ]
