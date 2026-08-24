@@ -4,12 +4,12 @@ from datetime import datetime
 import hashlib, json, os, re, shutil
 
 ROOT=Path(__file__).parent
-SITE_VERSION=os.environ.get('TOUCHENG_SITE_VERSION','1.84')
+SITE_VERSION=os.environ.get('TOUCHENG_SITE_VERSION','1.85')
 SITE=ROOT.parent
 SOURCE=SITE/"tools/history-source-v1.5.json"
 COMPAT=SITE/"assets/data/history-data.js"
 OUTDIR=SITE/"assets/data/history"
-UPDATED=os.environ.get('TOUCHENG_UPDATED_AT','2026-08-17')
+UPDATED=os.environ.get('TOUCHENG_UPDATED_AT','2026-08-24')
 
 records=json.loads(SOURCE.read_text(encoding="utf-8"))
 ids=[record['id'] for record in records]

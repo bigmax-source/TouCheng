@@ -3,16 +3,16 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>頭城生活指南｜頭城地方記憶典藏</title>
-<meta name="description" content="提供新住民與居民使用的頭城生活指南。">
+<title>頭城舊衣回收箱資訊｜頭城地方記憶典藏</title>
+<meta name="description" content="整理頭城鎮內舊衣回收箱與公共生活資訊。">
 <link rel="icon" href="favicon.svg">
-<link rel="stylesheet" href="assets/css/style.css?v=1.84">
-<script defer src="assets/data/site-meta.js?v=1.84"></script>
-<script defer src="assets/js/app.js?v=1.84">
+<link rel="stylesheet" href="assets/css/style.css?v=1.85">
+<script defer src="assets/data/site-meta.js?v=1.85"></script>
+<script defer src="assets/js/app.js?v=1.85">
 </script>
-<script defer src="assets/data/guide-data.js?v=1.84">
+<script defer src="assets/data/guide-data.js?v=1.85">
 </script>
-<script defer src="assets/js/guide.js?v=1.84">
+<script defer src="assets/js/guide.js?v=1.85">
 </script>
 </head>
 <body>
@@ -30,7 +30,7 @@
 <a href="index.html">首頁</a>
 <a href="history.html">時間軸</a>
 <a href="stories.html">頭城小故事</a>
-<a href="guide.html" aria-current="page">生活指南</a>
+<a href="guide.html" aria-current="page">生活資訊</a>
 <a href="people.html">人物與觀點</a>
 <a href="map.html">地方地圖</a><a href="audit.html">資料與校訂</a>
 <a href="about.html">關於典藏</a>
@@ -44,59 +44,49 @@
 <main>
 <section class="subhero guide-hero">
 <div class="container">
-<p class="eyebrow reveal">Toucheng Living Guide</p>
-<h1 class="reveal">頭城生活指南</h1>
-<p class="reveal">整理居民真正需要的交通接送、室內修繕水電、教學、醫療與其他在地生活服務。</p>
+<p class="eyebrow reveal">Local recycling info</p>
+<h1 class="reveal">頭城舊衣回收箱資訊</h1>
+<p class="reveal">舊衣不知道要送去哪裡？這裡整理頭城鎮內可供居民使用的舊衣回收箱資訊與必要提醒。</p>
 </div>
 </section>
 <section class="section">
-<div class="container guide-layout">
-<aside class="guide-sidebar reveal">
-<p class="eyebrow">Categories</p>
-<h2>服務分類</h2>
-<div id="guide-categories" class="guide-category-list">
-</div>
-<div class="guide-coming">
-<strong>資料持續校訂</strong>
-<p>生活服務可能異動；「使用中」代表近期提供資料，「待確認」代表由舊站移植、尚待再次確認。</p>
-</div>
-</aside>
-<div class="guide-content">
+<div class="container guide-content">
 <section class="guide-directory reveal">
 <div class="section-heading">
 <div>
-<p class="eyebrow">Local services</p>
-<h2 class="section-title">在地服務清單</h2>
+<p class="eyebrow">Clothing recycling</p>
+<h2 class="section-title">舊衣回收地圖</h2>
 </div>
-<span id="guide-result-count" class="status-chip">
-</span>
+<span class="status-chip" data-recycling-map-count>1 份地圖資料</span>
 </div>
-<label class="guide-search">
-<span>搜尋生活服務</span>
-<input id="guide-search" type="search" placeholder="例如：診所、計程車、水電、開鎖、修冷氣" autocomplete="off">
-</label>
-<div id="guide-items" class="guide-items-grid">
-</div>
+<p>目前沿用既有的頭城舊衣回收箱地圖；個別回收點尚未整理成可逐卡搜尋的資料，因此不標示未確認的點位數。</p>
 </section>
 <article class="guide-feature reveal" id="clothing-recycling">
 <div class="guide-feature-head">
 <div>
-<span class="source-badge supplement">生活指南</span>
-<p class="eyebrow">Clothing recycling map</p>
+<span class="source-badge supplement">公共生活資訊</span>
+<p class="eyebrow">Clothing recycling</p>
 <h2>頭城舊衣回收箱資訊</h2>
-<p>地點可能異動，出發前請以地圖與現場狀況為準。</p>
+<p>狀態：<span data-recycling-status>既有地圖保留／逐點資料待整理</span></p>
 </div>
-<a class="btn btn-primary" href="https://www.google.com/maps/d/u/0/viewer?mid=17ob8QwlaQGT7O-Xdpwui33G1rc1TqlRu&ll=24.858238534119945%2C121.82225570000001&z=15" target="_blank" rel="noopener noreferrer">在 Google 地圖開啟 ↗</a>
+<a class="btn btn-primary" data-recycling-map-link href="https://www.google.com/maps/d/u/0/viewer?mid=17ob8QwlaQGT7O-Xdpwui33G1rc1TqlRu&ll=24.858238534119945%2C121.82225570000001&z=15" target="_blank" rel="noopener noreferrer">在 Google 地圖開啟 ↗</a>
 </div>
 <div class="guide-map-frame">
-<iframe src="https://www.google.com/maps/d/embed?mid=17ob8QwlaQGT7O-Xdpwui33G1rc1TqlRu&ll=24.858238534119945%2C121.82225570000001&z=15" title="頭城舊衣回收箱地圖" loading="lazy">
+<iframe data-recycling-map-frame src="https://www.google.com/maps/d/embed?mid=17ob8QwlaQGT7O-Xdpwui33G1rc1TqlRu&ll=24.858238534119945%2C121.82225570000001&z=15" title="頭城舊衣回收箱地圖" loading="lazy">
 </iframe>
 </div>
 </article>
 <div class="editorial-note">
-<strong>資料定位</strong>
-<p>本頁是居民共同整理的生活資訊，不是商業廣告；店家與服務內容如有變更，可在後續版本修訂。</p>
+<strong>回收提醒</strong>
+<p>回收箱設置位置可能因管理單位調整、撤除或遷移而改變，出發前請留意現場狀況。請投入乾淨、可再利用的衣物；棉被、枕頭、鞋類或破損污染衣物是否可投入，應依各回收箱現場標示為準。</p>
 </div>
+<div class="editorial-note">
+<strong>其他生活服務</strong>
+<p>水電、維修、交通接送、醫療、教學等即時生活服務將移至 <strong>Toucheng Living</strong> 維護，網站整理中。現階段不建立尚未提供的正式網址。</p>
+</div>
+<div class="editorial-note">
+<strong>兩站資料分工</strong>
+<p>現在去哪裡找服務，由 Toucheng Living 維護；店家或服務曾經如何存在於頭城，仍可由《頭城地方記憶典藏》保存其歷史事件與地方記憶。</p>
 </div>
 </div>
 </section>
@@ -119,7 +109,7 @@
 </div>
 <div class="footer-bottom">
 <span>© 2026 頭城二三事｜原創摘要、編排與策展保留所有權利・<a href="copyright.html">使用規範</a></span>
-<span>v<span data-site-version>1.84</span></span>
+<span>v<span data-site-version>1.85</span></span>
 </div>
 </div>
 </footer>
