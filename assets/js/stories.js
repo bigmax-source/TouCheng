@@ -30,8 +30,12 @@
     const imageWrap=dialog.querySelector('[data-story-image-wrap]');
     const image=dialog.querySelector('[data-story-image]');
     const imageCaption=dialog.querySelector('[data-story-image-caption]');
+    const gallery=dialog.querySelector('[data-story-gallery]');
+    const images=Array.isArray(s.images)?s.images:[];
     imageWrap.hidden=!s.image;
     if(s.image){image.src=s.image;image.alt=s.imageAlt||s.title;imageCaption.textContent=s.imageCaption||''}
+    gallery.hidden=!images.length;
+    gallery.innerHTML=images.map(item=>`<figure><img src="${esc(item.src)}" alt="${esc(item.alt||s.title)}" loading="lazy"><figcaption>${esc(item.caption||'')}</figcaption></figure>`).join('');
     const list=dialog.querySelector('[data-story-list]');
     list.innerHTML=(s.list||[]).map(x=>`<li>${esc(x)}</li>`).join('');
     list.hidden=!(s.list||[]).length;

@@ -1,3 +1,3 @@
-// v1.84 相容入口：完整資料已依年代拆至 assets/data/history/。
+// v1.85 相容入口：完整資料已依年代拆至 assets/data/history/。
 window.TOUCHENG_HISTORY = [];
 window.TOUCHENG_HISTORY_MANIFEST = 'assets/data/history/manifest.json';
