@@ -1,6 +1,7 @@
 # 一般搜尋引擎可正常索引本站。
 User-agent: *
 Allow: /
+Sitemap: https://bigmax-source.github.io/TouCheng/sitemap.xml
 
 # 拒絕已知的 AI 模型訓練與大量資料擷取爬蟲。
 User-agent: GPTBot
