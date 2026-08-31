@@ -13,7 +13,15 @@ window.TOUCHENG_STORIES = [
       "頭城",
       "頂埔"
     ],
-    "related": "1917 宜蘭線鐵路通車、1925 草嶺隧道竣工"
+    "related": "1917 宜蘭線鐵路通車、1925 草嶺隧道竣工",
+    "listType": "places",
+    "relatedStories": [
+      {
+        "id": "2025-12-jingdao-no41-toucheng-five-fishing-rail",
+        "title": "從石城到烏石港：臺鐵《靚道》記錄的頭城五漁鐵",
+        "note": "五個濱海小站如何與漁港形成「五漁鐵」路線。"
+      }
+    ]
   },
   {
     "id": "betel-nut-shops",
@@ -38,7 +46,20 @@ window.TOUCHENG_STORIES = [
       "梗枋",
       "烏石漁港"
     ],
-    "related": "1836 烏石港奉准設為正港口、2001 烏石港局部啟用"
+    "related": "1836 烏石港奉准設為正港口、2001 烏石港局部啟用",
+    "listType": "places",
+    "relatedStories": [
+      {
+        "id": "2025-12-jingdao-no41-toucheng-five-fishing-rail",
+        "title": "從石城到烏石港：臺鐵《靚道》記錄的頭城五漁鐵",
+        "note": "從五組車站與漁港重新閱讀頭城海岸。"
+      },
+      {
+        "id": "daxi-fishing-harbor-environmental-fleet",
+        "title": "把魚帶回來，也把垃圾帶回來：大溪漁港的「環保艦隊」",
+        "note": "大溪漁港的當代漁業與海洋環境行動。"
+      }
+    ]
   },
   {
     "id": "lym-orchard",
@@ -46,7 +67,14 @@ window.TOUCHENG_STORIES = [
     "title": "蘭陽博物館以前，是一片果園",
     "content": "蘭陽博物館於 2004 年 8 月開工、2010 年 5 月試營運；這座地景建築的前身，是一大片芭樂園與柚子樹。",
     "list": [],
-    "related": "2010 蘭陽博物館正式開幕"
+    "related": "2010 蘭陽博物館正式開幕",
+    "relatedStories": [
+      {
+        "id": "lanyang-museum-construction-revival-issue-047",
+        "title": "從停工到上樑：蘭陽博物館的建館波折",
+        "note": "從果園前身延伸閱讀博物館建館歷程。"
+      }
+    ]
   },
   {
     "id": "xiangjicheng",
@@ -70,7 +98,8 @@ window.TOUCHENG_STORIES = [
       "陳建嘉（富邦籃球隊、宜中教練、頭中教練）",
       "張宗憲（富邦勇士隊、台灣噴射機）"
     ],
-    "related": "人物索引待建立"
+    "related": "人物索引待建立",
+    "listType": "people"
   },
   {
     "id": "late-night-soy-milk",
@@ -98,7 +127,8 @@ window.TOUCHENG_STORIES = [
       "林才添（1960–1964）",
       "呂國華（2005–2009）"
     ],
-    "related": "1951 頭城第一屆民選鎮長盧纘祥就職"
+    "related": "1951 頭城第一屆民選鎮長盧纘祥就職",
+    "listType": "people"
   },
   {
     "id": "qingyun-road-safety",
@@ -176,7 +206,8 @@ window.TOUCHENG_STORIES = [
     ],
     "related": "頭城車站、頭城文創園區、莊漢川",
     "source": "蘭陽博物館電子報第76期〈文創頭圍園區〉",
-    "sourceUrl": "https://www.lym.gov.tw/ch/collection/epaper/epaper-detail/Page1760000812893/"
+    "sourceUrl": "https://www.lym.gov.tw/ch/collection/epaper/epaper-detail/Page1760000812893/",
+    "listType": "highlights"
   },
   {
     "id": "1924-toucheng-flood",
@@ -193,7 +224,8 @@ window.TOUCHENG_STORIES = [
     "imageAlt": "莊漢川整理1924年頭圍水患與臺灣日日新報史料的圖文",
     "imageCaption": "資料整理：莊漢川；報紙史料：1924年《臺灣日日新報》。",
     "source": "莊漢川地方文史整理、蘭陽博物館電子報第166期",
-    "sourceUrl": "https://www.lym.gov.tw/ch/collection/epaper/epaper-detail/c4cdca87-31d9-11ef-a1c3-2760f1289ae7/"
+    "sourceUrl": "https://www.lym.gov.tw/ch/collection/epaper/epaper-detail/c4cdca87-31d9-11ef-a1c3-2760f1289ae7/",
+    "listType": "highlights"
   },
   {
     "id": "changgung-medical-shuttle",
@@ -207,7 +239,8 @@ window.TOUCHENG_STORIES = [
     ],
     "related": "1980濱海公路通車、2006-06-16雪山隧道通車、頭城對外交通",
     "source": "頭城居民生活記憶與家藏名片",
-    "sourceUrl": "https://www.loungehotel.com.tw/about"
+    "sourceUrl": "https://www.loungehotel.com.tw/about",
+    "listType": "highlights"
   },
   {
     "id": "kailan-road-then-now",
@@ -220,7 +253,14 @@ window.TOUCHENG_STORIES = [
     "imageAlt": "手持開蘭路舊照片與2019年現地街景重疊拍攝",
     "imageCaption": "新舊開蘭路街景疊合，攝於金魚厝邊主辦《2019頭城老街文化藝術季：生活這樣也可以》；舊照年代及攝影者待補。",
     "source": "金魚厝邊主辦《2019頭城老街文化藝術季》",
-    "sourceUrl": "https://www.facebook.com/goldfishspace"
+    "sourceUrl": "https://www.facebook.com/goldfishspace",
+    "relatedStories": [
+      {
+        "id": "2002-toucheng-old-street-port-to-market",
+        "title": "從港口到街市：頭城老街的形成",
+        "note": "從道路今昔延伸閱讀港口、街市與交通變遷。"
+      }
+    ]
   },
   {
     "id": "toucheng-junior-high-blue-breakfast-truck",
@@ -236,7 +276,8 @@ window.TOUCHENG_STORIES = [
     "image": "assets/images/stories/blue-breakfast-truck.jpg",
     "imageAlt": "曾陪伴頭城國中學生上課歲月的藍色早餐車",
     "imageCaption": "藍色早餐車退休前的身影；照片由頭城二三事提供。",
-    "source": "頭城二三事地方生活記錄（使用者提供）"
+    "source": "頭城二三事地方生活記錄（使用者提供）",
+    "listType": "highlights"
   },
   {
     "id": "toucheng-station-limited-cap",
@@ -253,7 +294,8 @@ window.TOUCHENG_STORIES = [
     "image": "assets/images/stories/toucheng-station-limited-cap.jpg",
     "imageAlt": "頭城車站限定販售的黑色臺鐵車站帽",
     "imageCaption": "頭城限定臺鐵車站帽，現已售完；照片由頭城二三事提供。",
-    "source": "頭城二三事地方生活記錄（使用者提供）"
+    "source": "頭城二三事地方生活記錄（使用者提供）",
+    "listType": "highlights"
   },
   {
     "id": "kailan-road-parking-skills",
@@ -269,7 +311,8 @@ window.TOUCHENG_STORIES = [
     "image": "assets/images/stories/kailan-road-parking-skills.jpg",
     "imageAlt": "開蘭路上一輛斜停於店家前方的汽車",
     "imageCaption": "開蘭路的日常停車風景，攝於2025年10月13日；照片由頭城二三事提供。",
-    "source": "頭城二三事地方生活記錄（使用者提供）"
+    "source": "頭城二三事地方生活記錄（使用者提供）",
+    "listType": "highlights"
   },
   {
     "id": "yuanshengyuan-breakfast-temporary-closure",
@@ -288,7 +331,8 @@ window.TOUCHENG_STORIES = [
     "image": "assets/images/stories/yuanshengyuan-breakfast-storefront.jpg",
     "imageAlt": "緣生緣早午餐位於復興路的店面",
     "imageCaption": "《緣生緣早午餐》復興路店面；照片由頭城二三事提供。",
-    "source": "《緣生緣早午餐》公休公告、頭城二三事地方生活記錄（使用者提供）"
+    "source": "《緣生緣早午餐》公休公告、頭城二三事地方生活記錄（使用者提供）",
+    "listType": "highlights"
   },
   {
     "id": "2013-toucheng-surewell-memory",
@@ -305,7 +349,8 @@ window.TOUCHENG_STORIES = [
     "image": "assets/images/stories/2013-toucheng-surewell.jpg",
     "imageAlt": "2013年的頭城喜互惠量販店外觀與批發量販招牌",
     "imageCaption": "2013年的頭城喜互惠；照片由頭城二三事提供。",
-    "source": "頭城二三事地方生活記錄（使用者提供）"
+    "source": "頭城二三事地方生活記錄（使用者提供）",
+    "listType": "highlights"
   },
   {
     "id": "kailan-road-jinxiang-video-rental",
@@ -323,7 +368,8 @@ window.TOUCHENG_STORIES = [
     "image": "assets/images/stories/kailan-road-jinxiang-video-rental.jpg",
     "imageAlt": "雨中的開蘭路街景與金象錄影帶舊址所在建築",
     "imageCaption": "開蘭路《金象錄影帶》舊址所在建築，現為《一元自助餐》；照片由頭城二三事提供。",
-    "source": "頭城二三事地方生活記錄（使用者提供）"
+    "source": "頭城二三事地方生活記錄（使用者提供）",
+    "listType": "highlights"
   },
   {
     "id": "kailan-road-quanguo-supermarket",
@@ -341,7 +387,8 @@ window.TOUCHENG_STORIES = [
     "image": "assets/images/stories/kailan-road-quanguo-supermarket.jpg",
     "imageAlt": "雨天拍攝的開蘭路全國超市店面與黃色鐵捲門",
     "imageCaption": "雨中的開蘭路《全國超市》；照片由頭城二三事提供。",
-    "source": "頭城二三事地方生活記錄（使用者提供）"
+    "source": "頭城二三事地方生活記錄（使用者提供）",
+    "listType": "highlights"
   },
   {
     "id": "qingyuan-temple-stone-lion-pickup",
@@ -358,7 +405,8 @@ window.TOUCHENG_STORIES = [
     "image": "assets/images/stories/qingyuan-temple-stone-lion-pickup.png",
     "imageAlt": "頭城媽祖廟前一座嘴巴微張的石獅",
     "imageCaption": "頭城媽祖廟前的石獅，鄉親曾以獅口作為社群約定的小物交接點；照片由頭城二三事提供。",
-    "source": "頭城二三事 LINE 互助社群地方生活記錄（使用者提供）"
+    "source": "頭城二三事 LINE 互助社群地方生活記錄（使用者提供）",
+    "listType": "highlights"
   },
   {
     "id": "2023-06-05-macu-tea-qingyun-road",
@@ -371,26 +419,14 @@ window.TOUCHENG_STORIES = [
       "個人記憶：最有記憶點的是金萱雙Q"
     ],
     "related": "麻古茶坊、青雲路、飲料店、店家記憶、頭城生活",
-    "source": "頭城二三事地方生活記錄（使用者提供）"
+    "source": "頭城二三事地方生活記錄（使用者提供）",
+    "listType": "highlights"
   },
   {
     "id": "2025-04-15-diaoying-pond-xiapu",
     "category": "生態與地方",
     "title": "釣鷹池下埔：從稻田、魚塭到賞鳥地景",
     "content": "頭城的下埔，不只是地圖上的一個聚落名稱，也是一片和農田、魚塭、濕地與鳥類生活緊密交織的地方。\n\n《噶瑪蘭ㄟ花蕊》第214期刊載賴友梅的〈釣鷹池下埔〉，記錄社區大學「鳥類認識與觀察」課程走進下埔與釣鷹池的觀察。文章提到，釣鷹池因附近有釣鷹橋而得名，周邊可見許多鳥類活動；學員也在池畔認識榕樹、鳥榕、鳳凰木等植物，以及池邊聚集的水鳥。\n\n下埔本身則是一個地勢較低、與水環境關係密切的聚落。文章描述，頂埔地勢較高，下埔較低，過去因海水倒灌而形成「塭仔」、「坔仔」等濕地環境。居民早年以種稻與漁業維生，稻田休耕時，還會利用鴨母船牽繩、在魚多處放網捕魚，農耕、捕魚與養殖彼此交錯。\n\n隨著產業與土地利用改變，部分土地後來規劃為養殖漁業生態區，但養殖因病害與經營不易，也逐步轉向休閒養殖、釣魚與賞鳥。文章並提到，2012年生態學者在下埔發現紫鷺繁殖，之後社區也逐漸發展賞鳥與家庭班等生態活動。\n\n從稻田、魚塭，到今天的賞鳥與生態觀察，下埔留下的不只是自然景觀，也是一段地方生產方式持續轉變的生活歷史。",
-    "list": [
-      "下埔",
-      "釣鷹池",
-      "福聖廟",
-      "濕地",
-      "賞鳥",
-      "紫鷺",
-      "農業",
-      "漁業",
-      "養殖",
-      "地方生態",
-      "社區大學"
-    ],
     "related": "2025年4月15日",
     "image": "assets/images/stories/diaoying-pond-xiapu/kavalan-flower-214-cover.jpg",
     "imageAlt": "《噶瑪蘭ㄟ花蕊》第214期，2025年4月15日出版。",
@@ -413,6 +449,34 @@ window.TOUCHENG_STORIES = [
         "alt": "文章續頁，整理下埔聚落、自然環境、農漁生產與養殖轉型。",
         "caption": "文章續頁，整理下埔聚落、自然環境、農漁生產與養殖轉型。 來源：使用者提供之紙本刊物照片"
       }
+    ],
+    "listType": "tags",
+    "tags": [
+      "濕地",
+      "賞鳥",
+      "紫鷺",
+      "農業",
+      "漁業",
+      "養殖",
+      "養殖地景"
+    ],
+    "relatedPlaces": [
+      {
+        "name": "下埔"
+      },
+      {
+        "name": "釣鷹池"
+      },
+      {
+        "name": "福聖廟"
+      }
+    ],
+    "relatedStories": [
+      {
+        "id": "undated-zhuan-wetland-birdwatching",
+        "title": "竹安濕地：魚塭、水田與候鳥共同形成的賞鳥地景",
+        "note": "從聚落與土地使用延伸到濕地空間、候鳥季節與代表鳥種。"
+      }
     ]
   },
   {
@@ -420,63 +484,110 @@ window.TOUCHENG_STORIES = [
     "category": "地理與交通",
     "title": "從石城到烏石港：臺鐵《靚道》記錄的頭城五漁鐵",
     "content": "2025年12月，國營臺灣鐵路股份有限公司出版《靚道》第41期，以「開蘭第一城，眷戀五漁鐵」為主題介紹頭城。這份刊物沒有只把頭城車站當成一個上下車的地方，而是沿著宜蘭線向北延伸，把石城、大里、大溪、龜山、外澳等濱海小站，以及石城、大里、大溪、梗枋、烏石等漁港，重新串成一條山海與鐵道交會的地方路線。\n\n刊物也回顧頭城車站自1920年「頭圍驛」設站、1948年改稱頭城車站、1962年改建磚造站房，到2015年重新整建的歷程，並刊出1940年代木造站房舊照。\n\n另一個重要主題是2023年宜蘭縣政府推出的「頭城五漁鐵 Slow Coast」。計畫沿著約21公里的海岸與鐵路，串聯五處漁村聚落及周邊景點，將原本容易被視為交通節點的小站，轉化為閱讀漁港、社區、產業與地方創生的入口。\n\n因此，這一期《靚道》本身也成為一份值得保存的當代地方紀錄：它呈現2020年代中期的頭城，如何以「鐵路＋漁村＋海岸」重新組織自己的觀光與地方敘事。",
-    "list": [
-      "靚道",
+    "related": "主題閱讀／鐵道文化與漁村",
+    "source": "國營臺灣鐵路股份有限公司《靚道》No.41，2025年12月",
+    "editorialObservation": "《靚道》第41期有意思的地方，是它把頭城的鐵路重新放回海岸聚落裡。石城、大里、大溪、龜山、外澳不再只是列車經過的小站，而分別連向漁港、古道、漁業、生態、食魚教育、衝浪與地方創生。從這個角度看，「頭城五漁鐵」其實是一種2020年代重新閱讀頭城海岸的方法：以鐵路作為骨架，把原本分散的漁村重新串成一條地方旅行與地方認識的路線。",
+    "listType": "tags",
+    "tags": [
       "頭城五漁鐵",
       "Slow Coast",
       "臺灣鐵路",
-      "頭城車站",
-      "石城車站",
-      "大里車站",
-      "大溪車站",
-      "龜山車站",
-      "外澳車站",
-      "石城漁港",
-      "大里漁港",
-      "大溪漁港",
-      "梗枋漁港",
-      "烏石港",
       "鐵道文化",
       "漁村",
       "地方觀光"
     ],
-    "related": "主題閱讀／鐵道文化與漁村",
-    "source": "國營臺灣鐵路股份有限公司《靚道》No.41，2025年12月",
-    "editorialObservation": "《靚道》第41期有意思的地方，是它把頭城的鐵路重新放回海岸聚落裡。石城、大里、大溪、龜山、外澳不再只是列車經過的小站，而分別連向漁港、古道、漁業、生態、食魚教育、衝浪與地方創生。從這個角度看，「頭城五漁鐵」其實是一種2020年代重新閱讀頭城海岸的方法：以鐵路作為骨架，把原本分散的漁村重新串成一條地方旅行與地方認識的路線。"
+    "relatedPlaces": [
+      {
+        "name": "頭城車站",
+        "url": "map.html#place-toucheng-station"
+      },
+      {
+        "name": "石城車站"
+      },
+      {
+        "name": "大里車站"
+      },
+      {
+        "name": "大溪車站"
+      },
+      {
+        "name": "龜山車站"
+      },
+      {
+        "name": "外澳車站"
+      },
+      {
+        "name": "石城漁港"
+      },
+      {
+        "name": "大里漁港"
+      },
+      {
+        "name": "大溪漁港"
+      },
+      {
+        "name": "梗枋漁港"
+      },
+      {
+        "name": "烏石港",
+        "url": "map.html#place-wushih-harbor"
+      }
+    ],
+    "relatedStories": [
+      {
+        "id": "seven-railway-stations",
+        "title": "七個臺鐵車站，串起頭城的海岸線",
+        "note": "認識串起頭城海岸的七座臺鐵車站。"
+      },
+      {
+        "id": "eight-fishing-harbors",
+        "title": "八個漁港，面向同一片太平洋",
+        "note": "認識頭城沿海的八座漁港。"
+      },
+      {
+        "id": "daxi-fishing-harbor-environmental-fleet",
+        "title": "把魚帶回來，也把垃圾帶回來：大溪漁港的「環保艦隊」",
+        "note": "閱讀大溪漁港漁民把海廢帶回港內的日常。"
+      }
+    ]
   },
   {
     "id": "2026-08-toucheng-station-flower-area-black-cat",
-    "category": "地方生活",
+    "category": "生活與日常",
     "title": "頭城車站的花卉培養區，偶爾也培養出一隻貓",
     "content": "頭城車站裡有一處掛著「花卉培養區」的小空間，沿著通道望進去，兩旁種著不少植物。\n\n不過這天最搶戲的不是花。\n\n一隻黑貓就這樣大剌剌地躺在通道中央，彷彿這裡本來就是牠的休息區。\n\n不知道牠只是路過，還是偶爾會來這裡巡田水；照片能確定的只有，那一天的「花卉培養區」，除了花草，也多了一位不請自來的黑色訪客。\n\n頭城有些有趣的地方，不一定需要特別安排。只是走過車站的一個轉角，就可能剛好碰見。",
-    "list": [
-      "頭城車站",
-      "花卉培養區",
-      "貓",
-      "車站日常",
-      "地方生活",
-      "動物"
-    ],
     "related": "2026年8月／拍攝日期待確認",
     "image": "assets/images/stories/toucheng-station/flower-area-black-cat.jpg",
     "imageAlt": "頭城車站「花卉培養區」入口，一隻黑貓正悠閒躺在植栽通道中，成了當天最吸睛的「訪客」。",
     "imageCaption": "頭城車站「花卉培養區」入口，一隻黑貓正悠閒躺在植栽通道中，成了當天最吸睛的「訪客」。 來源：使用者提供之地方生活紀錄照片",
     "source": "使用者提供照片與地方觀察",
-    "editorialObservation": "地方記憶往往出現在計畫之外。一隻偶然躺在車站角落的黑貓，或許沒有任何重大意義，卻能成為某一天經過頭城車站的人最清楚的記憶。"
+    "editorialObservation": "地方記憶往往出現在計畫之外。一隻偶然躺在車站角落的黑貓，或許沒有任何重大意義，卻能成為某一天經過頭城車站的人最清楚的記憶。",
+    "listType": "tags",
+    "tags": [
+      "花卉培養區",
+      "貓",
+      "車站日常",
+      "動物"
+    ],
+    "relatedPlaces": [
+      {
+        "name": "頭城車站",
+        "url": "map.html#place-toucheng-station"
+      }
+    ],
+    "relatedStories": [
+      {
+        "id": "2026-08-toucheng-station-passenger-message-board",
+        "title": "頭城車站有一塊，每次看都不一樣的留言板",
+        "note": "同一座車站裡，另一則容易被忽略的日常風景。"
+      }
+    ]
   },
   {
     "id": "2026-08-toucheng-station-passenger-message-board",
-    "category": "旅行記憶",
+    "category": "生活與日常",
     "title": "頭城車站有一塊，每次看都不一樣的留言板",
     "content": "頭城車站裡有一塊「旅客留言板」，每次經過，黑板上的內容幾乎都不太一樣。\n\n有人留下名字和日期，有人畫愛心、人物和小動物，也有人只是寫下一句「到此一遊」。一筆一畫都算不上什麼重大歷史，過一陣子甚至可能被擦掉，再換下一批旅人的留言。\n\n幾個星期後再回到同一塊黑板，原本的名字、圖畫與祝福多半已經改變。這塊留言板最有趣的地方，也許正是它沒有一個完成版本。\n\n但也正因如此，這塊黑板很有意思。\n\n它記錄的不是車站的大事，而是每天短暫停留在頭城的人。有人剛下火車，有人準備離開，有人只是突然想拿起粉筆，在這座小鎮留下幾個字。\n\n下次經過頭城車站，不妨再看一眼。也許昨天的留言已經不見了，但又有人留下新的故事。",
-    "list": [
-      "頭城車站",
-      "旅客留言板",
-      "鐵路",
-      "旅行",
-      "地方生活",
-      "旅人記憶"
-    ],
     "related": "2026年8月／拍攝日期待確認",
     "image": "assets/images/stories/toucheng-station/passenger-message-board-2026-07.jpg",
     "imageAlt": "2026年7月底的頭城車站「旅客留言板」，畫面可見7月26日、7月28日等日期，以及旅客留下的圖畫、短句與到此一遊式記號。",
@@ -494,151 +605,286 @@ window.TOUCHENG_STORIES = [
         "alt": "幾個星期後，同一塊旅客留言板已換上不同的姓名、日期、圖畫與祝福，呈現黑板持續被旅人重新書寫的特性。",
         "caption": "幾個星期後，同一塊旅客留言板已換上不同的姓名、日期、圖畫與祝福，呈現黑板持續被旅人重新書寫的特性。 來源：使用者提供之地方生活紀錄照片"
       }
+    ],
+    "listType": "tags",
+    "tags": [
+      "旅客留言板",
+      "鐵路",
+      "旅行",
+      "旅人記憶"
+    ],
+    "relatedPlaces": [
+      {
+        "name": "頭城車站",
+        "url": "map.html#place-toucheng-station"
+      }
+    ],
+    "relatedStories": [
+      {
+        "id": "2026-08-toucheng-station-flower-area-black-cat",
+        "title": "頭城車站的花卉培養區，偶爾也培養出一隻貓",
+        "note": "同一座車站裡，另一則偶然留下的生活記憶。"
+      }
     ]
   },
   {
     "id": "2026-09-13-corner-intestine-vermicelli-life-history",
-    "category": "地方生活",
+    "category": "生活與日常",
     "title": "從一台攤車到青雲路店面：轉角大腸麵線的七年",
     "content": "頭城青雲路上的「轉角大腸麵線」，最初並不是一間完整店面，而是從街邊小攤車開始。\n\n隨著經營逐漸穩定，轉角大腸麵線後來在青雲路擁有自己的店面，也從地方早餐、小吃攤，慢慢成為不少居民與旅客認識的頭城味道。店家以大腸麵線、赤肉麵線等為主，也曾因皮蛋油條麵線等較具特色的搭配受到媒體注意。\n\n《食尚玩家》曾介紹這家頭城小吃，官方店家資料記錄其地址為宜蘭縣頭城鎮青雲路3段242號；2025年《2天1夜go》節目中，也曾由納豆、曾子余、梁舒涵等人造訪介紹。使用者提供的資料亦記錄，2022年《魚肉鄉民》曾將其列入頭城隱藏小吃介紹。\n\n2026年8月30日，店家在自己的粉絲專頁宣布「轉角要換下一個人生階段」，並預告2026年9月13日為最後營業日。公告中感謝顧客近7年來的照顧，也為這段店家生活留下告別。\n\n從一台小攤車，到有自己的店面，再到電視節目鏡頭裡的頭城小吃，轉角大腸麵線留下的不只是某一碗麵線的味道，也是2010年代末至2020年代頭城街頭飲食生活的一小段記憶。",
-    "list": [
-      "轉角大腸麵線",
-      "青雲路",
-      "頭城小吃",
-      "麵線",
-      "店家記憶",
-      "攤車",
-      "食尚玩家",
-      "地方飲食",
-      "開店與歇業",
-      "2026"
-    ],
     "related": "地方飲食／店家生命史",
     "image": "assets/images/stories/corner-intestine-vermicelli/closing-announcement-2026-08-30.jpg",
     "imageAlt": "轉角大腸麵線公告將於9月13日畢業的告別視覺",
     "imageCaption": "轉角大腸麵線於2026年8月30日發布的畢業公告視覺。來源：轉角大腸麵線官方粉絲專頁。圖中攤車與店面場景僅為公告視覺，不作為早期攤車實際外觀的歷史證據。",
     "source": "轉角大腸麵線官方粉絲專頁，2026-08-30；《食尚玩家》採訪資料",
-    "sourceUrl": "https://www.youtube.com/watch?v=Rs-kt5Oiz4I",
-    "editorialObservation": "地方生活的改變，常常不是從大型建設或重大事件才看得出來。有時只是一間每天早上經過的店，某一天突然貼出「最後營業日」。轉角大腸麵線從小攤車走到實體店面，曾被電視節目介紹，也陪伴頭城近7年的早餐與小吃時光。它的結束不一定會被寫進地方志，但對曾經坐下來吃過一碗麵線的人來說，那就是一段很具體的頭城記憶。"
+    "sourceLinks": [
+      {
+        "label": "YouTube採訪片段／相關觀看",
+        "url": "https://www.youtube.com/watch?v=Rs-kt5Oiz4I"
+      }
+    ],
+    "editorialObservation": "地方生活的改變，常常不是從大型建設或重大事件才看得出來。有時只是一間每天早上經過的店，某一天突然貼出「最後營業日」。轉角大腸麵線從小攤車走到實體店面，曾被電視節目介紹，也陪伴頭城近7年的早餐與小吃時光。它的結束不一定會被寫進地方志，但對曾經坐下來吃過一碗麵線的人來說，那就是一段很具體的頭城記憶。",
+    "listType": "tags",
+    "tags": [
+      "頭城小吃",
+      "麵線",
+      "店家記憶",
+      "攤車",
+      "地方飲食",
+      "開店與歇業"
+    ],
+    "relatedPlaces": [
+      {
+        "name": "轉角大腸麵線",
+        "note": "實體店面：青雲路三段242號；公告最後營業日為2026年9月13日"
+      }
+    ]
   },
   {
     "id": "undated-toucheng-agriculture-fishery-house-photo",
     "category": "地方舊影像",
     "title": "曾經的頭城農漁之家",
     "content": "這張老照片留下了頭城「農漁之家」曾經的建築樣貌。\n\n從照片中可以看見，建築立面具有相當鮮明的垂直線條與中央入口，正面上方仍可辨識「農漁之家」字樣。停放在建築前方的車輛，也讓照片保留了拍攝當時的生活尺度。\n\n目前這張照片的確切拍攝年份、建築沿革與使用歷史仍待進一步考證，因此本典藏暫時先以「地方舊影像」保存。\n\n有些地方的記憶，未必一開始就有完整答案。先把照片留下來，日後若找到文件、新聞或居民記憶，再慢慢把故事補回去。",
-    "list": [
-      "農漁之家",
-      "頭城舊影像",
-      "地方舊影像",
-      "地方建築",
-      "地方生活",
-      "農漁業",
-      "老照片"
-    ],
     "related": "年代待考",
     "image": "assets/images/stories/local-archive/toucheng-agriculture-fishery-house.jpg",
     "imageAlt": "頭城「農漁之家」舊照片。確切拍攝年代與建築沿革目前待考。",
     "imageCaption": "頭城「農漁之家」舊照片。確切拍攝年代與建築沿革目前待考。 照片提供：彭瑞義 來源：彭瑞義提供之頭城舊照片",
     "source": "照片提供｜彭瑞義",
-    "editorialObservation": "地方記憶的建立，不一定要等所有資料查齊才開始。一張確定地點與名稱的舊照片，本身就是一份史料。先保存影像、清楚標示未知之處，再等待日後的文獻與居民記憶逐步補足，比為了填滿欄位而猜測年代更重要。"
+    "editorialObservation": "地方記憶的建立，不一定要等所有資料查齊才開始。一張確定地點與名稱的舊照片，本身就是一份史料。先保存影像、清楚標示未知之處，再等待日後的文獻與居民記憶逐步補足，比為了填滿欄位而猜測年代更重要。",
+    "listType": "tags",
+    "tags": [
+      "地方建築",
+      "農漁業",
+      "老照片"
+    ],
+    "relatedPlaces": [
+      {
+        "name": "農漁之家",
+        "note": "既有地方地圖尚無對應條目"
+      }
+    ]
   },
   {
     "id": "undated-toucheng-daqian-theater-photo",
     "category": "地方舊影像",
     "title": "頭城曾經有一座大千戲院",
     "content": "這張照片記錄的是頭城「大千戲院」曾經的外觀。\n\n從畫面可以看見，戲院正面採取對稱式立面，中間入口上方排列著明顯的垂直構件，建築前方仍保留相當開闊的空間。\n\n對現在習慣手機、串流影音與複合式影城的人來說，「鎮上有一間戲院」本身就是另一個時代的生活風景。電影不只是娛樂，也曾經是地方居民相約、聚集與消磨時間的重要方式。\n\n不過目前照片的確切拍攝年份、大千戲院的開幕與歇業時間，以及經營歷史仍待查證，因此本典藏先保存這張影像本身，不自行補寫尚未確認的年代。",
-    "list": [
-      "大千戲院",
-      "頭城舊影像",
-      "地方舊影像",
-      "戲院",
-      "娛樂生活",
-      "地方建築",
-      "老照片"
-    ],
     "related": "年代待考",
     "image": "assets/images/stories/local-archive/toucheng-daqian-theater.jpg",
     "imageAlt": "頭城「大千戲院」舊照片。確切拍攝日期、營業年代及建築沿革仍待後續考證。",
     "imageCaption": "頭城「大千戲院」舊照片。確切拍攝日期、營業年代及建築沿革仍待後續考證。 照片提供：彭瑞義 來源：彭瑞義提供之頭城舊照片",
     "source": "照片提供｜彭瑞義",
-    "editorialObservation": "地方記憶的建立，不一定要等所有資料查齊才開始。一張確定地點與名稱的舊照片，本身就是一份史料。先保存影像、清楚標示未知之處，再等待日後的文獻與居民記憶逐步補足，比為了填滿欄位而猜測年代更重要。"
+    "editorialObservation": "地方記憶的建立，不一定要等所有資料查齊才開始。一張確定地點與名稱的舊照片，本身就是一份史料。先保存影像、清楚標示未知之處，再等待日後的文獻與居民記憶逐步補足，比為了填滿欄位而猜測年代更重要。",
+    "listType": "tags",
+    "tags": [
+      "戲院",
+      "娛樂生活",
+      "地方建築",
+      "老照片"
+    ],
+    "relatedPlaces": [
+      {
+        "name": "大千戲院",
+        "note": "既有地方地圖尚無對應條目"
+      }
+    ]
   },
   {
     "id": "undated-zhuan-wetland-birdwatching",
     "category": "生態與地方",
     "title": "竹安濕地：魚塭、水田與候鳥共同形成的賞鳥地景",
     "content": "竹安濕地並不是單一池塘，而是一大片鄰近海濱的濕地與農漁生產地景。宜蘭縣政府與宜蘭縣野鳥學會製作的《竹安濕地觀鳥》摺頁，將這片區域描述為涵蓋下埔、塭底、釣鷹池、大竹圍等地的廣大濕地群。下埔原名竹安，後來為了與海邊的竹安溪口區分而稱為下埔；這裡早年曾是一大片沼澤，冬季有大量野鴨前來度冬，後來隨養殖專業區開發，大沼澤被切分成一座座魚塭，鳥類棲息環境也隨之改變。即使如此，下埔與塭底仍因水田、魚塭、河口與淺水域交錯，保有多樣的鳥類棲地。每年秋冬到翌年春季，水鴨、鷺科與鷸鴴類等候鳥陸續出現在這片地景。從農田、魚塭到賞鳥區，竹安濕地呈現的不是「自然」與「人為」二選一，而是一片長期由農漁生產、水環境與野生動物共同塑造的地方地景。",
-    "list": [
-      "竹安濕地",
-      "下埔",
-      "塭底",
-      "釣鷹池",
-      "竹安",
-      "大竹圍",
+    "related": "相關閱讀：釣鷹池下埔：從稻田、魚塭到賞鳥地景",
+    "source": "《竹安濕地觀鳥》，宜蘭縣政府、宜蘭縣野鳥學會；出版日期待確認",
+    "editorialObservation": "竹安濕地很有意思的地方，在於它並不是一片完全沒有人工介入的「原始自然」。早年的沼澤被開發成養殖魚塭，水田、魚塭、河口與廢耕地重新排列了水域環境，也因此讓不同鳥種找到新的停棲位置。這片地景同時留下兩種歷史：一種是頭城沿海居民如何利用土地與水域生產；另一種則是候鳥如何在這些被改變過的土地上繼續生活。",
+    "listType": "tags",
+    "tags": [
       "魚塭",
       "水田",
       "濕地",
       "候鳥",
       "賞鳥",
-      "紫鷺",
-      "宜蘭縣野鳥學會"
+      "紫鷺"
     ],
-    "related": "相關閱讀：釣鷹池下埔：從稻田、魚塭到賞鳥地景",
-    "source": "《竹安濕地觀鳥》，宜蘭縣政府、宜蘭縣野鳥學會；出版日期待確認",
-    "editorialObservation": "竹安濕地很有意思的地方，在於它並不是一片完全沒有人工介入的「原始自然」。早年的沼澤被開發成養殖魚塭，水田、魚塭、河口與廢耕地重新排列了水域環境，也因此讓不同鳥種找到新的停棲位置。這片地景同時留下兩種歷史：一種是頭城沿海居民如何利用土地與水域生產；另一種則是候鳥如何在這些被改變過的土地上繼續生活。"
+    "relatedPlaces": [
+      {
+        "name": "竹安濕地"
+      },
+      {
+        "name": "下埔"
+      },
+      {
+        "name": "塭底"
+      },
+      {
+        "name": "釣鷹池"
+      },
+      {
+        "name": "大竹圍"
+      }
+    ],
+    "relatedStories": [
+      {
+        "id": "2025-04-15-diaoying-pond-xiapu",
+        "title": "釣鷹池下埔：從稻田、魚塭到賞鳥地景",
+        "note": "從賞鳥空間回看下埔的聚落、農漁生產與土地變遷。"
+      }
+    ]
   },
   {
     "id": "2002-toucheng-old-street-port-to-market",
     "category": "歷史與記憶",
     "title": "從港口到街市：頭城老街的形成",
     "content": "2002年出版的《台灣的老街》將頭城視為蘭陽平原最北端的重要門戶，並從西靠雪山山脈、東臨太平洋的區位，串連早期聚落、山海交通與烏石港。依該書整理，清代以來頭城曾依靠水路與港口發展，烏石港作為蘭陽的重要對外貿易港口，使和平街一帶逐步成為商品集散與街市空間。隨著河道淤積、陸路交通興起，以及日治時期鐵路與公路鋪設，頭城的交通重心逐漸改變，老街原本的商業核心功能也隨之轉型。這段歷史脈絡使頭城老街不只是保存老建築的街道，也是一條可以看見「港口—街市—鐵公路交通」變遷的地方軸線。",
-    "list": [
-      "頭城老街",
-      "和平街",
-      "烏石港",
-      "十三行",
-      "慶元宮",
-      "南北門福德祠"
-    ],
     "related": "頭城老街／港口—街市—鐵公路交通變遷",
     "source": "黃沼元《台灣的老街》，遠足文化，2002年出版",
-    "editorialObservation": "從《台灣的老街》的視角來看，頭城老街的價值不只在單棟歷史建築，而是在於整條街仍能讀出港口、商業、宗教與交通變遷留下的痕跡。烏石港帶來商業繁榮，和平街形成街市；鐵公路興起後，原有港市機能逐漸轉移，而留下的街屋、廟宇與地名則成為今日重新理解頭城發展的線索。"
+    "editorialObservation": "從《台灣的老街》的視角來看，頭城老街的價值不只在單棟歷史建築，而是在於整條街仍能讀出港口、商業、宗教與交通變遷留下的痕跡。烏石港帶來商業繁榮，和平街形成街市；鐵公路興起後，原有港市機能逐漸轉移，而留下的街屋、廟宇與地名則成為今日重新理解頭城發展的線索。",
+    "listType": "tags",
+    "tags": [
+      "港口",
+      "街市",
+      "交通變遷",
+      "街屋",
+      "宗教地景"
+    ],
+    "relatedPlaces": [
+      {
+        "name": "頭城老街",
+        "url": "map.html#place-toucheng-old-street"
+      },
+      {
+        "name": "和平街"
+      },
+      {
+        "name": "烏石港",
+        "url": "map.html#place-wushih-harbor"
+      },
+      {
+        "name": "慶元宮",
+        "url": "map.html#place-qingyuan-temple"
+      },
+      {
+        "name": "南門福德祠",
+        "url": "map.html#place-south-fude-temple"
+      },
+      {
+        "name": "北門福德祠",
+        "url": "map.html#place-north-fude-temple"
+      }
+    ],
+    "relatedStories": [
+      {
+        "id": "kailan-road-then-now",
+        "title": "新舊開蘭路，疊在同一條街上",
+        "note": "從新舊開蘭路的影像，對照老街交通軸線的改變。"
+      }
+    ]
   },
   {
     "id": "lanyang-museum-construction-revival-issue-047",
     "category": "文化與公共建設",
     "title": "從停工到上樑：蘭陽博物館的建館波折",
     "content": "蘭陽博物館的落成並非一路順遂。依蘭陽博物館研究典藏組助理研究員 林正芳整理，宜蘭各界自民國79年（1990）起提出籌設博物館構想，至民國88年（1999）中央核定籌建計畫，總經費約8億9千餘萬元，由中央與宜蘭縣共同編列。建築經公開徵選後，由姚仁喜建築師領導的大元聯合建築師事務所負責設計監造，以東北角海岸常見的「單面山」地景作為建築意象；主體工程在民國93年（2004）第三次招標後完成發包，並於8月2日開工。工程於民國94年（2005）8月23日因承包商無預警停工而陷入危機，縣府其後終止契約，並面臨重新結算、重新發包與相關損失。依林正芳文章中的粗估，停工期間相關財務損失約4千7百萬元。工程後來重新推動，於民國97年（2008）4月2日辦理上樑典禮。文章以「起死回生」形容這段過程，並指出蘭博開館後與頭城舊市區、東北角風景區串聯，形成地方人文旅遊廊道。",
-    "list": [
-      "蘭陽博物館",
-      "烏石港",
-      "頭城舊市區",
-      "單面山",
-      "公共建設"
-    ],
     "related": "蘭陽博物館／烏石港／頭城舊市區",
     "source": "蘭陽博物館電子報第047期｜蘭陽博物館研究典藏組助理研究員 林正芳",
     "sourceUrl": "https://www.lym.gov.tw/ch/collection/epaper/epaper-detail/Page1760000758197/",
-    "editorialObservation": "現在的蘭陽博物館已經成為烏石港旁非常醒目的頭城地標，但林正芳留下的建館紀錄提醒我們，這棟建築並不是從設計圖一路順利蓋到完成。2005年的突然停工，讓工程一度面臨重新結算、發包與追加成本的困境。因此，今天看到的蘭博不只是建築成果，也包含一段公共建設如何在中斷後重新啟動的地方記憶。"
+    "editorialObservation": "現在的蘭陽博物館已經成為烏石港旁非常醒目的頭城地標，但林正芳留下的建館紀錄提醒我們，這棟建築並不是從設計圖一路順利蓋到完成。2005年的突然停工，讓工程一度面臨重新結算、發包與追加成本的困境。因此，今天看到的蘭博不只是建築成果，也包含一段公共建設如何在中斷後重新啟動的地方記憶。",
+    "listType": "tags",
+    "tags": [
+      "單面山",
+      "公共建設",
+      "建館歷程",
+      "文化地景"
+    ],
+    "relatedPlaces": [
+      {
+        "name": "蘭陽博物館",
+        "url": "map.html#place-lanyang-museum"
+      },
+      {
+        "name": "烏石港",
+        "url": "map.html#place-wushih-harbor"
+      },
+      {
+        "name": "頭城老街",
+        "url": "map.html#place-toucheng-old-street",
+        "note": "刊物所述頭城舊市區關聯"
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "蘭陽博物館研究典藏組助理研究員 林正芳",
+        "note": "本篇主要整理者；本站尚無獨立人物頁"
+      }
+    ],
+    "relatedStories": [
+      {
+        "id": "lym-orchard",
+        "title": "蘭陽博物館以前，是一片果園",
+        "note": "回看蘭陽博物館基地尚是果園時的地方記憶。"
+      }
+    ]
   },
   {
     "id": "daxi-fishing-harbor-environmental-fleet",
-    "category": "地方生活",
+    "category": "生活與日常",
     "title": "把魚帶回來，也把垃圾帶回來：大溪漁港的「環保艦隊」",
     "content": "大溪漁港的漁船出海工作，回港時帶回來的不一定只有漁獲。以「海廢船長」黃士洋為主角的影像紀錄，留下當地漁民參與環保艦隊的日常：漁船作業時若遇到海洋廢棄物，便帶回港內過磅、分類與回收。依來源貼文所述，最初僅一、兩艘船參與，後來已有約40艘漁船加入。部分廢棄漁網、塑膠經分類處理後，也可能進入再製利用。這項行動的重要之處，是把海洋環境工作嵌入原本的漁業流程：漁民照常出海、回港，只是多做一步，把海上的垃圾一起帶回來。",
-    "list": [
-      "大溪漁港",
-      "黃士洋",
-      "阿洋船長",
-      "海廢船長",
-      "環保艦隊",
-      "海洋廢棄物",
-      "漁業",
-      "資源回收"
-    ],
     "related": "大溪漁港／漁業與海洋／發布日期待確認",
     "source": "Facebook Reel（使用者提供）",
     "sourceUrl": "https://www.facebook.com/reel/1753587485679217",
-    "editorialObservation": "環保艦隊沒有把「捕魚」和「環保」分成完全不同的工作。漁民原本就要出海，也原本就要回港；多做的一步，是把海上遇到的廢棄物一起帶回來。環境行動因而逐漸成為漁港日常工作的一部分。"
+    "editorialObservation": "環保艦隊沒有把「捕魚」和「環保」分成完全不同的工作。漁民原本就要出海，也原本就要回港；多做的一步，是把海上遇到的廢棄物一起帶回來。環境行動因而逐漸成為漁港日常工作的一部分。",
+    "listType": "tags",
+    "tags": [
+      "環保艦隊",
+      "海洋廢棄物",
+      "漁業",
+      "資源回收",
+      "海洋環境"
+    ],
+    "relatedPlaces": [
+      {
+        "name": "大溪漁港",
+        "note": "既有地方地圖尚無對應條目"
+      }
+    ],
+    "relatedPeople": [
+      {
+        "name": "黃士洋",
+        "note": "海廢船長／阿洋船長；目前僅作故事關鍵人物"
+      }
+    ],
+    "relatedStories": [
+      {
+        "id": "2025-12-jingdao-no41-toucheng-five-fishing-rail",
+        "title": "從石城到烏石港：臺鐵《靚道》記錄的頭城五漁鐵",
+        "note": "把大溪漁港放回頭城濱海車站與漁村的整體路線閱讀。"
+      },
+      {
+        "id": "eight-fishing-harbors",
+        "title": "八個漁港，面向同一片太平洋",
+        "note": "從頭城八座漁港理解大溪漁港所在的海岸脈絡。"
+      }
+    ]
   }
 ];
