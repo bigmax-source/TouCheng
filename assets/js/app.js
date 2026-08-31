@@ -7,7 +7,7 @@ const historyData = Array.isArray(window.TOUCHENG_HISTORY) ? window.TOUCHENG_HIS
 const siteMeta = window.SITE_META || {};
 
 document.querySelectorAll('[data-site-version]').forEach(el=>el.textContent=siteMeta.version || '1.85');
-document.querySelectorAll('[data-site-updated]').forEach(el=>el.textContent=siteMeta.updatedAt || '2026-08-24');
+document.querySelectorAll('[data-site-updated]').forEach(el=>el.textContent=siteMeta.updatedAt || '2026-08-17');
 document.querySelectorAll('[data-history-count]').forEach(el=>el.textContent=siteMeta.historyCount || historyData.length || '—');
 document.querySelectorAll('[data-site-coverage]').forEach(el=>el.textContent=siteMeta.coverage || '—');
 document.querySelectorAll('[data-source-type-count]').forEach(el=>el.textContent=siteMeta.sourceTypeCount || '—');
