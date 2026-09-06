@@ -83,7 +83,7 @@
       const categoryOK = state.category === '全部' || story.category === state.category;
       const haystack = normalize([
         story.title, story.content, story.category, ...(story.list || []), ...(story.tags || []),
-        story.related, story.source, ...(story.relatedPlaces || []).map(item => item.name),
+        story.related, story.source, ...(story.socialEcho?.selectedComments || []).map(item => item.name + ' ' + item.summary), ...(story.relatedPlaces || []).map(item => item.name),
         ...(story.relatedPeople || []).map(item => item.name)
       ].join(' '));
       return categoryOK && (!state.query || haystack.includes(normalize(state.query)));
@@ -102,7 +102,7 @@
       <article class="archive-story-card reveal visible" id="story-card-${esc(story.id)}" tabindex="0" data-story-id="${esc(story.id)}">
         <div class="story-number">${String(stories.indexOf(story)+1).padStart(2,'0')}</div>
         <span class="story-category">${esc(story.category)}</span>
-        <h2>${esc(story.title)}</h2><p>${esc(story.content)}</p>
+        <h2>${esc(story.title)}</h2><p>${esc(story.summary || story.content)}</p>
         <div class="story-card-footer"><span>頭城小故事</span><button type="button" aria-label="閱讀 ${esc(story.title)}">閱讀故事 →</button></div>
       </article>`).join('') : '<div class="empty-state"><h2>找不到故事</h2><p>請換一個關鍵字或分類。</p></div>';
   }
@@ -126,6 +126,9 @@
     text.hidden = false;
     links.innerHTML = unique(sourceLinks, item => item.url).map(item => `<a href="${esc(item.url)}" target="_blank" rel="noopener noreferrer">${esc(item.label || '開啟原始來源')} ↗</a>`).join('');
     links.hidden = !sourceLinks.length;
+    const records = dialog.querySelector('[data-story-source-records]');
+    records.hidden = !story.sourceRecords?.length;
+    records.innerHTML = (story.sourceRecords || []).map(item => `<li>${item.url ? `<a href="${esc(item.url)}" target="_blank" rel="noopener noreferrer">${esc(item.name)} ↗</a>` : `<strong>${esc(item.name)}</strong>`}${item.author || item.date ? `<p>${esc([item.author,item.date].filter(Boolean).join('；'))}</p>` : ''}${item.note ? `<p>${esc(item.note)}</p>` : ''}</li>`).join('');
   }
 
   function renderRelationGroup(selector, items) {
@@ -146,9 +149,23 @@
     dialog.querySelector('[data-story-category]').textContent = story.category;
     dialog.querySelector('[data-story-title]').textContent = story.title;
     dialog.querySelector('[data-story-content]').textContent = story.content;
+    dialog.querySelector('[data-story-content]').hidden = !!story.sections?.length;
+    const sections = dialog.querySelector('[data-story-sections]');
+    sections.hidden = !story.sections?.length;
+    sections.innerHTML = (story.sections || []).map(item => `<section><h3>${esc(item.title)}</h3><p>${esc(item.text)}</p></section>`).join('');
+    const extra = dialog.querySelector('[data-story-extra]');
+    const route = story.evacuationRoute;
+    const education = story.lifeEducationFollowUp;
+    const echo = story.socialEcho;
+    extra.hidden = !route && !education && !echo;
+    extra.innerHTML = (route ? `<section class="story-meta-section"><h3>${esc(route.label)}</h3><p>${esc(route.sourceBasis)}</p><ol class="story-route">${route.steps.map(item => `<li><strong>${esc(item.place)}</strong>${item.travelMode || item.note ? `<span>${esc([item.travelMode,item.note].filter(Boolean).join('；'))}</span>` : ''}</li>`).join('')}</ol></section>` : '')
+      + (education ? `<section class="story-meta-section"><h3>${esc(education.title)}</h3><ul>${education.items.map(item => `<li><time>${esc(item.date)}</time>：${esc(item.description)}</li>`).join('')}</ul></section>` : '')
+      + (echo ? `<section class="story-meta-section story-social-echo"><h3>${esc(echo.title)}</h3><p>${esc(echo.disclaimer)}</p><ol class="story-evidence-layers">${(story.evidenceLayers || []).map(item => `<li><strong>${esc(item.label)}</strong>：${esc(item.records.join('、'))}</li>`).join('')}</ol>${echo.selectedComments.map(item => `<div class="story-memory"><h4>${esc(item.name)}</h4><p class="story-memory-role">${esc(echo.label)}｜${esc(item.role)}</p>${item.shortQuote ? `<blockquote>${esc(item.shortQuote)}</blockquote>` : ''}<p>${esc(item.summary)}</p>${item.conflictNote ? `<p class="story-memory-note">${esc(item.conflictNote)}</p>` : ''}</div>`).join('')}</section>` : '');
     const observationWrap = dialog.querySelector('[data-story-observation-wrap]');
     observationWrap.hidden = !story.editorialObservation;
-    dialog.querySelector('[data-story-observation]').textContent = story.editorialObservation || '';
+    const observation = story.editorialObservation;
+    observationWrap.querySelector('strong').textContent = typeof observation === 'object' ? `${observation.label || '典藏編輯觀察'}｜${observation.title}` : '典藏編輯觀察';
+    dialog.querySelector('[data-story-observation]').textContent = typeof observation === 'object' ? observation.text : observation || '';
 
     const imageWrap = dialog.querySelector('[data-story-image-wrap]');
     const image = dialog.querySelector('[data-story-image]');
@@ -179,6 +196,7 @@
 
     renderRelationGroup('places', relations.places);
     renderRelationGroup('people', relations.people);
+    renderRelationGroup('topics', story.relatedTopics || []);
     renderSource(story);
 
     const permalink = dialog.querySelector('[data-story-link]');
@@ -186,7 +204,8 @@
     permalink.setAttribute('aria-label', `開啟「${story.title}」固定連結`);
     if (updateHash) history.replaceState(null, '', `#${encodeURIComponent(story.id)}`);
     if (!dialog.open) dialog.showModal();
-    dialog.querySelector('[data-dialog-close]').focus();
+    dialog.querySelector('article').scrollTop = 0;
+    dialog.querySelector('[data-dialog-close]').focus({preventScroll:true});
     return true;
   }
 
