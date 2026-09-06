@@ -125,3 +125,19 @@ body{font-family:var(--sans);background:var(--color-paper);color:var(--color-ink
 
 /* v1.82：地方文獻起始頁 */
 .literature-hero{background:linear-gradient(135deg,#ebe8dc,#dfe8df)}.literature-feature{display:grid;grid-template-columns:minmax(230px,340px) minmax(0,1fr);gap:clamp(1.5rem,5vw,4rem);align-items:start}.literature-cover{margin:0;position:sticky;top:92px}.literature-cover img,.literature-reading img{width:100%;border-radius:var(--radius-lg);box-shadow:var(--shadow-lg)}.literature-cover figcaption,.literature-reading figcaption{margin-top:.65rem;color:var(--color-muted);font-size:.76rem;line-height:1.6}.literature-main h2{margin:.25rem 0 1rem;font:900 clamp(2rem,5vw,4rem)/1.1 var(--serif)}.literature-lead{font-size:1.05rem;line-height:1.95}.bibliography-card{display:grid;gap:0;margin:1.5rem 0;border:1px solid var(--color-line);border-radius:var(--radius-lg);overflow:hidden;background:var(--color-paper-strong)}.bibliography-card div{display:grid;grid-template-columns:105px 1fr;gap:1rem;padding:.8rem 1rem;border-bottom:1px solid var(--color-line)}.bibliography-card div:last-child{border-bottom:0}.bibliography-card dt{font-weight:900;color:var(--color-ocean-500)}.bibliography-card dd{margin:0}.literature-actions{display:flex;flex-wrap:wrap;gap:.6rem}.literature-reading{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(260px,.85fr);gap:clamp(1.5rem,5vw,4rem);align-items:center}.literature-reading p{line-height:1.9}.literature-reading figure{margin:0}.literature-index{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem}.literature-index article{padding:1.3rem;border:1px solid var(--color-line);border-radius:var(--radius-lg);background:var(--color-paper-strong)}.literature-index span{color:var(--color-rice);font-size:.76rem;font-weight:900}.literature-index h3{margin:.4rem 0 .6rem;font:900 1.2rem var(--serif)}.literature-index p{color:var(--color-muted);line-height:1.7}.literature-note{display:grid;grid-template-columns:minmax(240px,.7fr) minmax(0,1.3fr);gap:2rem}.literature-note p{line-height:1.85}@media(max-width:760px){.literature-feature,.literature-reading,.literature-note{grid-template-columns:1fr}.literature-cover{position:static;max-width:420px}.literature-index{grid-template-columns:1fr}.bibliography-card div{grid-template-columns:1fr;gap:.2rem}.literature-actions .btn{width:100%}}
+
+/* Incremental story sections, source bibliography and community recollections. */
+.story-sections section + section{margin-top:1.8rem}
+.story-sections h3,.story-social-echo h3{line-height:1.5}
+.story-sections p,.story-memory p{white-space:pre-line;line-height:1.9}
+.story-route{padding-left:1.5rem;display:grid;gap:.65rem}
+.story-route span{display:block;font-size:.9rem;line-height:1.7}
+.story-memory{margin:1rem 0;padding:1rem 1.2rem;border:1px solid var(--line,#ddd);border-radius:12px;background:var(--paper,#faf8f3)}
+.story-memory h4{margin:0;font-size:1.1rem}.story-memory-role,.story-memory-note{font-size:.88rem}
+.story-memory blockquote{margin:.75rem 0;border-left:3px solid var(--accent,#8b523d);padding-left:1rem}
+.archive-source-records{padding-left:1.3rem;overflow-wrap:anywhere;font-size:.92rem;line-height:1.8}
+.archive-source-records li+li{margin-top:1rem}.archive-source-records p{margin:.25rem 0;font-size:.88rem;line-height:1.7}
+.craft-supplement h4{margin:1.3rem 0 .6rem;font-size:1.15rem}.craft-supplement h5{font-size:1rem;margin:1rem 0 .4rem}
+.place-related-stories,.place-supplement-sources{margin-top:1.5rem;min-width:0}.place-related-stories a{margin:.6rem 0;overflow-wrap:anywhere}
+.story-evidence-layers{padding-left:1.5rem;line-height:1.8}
+@media(max-width:600px){.story-memory{padding:.85rem}.story-sections h3{font-size:1.15rem}.story-route{padding-left:1.3rem}}
