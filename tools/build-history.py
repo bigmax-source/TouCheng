@@ -4,12 +4,12 @@ from datetime import datetime
 import hashlib, json, os, re, shutil
 
 ROOT=Path(__file__).parent
-SITE_VERSION=os.environ.get('TOUCHENG_SITE_VERSION','1.85')
+SITE_VERSION=os.environ.get('TOUCHENG_SITE_VERSION','1.86')
 SITE=ROOT.parent
 SOURCE=SITE/"tools/history-source-v1.5.json"
 COMPAT=SITE/"assets/data/history-data.js"
 OUTDIR=SITE/"assets/data/history"
-UPDATED=os.environ.get('TOUCHENG_UPDATED_AT','2026-08-17')
+UPDATED=os.environ.get('TOUCHENG_UPDATED_AT','2026-10-24')
 
 records=json.loads(SOURCE.read_text(encoding="utf-8"))
 ids=[record['id'] for record in records]
@@ -81,13 +81,15 @@ for r in records:
     sources=[{'name':r.get('source','來源待補'),'url':r.get('sourceUrl',''),'type':source_group(r.get('recordType')),'sourceDate':'','note':''}]
     if r.get('referenceUrl'):
         sources.append({'name':r.get('referenceLabel','延伸參考'),'url':r['referenceUrl'],'type':'延伸參考','sourceDate':'','note':''})
+    sources=r.get('sources') or sources
     sources.extend(r.pop('_extraSources',[]))
+    previous_review=r.get('review') or {}
     r.update({
       'startDate':r.get('date',str(r.get('year',''))), 'endDate':r.get('endDate',''),
-      'locations':found(text,PLACE_TERMS), 'villages':found(text,VILLAGES),
-      'people':found(text,PEOPLE), 'organizations':found(text,ORGS),
-      'primaryCategory':primary, 'tags':tags, 'sources':sources,
-      'review':{'status':r.get('reviewStatus','待查證'),'confidence':confidence(r.get('recordType')),'notes':'','lastUpdated':UPDATED}
+      'locations':r.get('locations',found(text,PLACE_TERMS)), 'villages':r.get('villages',found(text,VILLAGES)),
+      'people':r.get('people',found(text,PEOPLE)), 'organizations':r.get('organizations',found(text,ORGS)),
+      'primaryCategory':r.get('primaryCategory',primary), 'tags':r.get('tags',tags), 'sources':sources,
+      'review':{**{'status':r.get('reviewStatus','待查證'),'confidence':confidence(r.get('recordType')),'notes':''},**previous_review,'lastUpdated':UPDATED}
     })
 
 def norm(s): return re.sub(r'[^0-9A-Za-z\u4e00-\u9fff]','',s or '').lower()

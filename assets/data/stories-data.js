@@ -843,6 +843,12 @@ window.TOUCHENG_STORIES = [
         "id": "toucheng-temples-changing-community",
         "title": "頭城寺廟今昔：信仰空間如何跟著地方一起改變",
         "note": "對讀老街活化與寺廟文化活動。"
+      },
+      {
+        "id": "toucheng-oldstreet-regeneration-2000s",
+        "title": "2000年代頭城老街文化再造：從工作站到修復與傳承",
+        "url": "stories.html#toucheng-oldstreet-regeneration-2000s",
+        "note": "從老街形成延伸到2000年代的文化保存與活化。"
       }
     ],
     "sourceRecords": [
@@ -871,6 +877,17 @@ window.TOUCHENG_STORIES = [
         "name": "蘭陽博物館電子報第121期｜集體記憶與民間信仰─談頭城老街文化資產的保存與活化",
         "author": "陳英豪",
         "url": "https://www.lym.gov.tw/ch/collection/epaper/epaper-detail/Page1760000735013/"
+      },
+      {
+        "name": "《宜蘭縣頭城鎮文化史蹟勘察測繪報告》",
+        "author": "陳登欽（研究主持）",
+        "date": "1992年10月初版",
+        "note": "書內頁5–14；補市街、港口與空間變遷圖。"
+      },
+      {
+        "name": "《頭城老街再造成果專輯》",
+        "date": "出版年代待確認",
+        "note": "書內頁9–12、146–149等；補後來文化再造來源，不重建老街形成故事。"
       }
     ],
     "relatedTopics": [
@@ -1145,6 +1162,12 @@ window.TOUCHENG_STORIES = [
         "date": "2024-11",
         "url": "https://www.lym.gov.tw/ch/collection/epaper/epaper-detail/Page1760000943801/",
         "note": "原書：人與土地的對話-頭城的地理采風；張政亮、莊漢川、康芳銘、林建呈；宜蘭縣頭城鎮公所，2020。 文章頁署名為蘭陽博物館；原書作者另列，不混作逐篇署名。"
+      },
+      {
+        "name": "《宜蘭縣頭城鎮文化史蹟勘察測繪報告》",
+        "author": "陳登欽（研究主持）",
+        "date": "1992年10月初版",
+        "note": "書內頁5–14；市街與交通變遷的調查來源。"
       }
     ],
     "relatedStories": [
@@ -1327,6 +1350,12 @@ window.TOUCHENG_STORIES = [
         "date": "2023-09",
         "url": "https://www.lym.gov.tw/ch/collection/epaper/epaper-detail/Page1760000923432/",
         "note": "原書：人與神共構 頭城的寺廟信仰；陳進傳、楊晉平、陳美暖、游錫財、林雅玲、陳宜伶、黃有卿；出版年未列。"
+      },
+      {
+        "name": "《宜蘭縣頭城鎮文化史蹟勘察測繪報告》",
+        "author": "陳登欽（研究主持）",
+        "date": "1992年10月初版",
+        "note": "書內頁25–30；北門福德祠測繪屬調查時狀態。"
       }
     ],
     "relatedStories": [
@@ -1607,6 +1636,426 @@ window.TOUCHENG_STORIES = [
       {
         "name": "379名師生受困與返鄉時間軸",
         "url": "history.html#event-1999-09-21-toucheng-junior-high-921-graduation-trip"
+      }
+    ]
+  },
+  {
+    "id": "toucheng-oldstreet-regeneration-2000s",
+    "category": "人文與地方",
+    "title": "2000年代頭城老街文化再造：從工作站到修復與傳承",
+    "date": null,
+    "dateLabel": "2000年代文化再造／來源出版年代待確認",
+    "summary": "《頭城老街再造成果專輯》將工作站、解說員與文化志工、社區報、人物訪談、工藝傳承和歷史建築修復放在同一條脈絡中，保存2000年代頭城居民與合作團隊如何重新認識並照顧老街的過程。",
+    "sections": [
+      {
+        "title": "在老街設一個共同工作的地方",
+        "text": "專輯記錄，96、97年度的老街文化活化經營由仰山文教基金會、蘭陽技術學院先後參與，並與頭城文化發展協會合作，在頭城文化館設置工作站。透過定期工作會議，居民、地方團體與計畫團隊討論保存與活化，使老街文化再造有了持續協調的據點。這是專輯所記的計畫脈絡，工作站精確成立日期仍待確認。",
+        "sourceIds": [
+          "toucheng-oldstreet-regeneration-album"
+        ],
+        "pageRefs": [
+          {
+            "pdfPage": 15,
+            "printedPage": 16
+          },
+          {
+            "pdfPage": 186,
+            "printedPage": 190
+          },
+          {
+            "pdfPage": 187,
+            "printedPage": 191
+          }
+        ]
+      },
+      {
+        "title": "把認識地方的方法留在社區",
+        "text": "工作站相關工作包括解說員培訓、文化志工研習、文化行旅地圖與人物訪談。導覽結合課堂、踏查及實務演練；志工研習走入地方工藝與文化現場。社區報《文化頭城》保存地方訊息，專輯記述時已發行20期，這個數字是書中的階段成果。訪談則透過家屬敘述、文字與影像，保存康灩泉等地方人物的記憶。",
+        "sourceIds": [
+          "toucheng-oldstreet-regeneration-album"
+        ],
+        "pageRefs": [
+          {
+            "pdfPage": 17,
+            "printedPage": 18
+          },
+          {
+            "pdfPage": 19,
+            "printedPage": 20
+          },
+          {
+            "pdfPage": 22,
+            "printedPage": 23
+          },
+          {
+            "pdfPage": 24,
+            "printedPage": 25
+          },
+          {
+            "pdfPage": 25,
+            "printedPage": 26
+          }
+        ]
+      },
+      {
+        "title": "讓修復、傳承與節慶彼此連接",
+        "text": "專輯將大身尪修復與仿製、竹骨架與袍服工藝、頭城國中文化傳承班，和李榮春文學館、站前宿舍及街屋修護並置。96年初，頭城文化發展協會、宜蘭社區大學與北門福德祠等合作的創意神龜選美，成為千龜來朝活動的起點之一。文化再造因此也包含居民參與、民俗活動與下一代的學習。",
+        "sourceIds": [
+          "toucheng-oldstreet-regeneration-album"
+        ],
+        "pageRefs": [
+          {
+            "pdfPage": 34,
+            "printedPage": 35
+          },
+          {
+            "pdfPage": 58,
+            "printedPage": 61
+          },
+          {
+            "pdfPage": 81,
+            "printedPage": 84
+          },
+          {
+            "pdfPage": 142,
+            "printedPage": 146
+          },
+          {
+            "pdfPage": 186,
+            "printedPage": 190
+          },
+          {
+            "pdfPage": 187,
+            "printedPage": 191
+          }
+        ]
+      }
+    ],
+    "editorialObservation": {
+      "label": "典藏編輯觀察",
+      "title": "保存一條街，也保存一起做事的方法",
+      "text": "這份成果專輯讓建築、工藝、文學與節慶之間的合作關係變得可見。工作站、志工、訪談與社區報保存的不只是老街的故事，也包括地方居民如何成為保存工作的一部分。"
+    },
+    "tags": [
+      "文化資產保存",
+      "社區參與",
+      "文化志工",
+      "解說員培訓",
+      "社區報",
+      "工藝傳承",
+      "千龜來朝"
+    ],
+    "relatedPeople": [
+      {
+        "id": "dongyue-artifact",
+        "name": "陰陽司大身尪工藝主題",
+        "type": "people-and-perspectives",
+        "url": "people.html#dongyue-artifact",
+        "relationship": "延伸閱讀大身尪工藝；本書七爺、八爺修復與陰陽司須區分。"
+      },
+      {
+        "id": "li-rongchun",
+        "name": "李榮春",
+        "type": "people-and-perspectives",
+        "url": "people.html#li-rongchun",
+        "relationship": "文學生活空間及文學館保存"
+      }
+    ],
+    "relatedPlaces": [
+      {
+        "id": "toucheng-old-street",
+        "name": "頭城老街",
+        "type": "place",
+        "url": "map.html#place-toucheng-old-street",
+        "relationship": "工作站與文化再造主要場域"
+      },
+      {
+        "id": "north-fude-temple",
+        "name": "北門福德祠",
+        "type": "place",
+        "url": "map.html#place-north-fude-temple",
+        "relationship": "創意神龜活動與修復"
+      },
+      {
+        "id": "south-fude-temple",
+        "name": "南門福德祠",
+        "type": "place",
+        "url": "map.html#place-south-fude-temple",
+        "relationship": "老街兩端信仰及文化活動"
+      },
+      {
+        "id": "dongyue-temple",
+        "name": "東嶽廟",
+        "type": "place",
+        "url": "map.html#place-dongyue-temple",
+        "relationship": "七爺、八爺修復與傳承"
+      },
+      {
+        "id": "li-rongchun-museum",
+        "name": "李榮春文學館",
+        "type": "place",
+        "url": "map.html#place-li-rongchun-museum",
+        "relationship": "歷史建築再利用"
+      },
+      {
+        "id": "toucheng-cultural-park",
+        "name": "頭城文創園區",
+        "type": "place",
+        "url": "map.html#place-toucheng-cultural-park",
+        "relationship": "既有站前宿舍群再利用地點"
+      }
+    ],
+    "sources": [
+      {
+        "sourceId": "toucheng-oldstreet-regeneration-album",
+        "name": "《頭城老街再造成果專輯》",
+        "dateLabel": "出版年代待確認",
+        "url": null,
+        "pageRefs": [
+          {
+            "pdfPage": 15,
+            "printedPage": 16
+          },
+          {
+            "pdfPage": 17,
+            "printedPage": 18
+          },
+          {
+            "pdfPage": 19,
+            "printedPage": 20
+          },
+          {
+            "pdfPage": 22,
+            "printedPage": 23
+          },
+          {
+            "pdfPage": 24,
+            "printedPage": 25
+          },
+          {
+            "pdfPage": 25,
+            "printedPage": 26
+          },
+          {
+            "pdfPage": 34,
+            "printedPage": 35
+          },
+          {
+            "pdfPage": 58,
+            "printedPage": 61
+          },
+          {
+            "pdfPage": 81,
+            "printedPage": 84
+          },
+          {
+            "pdfPage": 142,
+            "printedPage": 146
+          },
+          {
+            "pdfPage": 186,
+            "printedPage": 190
+          },
+          {
+            "pdfPage": 187,
+            "printedPage": 191
+          }
+        ]
+      }
+    ],
+    "content": "《頭城老街再造成果專輯》將工作站、解說員與文化志工、社區報、人物訪談、工藝傳承和歷史建築修復放在同一條脈絡中，保存2000年代頭城居民與合作團隊如何重新認識並照顧老街的過程。",
+    "source": "《頭城老街再造成果專輯》，使用者提供掃描PDF；發行單位及出版年代待確認。本典藏局部整理。",
+    "sourceRecords": [
+      {
+        "name": "《頭城老街再造成果專輯》",
+        "date": "出版年代待確認",
+        "note": "來源PDF頁15、17、19、22、24、25、34、58、81、142、186、187；書內頁碼對照存於來源紀錄。"
+      }
+    ],
+    "relatedStories": [
+      {
+        "id": "2002-toucheng-old-street-port-to-market",
+        "title": "從港口到街市：頭城老街的形成",
+        "type": "story",
+        "url": "stories.html#2002-toucheng-old-street-port-to-market",
+        "relationship": "既有故事談街市形成，本篇補2000年代保存與活化行動，不重複其港口史。",
+        "note": "既有故事談街市形成，本篇補2000年代保存與活化行動，不重複其港口史。"
+      },
+      {
+        "id": "toucheng-temples-changing-community",
+        "title": "頭城寺廟今昔：信仰空間如何跟著地方一起改變",
+        "type": "story",
+        "url": "stories.html#toucheng-temples-changing-community",
+        "relationship": "從寺廟的地方關係延伸閱讀神龜活動與文化再造。",
+        "note": "從寺廟的地方關係延伸閱讀神龜活動與文化再造。"
+      },
+      {
+        "id": "toucheng-cultural-preservation-1992",
+        "title": "當頭城開始思考保存：早期文化史蹟調查與再利用構想",
+        "url": "stories.html#toucheng-cultural-preservation-1992",
+        "note": "早期調查、測繪與保存構想的閱讀線索。"
+      }
+    ]
+  },
+  {
+    "id": "toucheng-cultural-preservation-1992",
+    "category": "歷史與記憶",
+    "title": "當頭城開始思考保存：早期文化史蹟調查與再利用構想",
+    "date": "1992-10",
+    "dateLabel": "1992年10月出版；調查起訖待確認",
+    "summary": "1992年出版的文化史蹟勘察測繪報告，逐一記錄老街、寺廟、街屋與農會建築，也提出當時對保存及再利用的想像。它保存的是一個年代如何看待頭城，而非今天的建築現況。",
+    "sections": [
+      {
+        "title": "先把頭城的史蹟畫下來",
+        "text": "陳登欽研究主持的報告，將市街變遷與史蹟分布放在同一張地方圖像中，並對慶元宮、北門福德祠、十三行街屋、源合成、盧纘祥故宅、吳惠仁宅及頭城信用組合、農會等留下平面、立面、剖面與細部紀錄。這些是調查時的建築快照，不能直接當成今日狀態。"
+      },
+      {
+        "title": "從測繪走向保存想像",
+        "text": "報告末章將頭城老街、北門福德祠、十三行和農會建築等列入保存或再利用的討論。它關心的不只有單棟建築，還包括街道、港口、交通路線與居民生活如何維繫地方的歷史感。表中的修護、展示與空間使用皆為當時的構想，不能寫成後來已完成的事。"
+      },
+      {
+        "title": "與後來的老街文化再造相接",
+        "text": "其後《頭城老街再造成果專輯》記錄工作站、志工、導覽、建築修護與工藝傳承。兩份文獻連起早期盤點和後來的實際行動，也提醒我們逐項比對：前一份提出的建議與後一份記載的成果，不一定一一對應。"
+      }
+    ],
+    "content": "1992年出版的勘察測繪報告，保存了頭城早期系統性文化史蹟調查和當時的保存想像；後來的成果專輯則記錄2000年代的修復與文化活化。",
+    "editorialObservation": {
+      "label": "典藏編輯觀察",
+      "title": "把當年的問題意識也保存下來",
+      "text": "測繪圖能讓人重看建築形貌，保存構想則讓人理解當時面對都市發展時的選擇。今天回看，應把提議與已發生的修復分開，才能看見地方保存工作如何逐步形成。"
+    },
+    "tags": [
+      "文化史蹟",
+      "建築測繪",
+      "頭城老街",
+      "保存與再利用",
+      "地方記憶",
+      "1992"
+    ],
+    "relatedPlaces": [
+      {
+        "id": "toucheng-old-street",
+        "name": "頭城老街",
+        "url": "map.html#place-toucheng-old-street"
+      },
+      {
+        "id": "qingyuan-temple",
+        "name": "慶元宮",
+        "url": "map.html#place-qingyuan-temple"
+      },
+      {
+        "id": "north-fude-temple",
+        "name": "北門福德祠",
+        "url": "map.html#place-north-fude-temple"
+      },
+      {
+        "id": "yuan-he-cheng",
+        "name": "源合成街屋",
+        "url": "map.html#place-yuan-he-cheng"
+      },
+      {
+        "id": "lu-residence",
+        "name": "盧宅",
+        "url": "map.html#place-lu-residence"
+      }
+    ],
+    "relatedStories": [
+      {
+        "id": "toucheng-oldstreet-regeneration-2000s",
+        "title": "2000年代頭城老街文化再造：從工作站到修復與傳承",
+        "url": "stories.html#toucheng-oldstreet-regeneration-2000s",
+        "note": "從早期調查延伸閱讀2000年代的修復與文化活化。"
+      }
+    ],
+    "source": "陳登欽研究主持，《宜蘭縣頭城鎮文化史蹟勘察測繪報告》（宜蘭文獻叢刊3，宜蘭縣立文化中心，1992年10月初版）；本典藏局部摘要。調查起訖待確認。",
+    "sourceRecords": [
+      {
+        "name": "《宜蘭縣頭城鎮文化史蹟勘察測繪報告》",
+        "author": "陳登欽（研究主持）",
+        "date": "1992年10月初版",
+        "note": "書內頁5–14、15–70、71–77；保存構想以書內頁71–76為主。未全文轉錄、未公開測繪圖。"
+      }
+    ]
+  },
+  {
+    "id": "south-fude-temple-tree-2026",
+    "category": "生活與日常",
+    "subcategory": "地方記憶",
+    "title": "南門土地公廟旁，那棵一直都在的大樹",
+    "date": "2026-10-23",
+    "dateLabel": "2026年10月23日晚間倒伏；10月24日拍攝現場",
+    "summary": "南門福德祠旁的三角公園幾度改變樣貌，陪伴居民乘涼聊天的大樹卻一直都在。2026年10月23日晚間，它在薔琵颱風期間倒伏，留下這個街角的前後影像與地方記憶。",
+    "content": "南門土地公廟旁的三角公園，從我有印象以來，樣貌至少換過三代，但旁邊這棵大樹一直都在。\n\n它不是什麼著名景點，卻一直是街角的一部分。附近的阿伯會在樹下乘涼、聊天；平常走過和平街，早已習慣抬頭就看到那片樹蔭。\n\n我最近一次替它拍照，是2026年8月3日。照片裡，樹冠仍然茂密，枝幹掛著燈飾，南門福德祠和老街的轉角被它襯得很有生命。\n\n2026年10月23日晚間，薔琵颱風期間，它不敵強風倒下。隔天我再拍照時，枝幹橫在和平街旁，原先熟悉的街角已經變了樣。\n\n少了一棵樹，也少了一個附近居民習慣停下來乘涼、聊天的地方。那些天天都在、因而很少被特別介紹的景物，消失時才讓人發現，原來它們也承載著地方記憶。",
+    "editorialObservation": {
+      "label": "典藏編輯觀察",
+      "title": "地方記憶不一定是古蹟",
+      "text": "這棵樹沒有在本篇被認定為文化資產，卻長年參與附近居民的日常生活。樹下的乘涼、聊天和每天經過的視線，也值得與老街建築一起被記住。"
+    },
+    "author": "PoloNews",
+    "credit": "文字與照片提供：PoloNews",
+    "sourceType": "第一人稱地方記憶／自攝照片",
+    "sourceNote": "10月23日晚間倒伏的時間與薔琵颱風脈絡依PoloNews第一人稱記述；10月24日照片記錄倒伏後現場。未考證樹種、樹齡或種植年代。",
+    "tags": [
+      "南門福德祠",
+      "頭城老街",
+      "和平街",
+      "三角公園",
+      "大樹",
+      "地方記憶",
+      "日常生活",
+      "薔琵颱風",
+      "2026"
+    ],
+    "relatedPlaces": [
+      {
+        "id": "south-fude-temple",
+        "name": "南門福德祠",
+        "type": "place",
+        "url": "map.html#place-south-fude-temple",
+        "relationship": "大樹所在的廟旁街角；沿用既有地圖點"
+      },
+      {
+        "id": "toucheng-old-street",
+        "name": "頭城老街",
+        "type": "place",
+        "url": "map.html#place-toucheng-old-street",
+        "relationship": "和平街與老街交會的地方生活記憶；沿用既有地圖點"
+      }
+    ],
+    "placeMentionsWithoutNewMapPoints": [
+      "和平街",
+      "南門土地公廟旁的三角公園"
+    ],
+    "images": [
+      {
+        "src": "assets/images/stories/2026-08-03-south-fude-tree-before.png",
+        "alt": "2026年8月南門福德祠旁枝葉茂密的大樹",
+        "caption": "2026年8月3日，南門福德祠旁的大樹仍枝葉茂密，枝幹掛著燈飾。 PoloNews 攝影。"
+      },
+      {
+        "src": "assets/images/stories/2026-10-24-south-fude-tree-after.png",
+        "alt": "倒伏後的南門福德祠旁大樹",
+        "caption": "2026年10月24日拍攝：前一晚薔琵颱風期間，大樹倒伏於和平街旁。 PoloNews 攝影。"
+      }
+    ],
+    "imageDisplay": "前／後對照：2026/08/03完整樹冠 → 2026/10/24倒伏現場",
+    "relatedTimelineEventId": "2026-10-23-south-fude-temple-tree-fell",
+    "image": "assets/images/stories/2026-08-03-south-fude-tree-before.png",
+    "imageAlt": "2026年8月南門福德祠旁枝葉茂密的大樹",
+    "imageCaption": "2026年8月3日，南門福德祠旁的大樹仍枝葉茂密，枝幹掛著燈飾。 PoloNews 攝影。",
+    "source": "PoloNews第一人稱地方記憶與自攝照片；倒伏時間依提供者記述，2026年10月24日照片記錄事後現場。",
+    "sourceRecords": [
+      {
+        "name": "PoloNews第一人稱地方記憶與自攝照片",
+        "author": "PoloNews",
+        "date": "2026-08-03、2026-10-24",
+        "note": "2026-10-23晚間為事件日期；另兩日是前後照片日期，不另建時間軸事件。"
+      }
+    ],
+    "relatedTopics": [
+      {
+        "name": "2026年10月23日南門福德祠旁大樹倒伏",
+        "url": "history.html#event-2026-10-23-south-fude-temple-tree-fell"
       }
     ]
   }

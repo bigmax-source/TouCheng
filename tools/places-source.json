@@ -7,9 +7,40 @@
     "lng": 121.82416,
     "address": "宜蘭縣頭城鎮和平街",
     "summary": "古稱頭圍街，南北由兩座福德祠界定，沿線保存寺廟、街屋、港埠與地方文學記憶。",
-    "matchTerms": ["頭城老街", "和平街"],
+    "matchTerms": [
+      "頭城老街",
+      "和平街"
+    ],
     "historyQuery": "頭城老街",
-    "sourceUrl": "https://tcmb.culture.tw/zh-tw/detail?id=282807&indexCode=Culture_Place"
+    "sourceUrl": "https://tcmb.culture.tw/zh-tw/detail?id=282807&indexCode=Culture_Place",
+    "sourceRecords": [
+      {
+        "name": "《宜蘭縣頭城鎮文化史蹟勘察測繪報告》",
+        "author": "陳登欽（研究主持）",
+        "date": "1992年10月初版",
+        "note": "書內頁5–14、71–76：市街發展與保存構想。"
+      },
+      {
+        "name": "《頭城老街再造成果專輯》",
+        "date": "出版年代待確認",
+        "note": "工作站、導覽與文化活化；參照2000年代成果，不推定出版年。"
+      }
+    ],
+    "sourceContext": "補充資料記錄的是來源成書或調查時的狀態，不代表2026年現況。",
+    "relatedStories": [
+      {
+        "id": "toucheng-oldstreet-regeneration-2000s",
+        "title": "2000年代頭城老街文化再造：從工作站到修復與傳承"
+      },
+      {
+        "id": "toucheng-cultural-preservation-1992",
+        "title": "當頭城開始思考保存：早期文化史蹟調查與再利用構想"
+      },
+      {
+        "id": "south-fude-temple-tree-2026",
+        "title": "南門土地公廟旁，那棵一直都在的大樹"
+      }
+    ]
   },
   {
     "id": "wushih-harbor",
@@ -19,9 +50,21 @@
     "lng": 121.8358846,
     "address": "宜蘭縣頭城鎮港口里烏石港",
     "summary": "曾是蘭陽平原的重要官方港口，歷經淤塞、重建與觀光轉型，至今仍連結漁業、賞鯨與龜山島航線。",
-    "matchTerms": ["烏石港", "烏石漁港"],
+    "matchTerms": [
+      "烏石港",
+      "烏石漁港"
+    ],
     "historyQuery": "烏石港",
-    "sourceUrl": "https://www.lym.gov.tw/"
+    "sourceUrl": "https://www.lym.gov.tw/",
+    "sourceRecords": [
+      {
+        "name": "《宜蘭縣頭城鎮文化史蹟勘察測繪報告》",
+        "author": "陳登欽（研究主持）",
+        "date": "1992年10月初版",
+        "note": "書內頁5–14：港口與交通變遷；報告引用史料須保留來源層級。"
+      }
+    ],
+    "sourceContext": "補充資料記錄的是來源成書或調查時的狀態，不代表2026年現況。"
   },
   {
     "id": "lanyang-museum",
@@ -31,7 +74,10 @@
     "lng": 121.8326766,
     "address": "宜蘭縣頭城鎮青雲路三段750號",
     "summary": "座落烏石港濕地旁，以單面山意象連結蘭陽的自然、歷史與生活，是地方知識的重要公共入口。",
-    "matchTerms": ["蘭陽博物館", "蘭博"],
+    "matchTerms": [
+      "蘭陽博物館",
+      "蘭博"
+    ],
     "historyQuery": "蘭陽博物館",
     "sourceUrl": "https://www.lym.gov.tw/"
   },
@@ -43,9 +89,26 @@
     "lng": 121.8241042,
     "address": "宜蘭縣頭城鎮和平街105號",
     "summary": "創建於1796年的媽祖信仰中心，見證頭圍港與老街的發展，現為宜蘭縣定古蹟。",
-    "matchTerms": ["慶元宮"],
+    "matchTerms": [
+      "慶元宮"
+    ],
     "historyQuery": "慶元宮",
-    "sourceUrl": "https://taiwangods.moi.gov.tw/html/cultural/3_0011.aspx?i=248"
+    "sourceUrl": "https://taiwangods.moi.gov.tw/html/cultural/3_0011.aspx?i=248",
+    "sourceRecords": [
+      {
+        "name": "《宜蘭縣頭城鎮文化史蹟勘察測繪報告》",
+        "author": "陳登欽（研究主持）",
+        "date": "1992年10月初版",
+        "note": "書內頁15–24：調查當時的平面、剖面、立面與木石雕。"
+      }
+    ],
+    "sourceContext": "補充資料記錄的是來源成書或調查時的狀態，不代表2026年現況。",
+    "relatedStories": [
+      {
+        "id": "toucheng-cultural-preservation-1992",
+        "title": "當頭城開始思考保存：早期文化史蹟調查與再利用構想"
+      }
+    ]
   },
   {
     "id": "south-fude-temple",
@@ -55,9 +118,18 @@
     "lng": 121.823004,
     "address": "宜蘭縣頭城鎮和平街44號旁",
     "summary": "與北門福德祠共同守住和平街南北兩端，土地公、土地婆與財神龜構成老街鮮明的信仰記憶。",
-    "matchTerms": ["南門福德祠", "南北門福德祠"],
+    "matchTerms": [
+      "南門福德祠",
+      "南北門福德祠"
+    ],
     "historyQuery": "南門福德祠",
-    "sourceUrl": "https://tcmb.culture.tw/zh-tw/detail?id=284808&indexCode=Culture_Place"
+    "sourceUrl": "https://tcmb.culture.tw/zh-tw/detail?id=284808&indexCode=Culture_Place",
+    "relatedStories": [
+      {
+        "id": "south-fude-temple-tree-2026",
+        "title": "南門土地公廟旁，那棵一直都在的大樹"
+      }
+    ]
   },
   {
     "id": "north-fude-temple",
@@ -67,9 +139,36 @@
     "lng": 121.825196,
     "address": "宜蘭縣頭城鎮和平街154號",
     "summary": "和平街北端的大型土地公廟，建築與寄附碑保存地方商業、聚落及共同修建的歷史。",
-    "matchTerms": ["北門福德祠", "南北門福德祠"],
+    "matchTerms": [
+      "北門福德祠",
+      "南北門福德祠"
+    ],
     "historyQuery": "北門福德祠",
-    "sourceUrl": "https://tcmb.culture.tw/zh-tw/detail?id=604575&indexCode=Culture_Place"
+    "sourceUrl": "https://tcmb.culture.tw/zh-tw/detail?id=604575&indexCode=Culture_Place",
+    "sourceRecords": [
+      {
+        "name": "《宜蘭縣頭城鎮文化史蹟勘察測繪報告》",
+        "author": "陳登欽（研究主持）",
+        "date": "1992年10月初版",
+        "note": "書內頁25–30、74：測繪、構件及當時保存構想。"
+      },
+      {
+        "name": "《頭城老街再造成果專輯》",
+        "date": "出版年代待確認",
+        "note": "修復規劃與神龜活動的後期來源。"
+      }
+    ],
+    "sourceContext": "補充資料記錄的是來源成書或調查時的狀態，不代表2026年現況。",
+    "relatedStories": [
+      {
+        "id": "toucheng-oldstreet-regeneration-2000s",
+        "title": "2000年代頭城老街文化再造：從工作站到修復與傳承"
+      },
+      {
+        "id": "toucheng-cultural-preservation-1992",
+        "title": "當頭城開始思考保存：早期文化史蹟調查與再利用構想"
+      }
+    ]
   },
   {
     "id": "dongyue-temple",
@@ -79,7 +178,12 @@
     "lng": 121.823807,
     "address": "宜蘭縣頭城鎮纘祥路133號",
     "summary": "主祀東嶽大帝，承義社與昭義社大神尪、遶境及隔年輪辦的大拜拜，構成頭城重要宗教文化。",
-    "matchTerms": ["東嶽廟", "陰陽司大身尪", "承義社", "昭義社"],
+    "matchTerms": [
+      "東嶽廟",
+      "陰陽司大身尪",
+      "承義社",
+      "昭義社"
+    ],
     "historyQuery": "東嶽廟",
     "sourceUrl": "https://tcmb.culture.tw/zh-tw/detail?id=282949&indexCode=Culture_Place"
   },
@@ -91,7 +195,10 @@
     "lng": 121.82187,
     "address": "宜蘭縣頭城鎮吉祥路1號",
     "summary": "主祀城隍老爺，與開成寺共構地方信仰空間，並和東嶽廟形成隔年輪辦遶境的祭典節奏。",
-    "matchTerms": ["城隍廟", "開成寺"],
+    "matchTerms": [
+      "城隍廟",
+      "開成寺"
+    ],
     "historyQuery": "城隍廟",
     "sourceUrl": "https://tcmb.culture.tw/zh-tw/detail?id=282404&indexCode=Culture_Place"
   },
@@ -103,7 +210,10 @@
     "lng": 121.822028,
     "address": "宜蘭縣頭城鎮開蘭東路1號",
     "summary": "1960年落成的圓頂天主堂，以銅皮大金瓜屋頂成為頭城市街具辨識度的現代宗教建築。",
-    "matchTerms": ["聖伯多祿", "頭城天主堂"],
+    "matchTerms": [
+      "聖伯多祿",
+      "頭城天主堂"
+    ],
     "historyQuery": "聖伯多祿",
     "sourceUrl": "https://taipei.catholic.org.tw/chi/deanery/69/"
   },
@@ -115,7 +225,11 @@
     "lng": 121.8247479,
     "address": "宜蘭縣頭城鎮開蘭舊路4號",
     "summary": "由日式校長宿舍修復再利用，保存李榮春作品、手稿與地方文學記憶，也串起和平街的文學地景。",
-    "matchTerms": ["李榮春文學館", "李榮春百歲", "李榮春文學"],
+    "matchTerms": [
+      "李榮春文學館",
+      "李榮春百歲",
+      "李榮春文學"
+    ],
     "historyQuery": "李榮春",
     "peopleUrl": "people.html#li-rongchun",
     "sourceUrl": "https://tcmb.culture.tw/zh-tw/detail?id=284807&indexCode=Culture_Place"
@@ -128,10 +242,33 @@
     "lng": 121.823439,
     "address": "宜蘭縣頭城鎮和平街57號",
     "summary": "頭城老街南段具代表性的連棟街屋，保存商業空間、家族生活與三位阿媽的地方記憶。",
-    "matchTerms": ["源合成", "和平街57號"],
+    "matchTerms": [
+      "源合成",
+      "和平街57號"
+    ],
     "historyQuery": "源合成",
     "peopleUrl": "people.html#yuan-he-cheng",
-    "sourceUrl": "https://tcmb.culture.tw/zh-tw/detail?id=282807&indexCode=Culture_Place"
+    "sourceUrl": "https://tcmb.culture.tw/zh-tw/detail?id=282807&indexCode=Culture_Place",
+    "sourceRecords": [
+      {
+        "name": "《宜蘭縣頭城鎮文化史蹟勘察測繪報告》",
+        "author": "陳登欽（研究主持）",
+        "date": "1992年10月初版",
+        "note": "書內頁37–44、76：街屋測繪與調查時保存狀態。"
+      },
+      {
+        "name": "《頭城老街再造成果專輯》",
+        "date": "出版年代待確認",
+        "note": "街屋立面修護的後期來源。"
+      }
+    ],
+    "sourceContext": "補充資料記錄的是來源成書或調查時的狀態，不代表2026年現況。",
+    "relatedStories": [
+      {
+        "id": "toucheng-cultural-preservation-1992",
+        "title": "當頭城開始思考保存：早期文化史蹟調查與再利用構想"
+      }
+    ]
   },
   {
     "id": "lu-residence",
@@ -141,9 +278,28 @@
     "lng": 121.82491,
     "address": "宜蘭縣頭城鎮和平街139號",
     "summary": "1928年完成的和洋混合式宅第，是宜蘭首任民選縣長盧纘祥故宅，也見證頭城近代地方政治與家族史。",
-    "matchTerms": ["盧宅", "盧纘祥故宅", "盧纘祥"],
+    "matchTerms": [
+      "盧宅",
+      "盧纘祥故宅",
+      "盧纘祥"
+    ],
     "historyQuery": "盧宅",
-    "sourceUrl": "https://nchdb.boch.gov.tw/city/ILN/assets/overview/monument/20011218000001"
+    "sourceUrl": "https://nchdb.boch.gov.tw/city/ILN/assets/overview/monument/20011218000001",
+    "sourceRecords": [
+      {
+        "name": "《宜蘭縣頭城鎮文化史蹟勘察測繪報告》",
+        "author": "陳登欽（研究主持）",
+        "date": "1992年10月初版",
+        "note": "書內頁45–48：報告記載故宅，明載未能實地測繪；不得標成完成測繪。"
+      }
+    ],
+    "sourceContext": "補充資料記錄的是來源成書或調查時的狀態，不代表2026年現況。",
+    "relatedStories": [
+      {
+        "id": "toucheng-cultural-preservation-1992",
+        "title": "當頭城開始思考保存：早期文化史蹟調查與再利用構想"
+      }
+    ]
   },
   {
     "id": "shiyun-lake",
@@ -153,7 +309,11 @@
     "lng": 121.8251851,
     "address": "宜蘭縣頭城鎮和平街139號盧宅前",
     "summary": "又稱盧纘祥故宅前池塘，與頭圍港遺址、盧宅及長期保存行動相連，是居民參與文化資產治理的重要現場。",
-    "matchTerms": ["史雲湖", "盧纘祥故宅前池塘", "頭圍港遺址"],
+    "matchTerms": [
+      "史雲湖",
+      "盧纘祥故宅前池塘",
+      "頭圍港遺址"
+    ],
     "historyQuery": "史雲湖",
     "sourceUrl": "https://nchdb.boch.gov.tw/city/ILN/assets/overview/monument/20100402000001"
   },
@@ -165,9 +325,21 @@
     "lng": 121.8224972,
     "address": "宜蘭縣頭城鎮站舍巷1號",
     "summary": "由臺鐵舊站長與員工宿舍修復再利用，近年也成為地方創生、公共工程與文化資產討論的現場。",
-    "matchTerms": ["頭城文創園區", "頭城文化園區", "台鐵頭城車站舊站長宿舍"],
+    "matchTerms": [
+      "頭城文創園區",
+      "頭城文化園區",
+      "台鐵頭城車站舊站長宿舍"
+    ],
     "historyQuery": "頭城文創園區",
-    "sourceUrl": "https://tcmb.culture.tw/zh-tw/detail?id=282926&indexCode=Culture_Place"
+    "sourceUrl": "https://tcmb.culture.tw/zh-tw/detail?id=282926&indexCode=Culture_Place",
+    "sourceRecords": [
+      {
+        "name": "《頭城老街再造成果專輯》",
+        "date": "出版年代待確認",
+        "note": "站前宿舍群修復再利用的後期來源。"
+      }
+    ],
+    "sourceContext": "補充資料記錄的是來源成書或調查時的狀態，不代表2026年現況。"
   },
   {
     "id": "jiangjun-temple",
@@ -177,7 +349,9 @@
     "lng": 121.8202972,
     "address": "宜蘭縣頭城鎮新興路新建里326號",
     "summary": "主祀將軍爺，地方記錄可追溯至清代，後於新建里重建，是頭城少見且具地方性的將軍信仰。",
-    "matchTerms": ["將軍廟"],
+    "matchTerms": [
+      "將軍廟"
+    ],
     "historyQuery": "將軍廟",
     "sourceUrl": "https://www.g337918.com.tw/%E6%96%B0%E5%BB%BA%E9%87%8C%E5%B0%87%E8%BB%8D%E5%BB%9F/"
   },
@@ -189,7 +363,11 @@
     "lng": 121.8224749,
     "address": "宜蘭縣頭城鎮纘祥路59號",
     "summary": "宜蘭線上的重要車站，鐵路通車後改變頭城對外交通，也與車站宿舍及文創園區形成近代地景。",
-    "matchTerms": ["頭城車站", "頭城火車站", "頭城驛"],
+    "matchTerms": [
+      "頭城車站",
+      "頭城火車站",
+      "頭城驛"
+    ],
     "historyQuery": "頭城車站",
     "sourceUrl": "https://www.railway.gov.tw/tra-tip-web/tip/tip00H/tipH41/viewStaInfo/7240"
   },
@@ -201,7 +379,11 @@
     "lng": 121.938778,
     "address": "宜蘭縣頭城鎮石城里",
     "summary": "1924年通車、連接福隆與石城的鐵路隧道，石城端題有「白雲飛處」，現轉化為自行車與歷史地景。",
-    "matchTerms": ["草嶺隧道", "舊草嶺隧道", "白雲飛處"],
+    "matchTerms": [
+      "草嶺隧道",
+      "舊草嶺隧道",
+      "白雲飛處"
+    ],
     "historyQuery": "草嶺隧道",
     "sourceUrl": "https://tcmb.culture.tw/zh-tw/detail?id=512779&indexCode=Culture_Place"
   },
@@ -213,7 +395,11 @@
     "lng": 121.95015,
     "address": "宜蘭縣頭城鎮龜山里",
     "summary": "蘭陽平原東方的火山島，曾有聚落、漁港與軍事管制，也長期作為頭城與宜蘭的重要精神地景。",
-    "matchTerms": ["龜山島", "龜山嶼", "龜島"],
+    "matchTerms": [
+      "龜山島",
+      "龜山嶼",
+      "龜島"
+    ],
     "historyQuery": "龜山島",
     "peopleUrl": "people.html#guishan-symbol",
     "sourceUrl": "https://www.taiwan.net.tw/m1.aspx?id=C100_164&sNo=0001106"
@@ -226,7 +412,10 @@
     "lng": 121.8312457,
     "address": "宜蘭縣頭城鎮大坑里",
     "summary": "河海環繞的傳統聚落，名稱與牽罟漁業相關；水運、漁撈、農耕與信仰共同塑造地方生活。",
-    "matchTerms": ["大坑罟", "大坑里"],
+    "matchTerms": [
+      "大坑罟",
+      "大坑里"
+    ],
     "historyQuery": "大坑罟",
     "peopleUrl": "people.html#dakenggu-culture",
     "sourceUrl": "https://tcmb.culture.tw/zh-tw/detail?id=282835&indexCode=Culture_Place"
@@ -239,7 +428,14 @@
     "lng": 121.8275,
     "address": "宜蘭縣頭城鎮開蘭路282號",
     "summary": "前身為1898年設立的宜蘭國語傳習所頭圍分教場，同年改制頭圍公學校；創設過程連結殖民教育、地方家庭與百年校園記憶。",
-    "matchTerms": ["頭城國小", "頭城國民小學", "頭圍分教場", "頭圍公學校", "多賀淳吉", "村岡賤夫"],
+    "matchTerms": [
+      "頭城國小",
+      "頭城國民小學",
+      "頭圍分教場",
+      "頭圍公學校",
+      "多賀淳吉",
+      "村岡賤夫"
+    ],
     "historyQuery": "頭圍分教場",
     "peopleUrl": "people.html#toucheng-school-founding",
     "sourceUrl": "https://www.tces.ilc.edu.tw/2012/08/27/%E9%A0%AD%E5%9F%8E%E5%9C%8B%E5%B0%8F%E6%B2%BF%E9%9D%A9/"
@@ -252,7 +448,12 @@
     "lng": 121.8390854,
     "address": "宜蘭縣頭城鎮烏石港路（外澳堤防道）",
     "summary": "烏石港整建後，沿岸漂沙在港區北側逐漸累積；衝浪人口與店家隨後聚集，形成頭城具代表性的海洋休閒產業地景。",
-    "matchTerms": ["外澳衝浪街", "外澳沙灘", "外澳", "衝浪"],
+    "matchTerms": [
+      "外澳衝浪街",
+      "外澳沙灘",
+      "外澳",
+      "衝浪"
+    ],
     "historyQuery": "外澳衝浪",
     "peopleUrl": "people.html#surfing-toucheng",
     "sourceUrl": "https://tcmb.culture.tw/zh-tw/detail?id=282910&indexCode=Culture_Place"
@@ -265,7 +466,10 @@
     "lng": 121.840328,
     "address": "宜蘭縣頭城鎮港口路60-3號",
     "summary": "位於烏石港與外澳之間，居民以牽罟、漁業、農事與食農體驗延續濱海聚落的生活知識。",
-    "matchTerms": ["港口社區", "港口里"],
+    "matchTerms": [
+      "港口社區",
+      "港口里"
+    ],
     "historyQuery": "港口社區",
     "sourceUrl": "https://danlantrail.necoast-nsa.gov.tw/Stores-Content.aspx?a=3009&cat=&fromCnt=1&l=1&listid=2869"
   },
@@ -277,7 +481,12 @@
     "lng": 121.826075,
     "address": "宜蘭縣頭城鎮武營里武營路東側與開蘭路279巷交叉處公園",
     "summary": "1936年建立的石碑，見證日本統治初期頭城地區的抗日衝突、殖民紀念及戰後重新保存的過程，2017年指定為宜蘭縣一般古物。",
-    "matchTerms": ["頭城武營忠魂碑", "忠魂碑", "頭圍武營", "武營火葬"],
+    "matchTerms": [
+      "頭城武營忠魂碑",
+      "忠魂碑",
+      "頭圍武營",
+      "武營火葬"
+    ],
     "historyQuery": "忠魂碑",
     "sourceUrl": "https://tcmb.culture.tw/zh-tw/detail?id=20181105000003&indexCode=BOCH_CountryCulture_61"
   },
@@ -290,7 +499,9 @@
     "address": "宜蘭縣頭城鎮開蘭路90號",
     "phone": "0930-698-569",
     "summary": "開蘭路上的鹽酥雞與炸物店。店家資訊可能變動，前往前請再次確認。",
-    "matchTerms": ["台灣第一家鹽酥雞"],
+    "matchTerms": [
+      "台灣第一家鹽酥雞"
+    ],
     "historyQuery": "台灣第一家鹽酥雞",
     "sourceUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E7%81%A3%E7%AC%AC%E4%B8%80%E5%AE%B6%E9%B9%BD%E9%85%A5%E9%9B%9E+%E9%A0%AD%E5%9F%8E"
   },
@@ -303,7 +514,9 @@
     "address": "宜蘭縣頭城鎮民鋒路1-3號",
     "phone": "03-977-8130",
     "summary": "頭城車站附近的鹽酥雞與炸物老店，與開蘭路的「台灣第一家鹽酥雞」為不同據點。",
-    "matchTerms": ["頭城第一家鹽酥雞"],
+    "matchTerms": [
+      "頭城第一家鹽酥雞"
+    ],
     "historyQuery": "頭城第一家鹽酥雞",
     "sourceUrl": "https://www.google.com/maps/search/?api=1&query=%E9%A0%AD%E5%9F%8E%E7%AC%AC%E4%B8%80%E5%AE%B6%E9%B9%BD%E9%85%A5%E9%9B%9E"
   },
@@ -316,7 +529,9 @@
     "address": "宜蘭縣頭城鎮開蘭路177號",
     "phone": "0979-380-730",
     "summary": "開蘭路上的雞排與炸物店，保存頭城地方飲食店家的日常位置。",
-    "matchTerms": ["富美香雞排"],
+    "matchTerms": [
+      "富美香雞排"
+    ],
     "historyQuery": "富美香雞排",
     "sourceUrl": "https://www.google.com/maps/search/?api=1&query=%E5%AF%8C%E7%BE%8E%E9%A6%99%E9%9B%9E%E6%8E%92+%E9%A0%AD%E5%9F%8E"
   },
@@ -329,7 +544,9 @@
     "address": "宜蘭縣頭城鎮城北里開蘭路179號",
     "phone": "03-977-9822",
     "summary": "開蘭路上的香雞排與炸物店；地址與電話由地方提供者校正確認。",
-    "matchTerms": ["E世代香雞排"],
+    "matchTerms": [
+      "E世代香雞排"
+    ],
     "historyQuery": "E世代香雞排",
     "sourceUrl": "https://www.google.com/maps/search/?api=1&query=E%E4%B8%96%E4%BB%A3%E9%A6%99%E9%9B%9E%E6%8E%92+%E9%A0%AD%E5%9F%8E"
   },
@@ -342,7 +559,9 @@
     "address": "宜蘭縣頭城鎮開蘭路91號",
     "phone": "03-977-7578",
     "summary": "開蘭路上的雞排、炸物與飲品店。",
-    "matchTerms": ["布丁雞排"],
+    "matchTerms": [
+      "布丁雞排"
+    ],
     "historyQuery": "布丁雞排",
     "sourceUrl": "https://www.facebook.com/pudding039777578/"
   },
@@ -355,7 +574,10 @@
     "address": "宜蘭縣頭城鎮民鋒路6-2號",
     "phone": "03-977-0313",
     "summary": "頭城車站前的炸雞與炸物店。",
-    "matchTerms": ["台妹炸雞翅", "頭城站前店"],
+    "matchTerms": [
+      "台妹炸雞翅",
+      "頭城站前店"
+    ],
     "historyQuery": "台妹炸雞翅",
     "sourceUrl": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E5%A6%B9%E7%82%B8%E9%9B%9E%E7%BF%85+%E9%A0%AD%E5%9F%8E"
   },
@@ -368,7 +590,10 @@
     "address": "宜蘭縣頭城鎮開蘭路85-1號",
     "phone": "03-977-5007",
     "summary": "開蘭路上的雞排與炸物店。",
-    "matchTerms": ["潮麻吉", "頭城開蘭店"],
+    "matchTerms": [
+      "潮麻吉",
+      "頭城開蘭店"
+    ],
     "historyQuery": "潮麻吉",
     "sourceUrl": "https://www.facebook.com/order039775007/"
   },
@@ -381,7 +606,9 @@
     "address": "宜蘭縣頭城鎮民鋒路78-4號",
     "phone": "0921-823-477",
     "summary": "民鋒路上的碳烤與炸物店，與和平街的珍珍燒烤店分別建檔。",
-    "matchTerms": ["珍湘碳烤"],
+    "matchTerms": [
+      "珍湘碳烤"
+    ],
     "historyQuery": "珍湘碳烤",
     "sourceUrl": "https://www.google.com/maps/search/?api=1&query=%E7%8F%8D%E6%B9%98%E7%A2%B3%E7%83%A4+%E9%A0%AD%E5%9F%8E"
   },
@@ -394,7 +621,9 @@
     "address": "宜蘭縣頭城鎮復興路59-3號",
     "phone": "0926-377-880",
     "summary": "復興路上的串燒與烤物店。",
-    "matchTerms": ["串燒寶貝"],
+    "matchTerms": [
+      "串燒寶貝"
+    ],
     "historyQuery": "串燒寶貝",
     "sourceUrl": "https://www.google.com/maps/search/?api=1&query=%E4%B8%B2%E7%87%92%E5%AF%B6%E8%B2%9D+%E9%A0%AD%E5%9F%8E"
   },
@@ -407,7 +636,9 @@
     "address": "宜蘭縣頭城鎮協天路842號",
     "phone": "0928-463-754",
     "summary": "協天路上的炭烤與串燒店。",
-    "matchTerms": ["羽鹿炭烤"],
+    "matchTerms": [
+      "羽鹿炭烤"
+    ],
     "historyQuery": "羽鹿炭烤",
     "sourceUrl": "https://www.google.com/maps/search/?api=1&query=%E7%BE%BD%E9%B9%BF%E7%82%AD%E7%83%A4+%E9%A0%AD%E5%9F%8E"
   },
@@ -420,7 +651,9 @@
     "address": "宜蘭縣頭城鎮和平街131號",
     "phone": "0918-964-248",
     "summary": "和平街上的燒烤店，與民鋒路的珍湘碳烤分別建檔。",
-    "matchTerms": ["珍珍燒烤店"],
+    "matchTerms": [
+      "珍珍燒烤店"
+    ],
     "historyQuery": "珍珍燒烤店",
     "sourceUrl": "https://www.google.com/maps/search/?api=1&query=%E7%8F%8D%E7%8F%8D%E7%87%92%E7%83%A4%E5%BA%97+%E9%A0%AD%E5%9F%8E"
   }
